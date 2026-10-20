@@ -189,6 +189,7 @@ export const areas: Area[] = [
         nombre: "Tomás Cot",
         cargo: "Subsecretario",
         bio: "Estudiante avanzado en la Licenciatura de Ciencia Política de la UBA, actualmente desempeña el cargo de subsecretario de RR.HH en Panorama Universal. Cuenta con experiencia en territorio en organizaciones no gubernamentales, proyectos sociales, selección y coordinación de voluntarios.",
+        foto: "/equipo/tomas-cot.jpg",
         linkedin: "https://www.linkedin.com/in/tomas-cot/",
         instagram: "tomascot_",
       },
