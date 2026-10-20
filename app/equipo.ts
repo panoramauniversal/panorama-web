@@ -125,6 +125,7 @@ export const areas: Area[] = [
       {
         nombre: "Lucía Castillo Jerez",
         cargo: "Secretaria de Proyectos",
+        foto: "/equipo/lucia-castillo-jerez.jpg",
         bio: "Licenciada en Relaciones Internacionales por la Universidad Católica de Córdoba, con experiencia en coordinación institucional, análisis estratégico y desarrollo de proyectos vinculados a sostenibilidad, impacto social y cooperación internacional. Se desempeña como Secretaria de Proyectos en Panorama Universal, Secretaria General en NSL Foundation y redactora en United Explanations. Actualmente cursa una diplomatura en Consultoría y Gestión Ambiental Público-Privada.",
         linkedin: "https://www.linkedin.com/in/lucia-castillo-jerez/",
         instagram: "pupicastilloo_",
