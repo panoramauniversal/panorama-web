@@ -149,6 +149,7 @@ export const areas: Area[] = [
       {
         nombre: "Martina Yannone",
         cargo: "Secretaria",
+        foto: "/equipo/martina-yannone.jpg",
         bio: "Licenciada en Relaciones Internacionales por la Universidad Nacional de San Martín y Diplomada en Gestión Parlamentaria y Políticas Públicas por el Instituto de Capacitación Parlamentaria (ICaP) de la Honorable Cámara de Diputados de la Nación Argentina. Se especializa en Cooperación Internacional al Desarrollo y actualmente investiga las políticas impulsadas por la Unión Europea en esta materia. Cuenta con experiencia en la formulación, implementación y monitoreo de proyectos de cooperación internacional en organizaciones de la sociedad civil argentinas, articulando con diversos actores públicos y privados, tanto a nivel local como internacional, con el objetivo de promover el acceso a derechos, la reducción de las desigualdades, el fortalecimiento de las instituciones democráticas y el desarrollo sostenible. Además, desde 2025 integra el equipo docente de la cátedra de Cooperación Internacional de la Licenciatura en Relaciones Internacionales de la Universidad Nacional de San Martín como docente adscripta.",
         linkedin: "https://ar.linkedin.com/in/martinayannone",
         instagram: "martuyannone",
