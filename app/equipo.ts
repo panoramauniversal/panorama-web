@@ -157,7 +157,8 @@ export const areas: Area[] = [
       {
         nombre: "María Eugenia Silva",
         cargo: "Subsecretaria",
-        bio: "Estudiante avanzada de Relaciones Internacionales en la Pontificia Universidad Católica Argentina (UCA). Actualmente se desempeña como Investment analyst en PromArgentina. A su vez, cuenta con experiencia en el ámbito parlamentario. Es voluntaria de la ONG Agenda Antártica y ha escrito numerosas notas en distintos diarios y portales académicos.",
+        foto: "/equipo/maria-eugenia-silva.jpg",
+        bio: "Licenciada en Relaciones Internacionales por la Pontificia Universidad Católica Argentina (UCA). Actualmente se desempeña como Investment analyst en PromArgentina. A su vez, cuenta con experiencia en el ámbito parlamentario. Es voluntaria de la ONG Agenda Antártica y ha escrito numerosas notas en distintos diarios y portales académicos.",
         linkedin: "https://www.linkedin.com/in/maria-eugenia-silva-a50385276/",
         instagram: "eugee.silvaa",
       },
