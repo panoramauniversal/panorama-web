@@ -96,7 +96,7 @@ export const areas: Area[] = [
         linkedin: "https://www.linkedin.com/in/agostinagranerovocos/",
         instagram: "agosgranero22",
       },
-      { nombre: "Joaquín Campoy", cargo: "Subsecretario" },
+      { nombre: "Joaquín Campoy", cargo: "Subsecretario", foto: "/equipo/joaquin-campoy.jpg" },
     ],
   },
   {
