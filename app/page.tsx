@@ -10,6 +10,7 @@ import {
   principios,
   queHacemos,
   quienesSomos,
+  redes,
   secretarias,
   sumate,
   vision,
@@ -248,14 +249,19 @@ function QueHacemos() {
           <li className="flex flex-col justify-center bg-oro p-7 text-tierra">
             <h3 className="text-xl font-semibold">Seguinos</h3>
             <p className="mt-2">Enterate de cada nueva publicación y actividad.</p>
-            <a
-              href={links.linkedin}
-              target="_blank"
-              rel="noopener noreferrer"
-              className="mt-4 w-fit rounded-full bg-tierra px-5 py-2 text-sm font-semibold text-crema transition hover:bg-crema hover:text-tierra"
-            >
-              LinkedIn →
-            </a>
+            <div className="mt-4 flex flex-wrap gap-2">
+              {redes.map((r) => (
+                <a
+                  key={r.nombre}
+                  href={r.url}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="rounded-full bg-tierra px-4 py-2 text-sm font-semibold text-crema transition hover:bg-crema hover:text-tierra"
+                >
+                  {r.nombre}
+                </a>
+              ))}
+            </div>
           </li>
         </ol>
       </div>
@@ -344,9 +350,11 @@ function Footer() {
           </span>
         </div>
         <div className="flex items-center gap-6">
-          <a href={links.linkedin} target="_blank" rel="noopener noreferrer" className="hover:text-oro">
-            LinkedIn
-          </a>
+          {redes.map((r) => (
+            <a key={r.nombre} href={r.url} target="_blank" rel="noopener noreferrer" className="hover:text-oro">
+              {r.nombre}
+            </a>
+          ))}
           <span>© {new Date().getFullYear()}</span>
         </div>
       </div>

@@ -1,7 +1,12 @@
 // Textos del sitio. Para cambiar un texto, editalo acá.
 
+export const redes = [
+  { nombre: "Instagram", url: "https://www.instagram.com/panorama_universal/" },
+  { nombre: "TikTok", url: "https://www.tiktok.com/@panorama.universal" },
+  { nombre: "LinkedIn", url: "https://www.linkedin.com/company/panorama-universal/" },
+];
+
 export const links = {
-  linkedin: "https://www.linkedin.com/company/panorama-universal/",
   formularioVoluntariado:
     "https://docs.google.com/forms/d/e/1FAIpQLScPB7VfdphzHbjgOCuUuBnSWqh2wJkUVkjMUvhZdec7A70OdA/viewform",
 };
