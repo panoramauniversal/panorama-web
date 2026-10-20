@@ -90,3 +90,15 @@ export function Footer() {
     </footer>
   );
 }
+
+// Corta el mail solo en la "@" para que no quede una letra suelta en otro renglón.
+export function MailLink({ mail, className = "" }: { mail: string; className?: string }) {
+  const [usuario, dominio] = mail.split("@");
+  return (
+    <a href={`mailto:${mail}`} className={`hover:underline ${className}`}>
+      <span className="whitespace-nowrap">{usuario}</span>
+      <wbr />
+      <span className="whitespace-nowrap">@{dominio}</span>
+    </a>
+  );
+}

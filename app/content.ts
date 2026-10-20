@@ -127,4 +127,4 @@ export const vision =
   "Queremos ser la comunidad y plataforma de referencia en habla hispana para jóvenes interesados en los asuntos internacionales. También queremos impulsar a nuevas generaciones de analistas, investigadores y profesionales comprometidos con el debate público y la comprensión crítica del mundo.";
 
 export const sumate =
-  "Panorama se construye con voluntarios. Por ahora no hay fecha confirmada para la próxima convocatoria, pero podés dejarnos tus datos y te avisamos cuando se abra.";
+  "Panorama se construye con voluntarios. La convocatoria 2027 todavía no abrió formalmente, pero ya podés dejarnos tus datos y te avisamos apenas se abran las inscripciones.";

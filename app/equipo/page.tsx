@@ -53,6 +53,22 @@ export default function EquipoPage() {
               </li>
             ))}
           </ul>
+
+          <Link
+            href="/equipo/voluntariado"
+            className="group mt-5 flex flex-col gap-4 rounded-3xl bg-oro p-8 transition hover:shadow-lg sm:flex-row sm:items-center sm:justify-between"
+          >
+            <div>
+              <h2 className="text-2xl font-bold">Voluntariado</h2>
+              <p className="mt-2 max-w-2xl">
+                Conocé cómo trabajan nuestros voluntarios y dejanos tus datos para la convocatoria
+                2027.
+              </p>
+            </div>
+            <span className="shrink-0 font-semibold transition group-hover:translate-x-1">
+              Ver voluntariado →
+            </span>
+          </Link>
         </section>
       </main>
       <Footer />

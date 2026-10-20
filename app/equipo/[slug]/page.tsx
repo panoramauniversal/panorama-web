@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import { Eyebrow, Footer, Header } from "../../components";
+import { Eyebrow, Footer, Header, MailLink } from "../../components";
 import { areas, getArea } from "../../equipo";
 import { TarjetaMiembro } from "../miembro";
 
@@ -56,9 +56,7 @@ export default async function AreaPage({ params }: Props) {
               {area.mail && (
                 <p className="mt-8 rounded-2xl bg-oro-claro p-5 text-sm">
                   <span className="block font-semibold">Contacto</span>
-                  <a href={`mailto:${area.mail}`} className="break-all hover:underline">
-                    {area.mail}
-                  </a>
+                  <MailLink mail={area.mail} className="text-[13px] tracking-tight" />
                 </p>
               )}
             </div>
@@ -89,6 +87,14 @@ export default async function AreaPage({ params }: Props) {
                   </Link>
                 </li>
               ))}
+              <li>
+                <Link
+                  href="/equipo/voluntariado"
+                  className="block rounded-full bg-oro px-4 py-2 text-sm font-semibold transition hover:bg-tierra hover:text-crema"
+                >
+                  Voluntariado
+                </Link>
+              </li>
             </ul>
           </div>
         </section>

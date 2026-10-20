@@ -246,6 +246,17 @@ function Comunidad() {
                 </Link>
               </li>
             ))}
+            <li>
+              <Link
+                href="/equipo/voluntariado"
+                className="group flex items-center justify-between gap-4 rounded-2xl bg-oro px-5 py-4 transition hover:shadow-md"
+              >
+                <span className="font-semibold">Voluntariado</span>
+                <span className="transition group-hover:translate-x-1" aria-hidden>
+                  →
+                </span>
+              </Link>
+            </li>
           </ul>
         </div>
       </div>
@@ -274,6 +285,12 @@ function Sumate() {
         >
           Dejanos tus datos
         </a>
+        <Link
+          href="/equipo/voluntariado"
+          className="mt-4 block font-semibold underline-offset-4 hover:underline sm:ml-6 sm:mt-0 sm:inline-block"
+        >
+          Conocé el voluntariado →
+        </Link>
       </div>
     </section>
   );
