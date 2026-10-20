@@ -12,11 +12,11 @@ export const links = {
 };
 
 export const nav = [
-  { href: "#quienes-somos", label: "Quiénes somos" },
-  { href: "#pilares", label: "Pilares" },
-  { href: "#que-hacemos", label: "Qué hacemos" },
-  { href: "#comunidad", label: "Comunidad" },
-  { href: "#sumate", label: "Sumate" },
+  { href: "/#quienes-somos", label: "Quiénes somos" },
+  { href: "/#pilares", label: "Pilares" },
+  { href: "/#que-hacemos", label: "Qué hacemos" },
+  { href: "/equipo", label: "Equipo" },
+  { href: "/#sumate", label: "Sumate" },
 ];
 
 export const hero = {
@@ -122,14 +122,6 @@ export const comunidad = {
     "Lectores curiosos que quieren análisis rigurosos sin la opacidad del lenguaje puramente académico.",
   ],
 };
-
-export const secretarias = [
-  "Secretaría Académica",
-  "Secretaría de Comunicación",
-  "Secretaría de Asuntos Institucionales y Proyectos",
-  "Secretaría de Cooperación Internacional",
-  "Secretaría de Recursos Humanos",
-];
 
 export const vision =
   "Queremos ser la comunidad y plataforma de referencia en habla hispana para jóvenes interesados en los asuntos internacionales. También queremos impulsar a nuevas generaciones de analistas, investigadores y profesionales comprometidos con el debate público y la comprensión crítica del mundo.";
