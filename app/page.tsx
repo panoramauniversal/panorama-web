@@ -2,6 +2,8 @@ import Image from "next/image";
 import Link from "next/link";
 import { Eyebrow, Footer, Header } from "./components";
 import { areas } from "./equipo";
+import { getNotas } from "./notas/datos";
+import { TarjetaNota } from "./notas/tarjeta";
 import {
   comunidad,
   hero,
@@ -207,6 +209,31 @@ function QueHacemos() {
   );
 }
 
+function UltimasNotas() {
+  const notas = getNotas().slice(0, 3);
+  if (notas.length === 0) return null;
+  return (
+    <section id="notas" className="mx-auto max-w-6xl px-4 py-20 sm:px-6 md:py-28">
+      <div className="flex flex-wrap items-end justify-between gap-4">
+        <div>
+          <Eyebrow>Últimas notas</Eyebrow>
+          <h2 className="text-3xl font-bold leading-tight sm:text-4xl">Lo último que analizamos</h2>
+        </div>
+        <Link href="/notas" className="font-semibold text-oro hover:underline">
+          Ver todas las notas →
+        </Link>
+      </div>
+      <ul className="mt-10 grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
+        {notas.map((n) => (
+          <li key={n.slug}>
+            <TarjetaNota nota={n} />
+          </li>
+        ))}
+      </ul>
+    </section>
+  );
+}
+
 function Comunidad() {
   return (
     <section id="comunidad" className="mx-auto max-w-6xl px-4 py-20 sm:px-6 md:py-28">
@@ -307,6 +334,7 @@ export default function Home() {
         <PorQue />
         <Pilares />
         <QueHacemos />
+        <UltimasNotas />
         <Comunidad />
         <Sumate />
       </main>

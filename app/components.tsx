@@ -29,7 +29,7 @@ export function Header() {
           </span>
         </Link>
 
-        <nav className="hidden md:block" aria-label="Principal">
+        <nav className="hidden lg:block" aria-label="Principal">
           <ul className="flex items-center gap-7 text-sm font-medium">
             {nav.map((item) => (
               <li key={item.href}>
@@ -48,7 +48,7 @@ export function Header() {
           </ul>
         </nav>
 
-        <details className="relative md:hidden">
+        <details className="relative lg:hidden">
           <summary className="cursor-pointer list-none rounded-full border border-tierra/20 px-4 py-2 text-sm font-medium [&::-webkit-details-marker]:hidden">
             Menú
           </summary>

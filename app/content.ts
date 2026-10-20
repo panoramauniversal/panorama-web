@@ -15,6 +15,7 @@ export const nav = [
   { href: "/#quienes-somos", label: "Quiénes somos" },
   { href: "/#pilares", label: "Pilares" },
   { href: "/#que-hacemos", label: "Qué hacemos" },
+  { href: "/notas", label: "Notas" },
   { href: "/equipo", label: "Equipo" },
   { href: "/#sumate", label: "Sumate" },
 ];
