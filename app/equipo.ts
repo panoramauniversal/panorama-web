@@ -92,6 +92,7 @@ export const areas: Area[] = [
       {
         nombre: "Agostina Granero Vocos",
         cargo: "Secretaria",
+        foto: "/equipo/agostina-granero-vocos.webp",
         linkedin: "https://www.linkedin.com/in/agostinagranerovocos/",
         instagram: "agosgranero22",
       },
