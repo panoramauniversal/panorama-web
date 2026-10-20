@@ -1,0 +1,22 @@
+@import "tailwindcss";
+
+@theme {
+  --color-oro: #d4ac48;
+  --color-oro-claro: #f3e6c4;
+  --color-crema: #fbf7ee;
+  --color-tierra: #42210b;
+  --color-tierra-suave: #6b4a33;
+
+  --font-sans: var(--font-poppins), ui-sans-serif, system-ui, sans-serif;
+  --font-serif: var(--font-lora), ui-serif, Georgia, serif;
+}
+
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 5rem;
+}
+
+body {
+  background: var(--color-crema);
+  color: var(--color-tierra);
+}
