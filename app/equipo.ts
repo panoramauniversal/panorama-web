@@ -116,15 +116,16 @@ export const areas: Area[] = [
     integrantes: [
       {
         nombre: "Iara Sofía Santoro",
-        cargo: "Subsecretaria de Asuntos Institucionales",
-        bio: "Estudiante avanzada y tesista de la Licenciatura en Relaciones Internacionales por la Universidad Nacional de San Martín (UNSAM), con tesis orientada en política exterior. Cuenta con experiencia en gestión institucional, comunicación y apoyo operativo en eventos académicos y diplomáticos. Se desempeña en el sector privado como administrativa, es ex voluntaria de la Secretaría de Comunicación del CARI, actualmente voluntaria en Directorio Legislativo y Subsecretaria de la Secretaría de Asuntos Institucionales de Panorama Universal.",
+        cargo: "Secretaria de Asuntos Institucionales",
+        foto: "/equipo/iara-santoro.jpg",
+        bio: "Estudiante avanzada y tesista de la Licenciatura en Relaciones Internacionales por la Universidad Nacional de San Martín (UNSAM), con tesis orientada en política exterior. Cuenta con experiencia en gestión institucional, comunicación y apoyo operativo en eventos académicos y diplomáticos. Se desempeña en el sector privado como administrativa, es ex voluntaria de la Secretaría de Comunicación del CARI, actualmente voluntaria en Directorio Legislativo y Secretaria de Asuntos Institucionales de Panorama Universal.",
         linkedin: "https://www.linkedin.com/in/iarasantoro",
         instagram: "iarusantoro",
       },
       {
         nombre: "Lucía Castillo Jerez",
-        cargo: "Subsecretaria de Proyectos",
-        bio: "Licenciada en Relaciones Internacionales por la Universidad Católica de Córdoba, con experiencia en coordinación institucional, análisis estratégico y desarrollo de proyectos vinculados a sostenibilidad, impacto social y cooperación internacional. Se desempeña como Subsecretaria de Proyectos en Panorama Universal, Secretaria General en NSL Foundation y redactora en United Explanations. Actualmente cursa una diplomatura en Consultoría y Gestión Ambiental Público-Privada.",
+        cargo: "Secretaria de Proyectos",
+        bio: "Licenciada en Relaciones Internacionales por la Universidad Católica de Córdoba, con experiencia en coordinación institucional, análisis estratégico y desarrollo de proyectos vinculados a sostenibilidad, impacto social y cooperación internacional. Se desempeña como Secretaria de Proyectos en Panorama Universal, Secretaria General en NSL Foundation y redactora en United Explanations. Actualmente cursa una diplomatura en Consultoría y Gestión Ambiental Público-Privada.",
         linkedin: "https://www.linkedin.com/in/lucia-castillo-jerez/",
         instagram: "pupicastilloo_",
       },
