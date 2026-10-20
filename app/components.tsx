@@ -1,6 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
-import { nav, redes } from "./content";
+import { links, nav, redes } from "./content";
 
 export function Eyebrow({ children, light = false }: { children: React.ReactNode; light?: boolean }) {
   return (
@@ -99,6 +99,23 @@ export function MailLink({ mail, className = "" }: { mail: string; className?: s
       <span className="whitespace-nowrap">{usuario}</span>
       <wbr />
       <span className="whitespace-nowrap">@{dominio}</span>
+    </a>
+  );
+}
+
+// Invitación a escribir en Panorama. Cuando haya formulario, se carga en links.formularioEscribir.
+export function BotonEscribir({ light = false }: { light?: boolean }) {
+  const estilo = light
+    ? "border-oro bg-oro text-tierra hover:bg-crema hover:border-crema"
+    : "border-tierra bg-tierra text-crema hover:bg-oro hover:border-oro hover:text-tierra";
+  return (
+    <a
+      href={links.formularioEscribir || undefined}
+      target={links.formularioEscribir ? "_blank" : undefined}
+      rel={links.formularioEscribir ? "noopener noreferrer" : undefined}
+      className={`inline-block cursor-pointer whitespace-nowrap rounded-full border px-5 py-3 font-semibold transition sm:px-6 ${estilo}`}
+    >
+      ¿Querés escribir en Panorama?
     </a>
   );
 }

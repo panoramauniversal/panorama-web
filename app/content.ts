@@ -9,11 +9,12 @@ export const redes = [
 export const links = {
   formularioVoluntariado:
     "https://docs.google.com/forms/d/e/1FAIpQLScPB7VfdphzHbjgOCuUuBnSWqh2wJkUVkjMUvhZdec7A70OdA/viewform",
+  // Formulario para quienes quieren escribir en Panorama. Mientras esté vacío, el botón no lleva a ningún lado.
+  formularioEscribir: "",
 };
 
 export const nav = [
   { href: "/#quienes-somos", label: "Quiénes somos" },
-  { href: "/#pilares", label: "Pilares" },
   { href: "/#que-hacemos", label: "Qué hacemos" },
   { href: "/notas", label: "Notas" },
   { href: "/equipo", label: "Equipo" },
@@ -51,40 +52,6 @@ export const principios = [
     texto: "Busca herramientas para comprender la complejidad de la realidad internacional.",
   },
   { titulo: "Abierto", texto: "El diálogo es parte central de cómo construimos conocimiento." },
-];
-
-export const pilares = [
-  {
-    icono: "📚",
-    titulo: "Educación y conocimiento",
-    ods: "ODS 4",
-    texto: "Acceso abierto a contenidos rigurosos, formativos y comprensibles.",
-  },
-  {
-    icono: "🌍",
-    titulo: "Pluralidad e inclusión",
-    ods: "ODS 5 y 10",
-    texto: "Un espacio diverso y respetuoso, sin discriminación de género, etnia ni religión.",
-  },
-  {
-    icono: "🕊️",
-    titulo: "Paz, diálogo y cooperación",
-    ods: "ODS 16",
-    texto:
-      "Debate constructivo, resolución pacífica de controversias y respeto por los Derechos Humanos.",
-  },
-  {
-    icono: "💡",
-    titulo: "Innovación y oportunidades para jóvenes",
-    ods: "ODS 8",
-    texto: "Formatos digitales que dan visibilidad a nuevos analistas y abren puertas profesionales.",
-  },
-  {
-    icono: "🤝",
-    titulo: "Comunidad y alianzas",
-    ods: "ODS 17",
-    texto: "Una red de colaboración entre estudiantes, académicos e instituciones afines.",
-  },
 ];
 
 export const queHacemos = [

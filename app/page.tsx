@@ -1,6 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
-import { Eyebrow, Footer, Header } from "./components";
+import { BotonEscribir, Eyebrow, Footer, Header } from "./components";
 import { areas } from "./equipo";
 import { getNotas } from "./notas/datos";
 import { TarjetaNota } from "./notas/tarjeta";
@@ -9,7 +9,6 @@ import {
   hero,
   links,
   mision,
-  pilares,
   porQue,
   principios,
   queHacemos,
@@ -74,7 +73,7 @@ function Hero() {
 
 function QuienesSomos() {
   return (
-    <section id="quienes-somos" className="mx-auto max-w-6xl px-4 py-20 sm:px-6 md:py-28">
+    <section id="quienes-somos" className="mx-auto max-w-6xl border-t border-tierra/10 px-4 py-20 sm:px-6 md:py-28">
       <div className="grid gap-12 md:grid-cols-[1fr_1.4fr]">
         <div>
           <Eyebrow>Quiénes somos</Eyebrow>
@@ -132,38 +131,6 @@ function PorQue() {
           </div>
         </div>
       </div>
-    </section>
-  );
-}
-
-function Pilares() {
-  return (
-    <section id="pilares" className="mx-auto max-w-6xl px-4 py-20 sm:px-6 md:py-28">
-      <Eyebrow>Nuestros pilares</Eyebrow>
-      <h2 className="max-w-3xl text-3xl font-bold leading-tight sm:text-4xl">
-        Alineados con la Agenda 2030 de la ONU
-      </h2>
-      <p className="mt-4 max-w-2xl text-lg text-tierra-suave">
-        Nuestro trabajo se guía por cinco pilares vinculados a los Objetivos de Desarrollo
-        Sostenible.
-      </p>
-      <ul className="mt-12 grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
-        {pilares.map((p) => (
-          <li
-            key={p.titulo}
-            className="flex flex-col rounded-3xl border border-tierra/10 bg-white p-7 transition hover:-translate-y-1 hover:shadow-lg"
-          >
-            <span className="text-3xl" aria-hidden>
-              {p.icono}
-            </span>
-            <span className="mt-5 w-fit rounded-full bg-oro-claro px-3 py-1 text-xs font-semibold">
-              {p.ods}
-            </span>
-            <h3 className="mt-3 text-xl font-semibold">{p.titulo}</h3>
-            <p className="mt-2 text-tierra-suave">{p.texto}</p>
-          </li>
-        ))}
-      </ul>
     </section>
   );
 }
@@ -230,6 +197,12 @@ function UltimasNotas() {
           </li>
         ))}
       </ul>
+      <div className="mt-10 flex flex-col items-start gap-4 rounded-3xl bg-oro-claro p-7 sm:flex-row sm:items-center sm:justify-between sm:p-9">
+        <p className="max-w-xl text-lg">
+          Panorama es un espacio abierto a nuevas voces. Si te interesa publicar un análisis, sumate.
+        </p>
+        <BotonEscribir />
+      </div>
     </section>
   );
 }
@@ -330,11 +303,10 @@ export default function Home() {
       <Header />
       <main>
         <Hero />
+        <UltimasNotas />
         <QuienesSomos />
         <PorQue />
-        <Pilares />
         <QueHacemos />
-        <UltimasNotas />
         <Comunidad />
         <Sumate />
       </main>

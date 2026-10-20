@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { Eyebrow, Footer, Header } from "../components";
+import { BotonEscribir, Eyebrow, Footer, Header } from "../components";
 import { getNotas } from "./datos";
 import { TarjetaNota } from "./tarjeta";
 
@@ -27,6 +27,9 @@ export default function NotasPage() {
               Todas las notas de Panorama Universal sobre geopolítica, conflictos, elecciones,
               economía y política exterior.
             </p>
+            <div className="mt-8">
+              <BotonEscribir light />
+            </div>
             {anios.length > 1 && (
               <nav className="mt-8 flex flex-wrap gap-2" aria-label="Años">
                 {anios.map((a) => (
