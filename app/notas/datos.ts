@@ -79,3 +79,10 @@ export function getAutores(): Autor[] {
 export function getAutor(slug: string) {
   return getAutores().find((a) => a.slug === slug);
 }
+
+// Perfil de autor de un integrante del equipo, si escribió notas.
+// Acepta nombres más largos en el equipo (por ejemplo, con segundo apellido).
+export function getAutorDeIntegrante(nombre: string) {
+  const slug = slugAutor(nombre);
+  return getAutores().find((a) => a.slug === slug || slug.startsWith(`${a.slug}-`));
+}

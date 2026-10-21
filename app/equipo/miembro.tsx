@@ -1,4 +1,6 @@
 import Image from "next/image";
+import Link from "next/link";
+import { getAutorDeIntegrante } from "../notas/datos";
 import type { Integrante } from "../equipo";
 
 function iniciales(nombre: string) {
@@ -30,6 +32,7 @@ export function Avatar({ persona, size }: { persona: Integrante; size: "sm" | "l
 }
 
 export function TarjetaMiembro({ persona }: { persona: Integrante }) {
+  const autor = getAutorDeIntegrante(persona.nombre);
   return (
     <article className="flex flex-col rounded-3xl border border-tierra/10 bg-white p-7">
       <div className="flex items-center gap-5">
@@ -42,8 +45,16 @@ export function TarjetaMiembro({ persona }: { persona: Integrante }) {
         </div>
       </div>
       {persona.bio && <p className="mt-5 leading-relaxed text-tierra-suave">{persona.bio}</p>}
-      {(persona.linkedin || persona.instagram) && (
-        <div className="mt-auto flex gap-3 pt-5 text-sm font-semibold">
+      {(persona.linkedin || persona.instagram || autor) && (
+        <div className="mt-auto flex flex-wrap gap-3 pt-5 text-sm font-semibold">
+          {autor && (
+            <Link
+              href={`/notas/autores/${autor.slug}`}
+              className="rounded-full bg-tierra px-4 py-1.5 text-crema transition hover:bg-oro hover:text-tierra"
+            >
+              Ver sus notas ({autor.notas.length})
+            </Link>
+          )}
           {persona.linkedin && (
             <a
               href={persona.linkedin}
