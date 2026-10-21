@@ -1,7 +1,7 @@
 ---
 titulo: La devaluación del real: El futuro de Brasil desde dos miradas
 fecha: 2024-12-09
-autores: Equipo Panorama Universal
+autores: Stefano Boubeta e Ignacio Casco
 resumen: Con la reciente devaluación del real en Brasil, la más grande en su historia, surgieron distintas opiniones con respecto a cuál es el futuro de la economía del gigante sudamericano. De cara a los dos modelos distintos que llevan a cabo Brasil y Argentina,hoy analizaremos brevemente cómo se llegó a esta situación y cuáles son los futuros posibles desde ambas miradas.
 ---
 

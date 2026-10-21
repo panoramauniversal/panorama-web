@@ -1,7 +1,7 @@
 ---
 titulo: ¿Qué pasó en Ecuador? Institucionalización del miedo y el crimen organizado
 fecha: 2024-05-20
-autores: Equipo Panorama Universal
+autores: Stefano Boubeta e Ignacio Casco
 resumen: Hace unos años, se comenzó a ver una creciente ola de violencia en Ecuador que puso en jaque a más de un gobierno. La misma está asociada a grupos delictivos organizados y narcotráfico tanto local como internacional. En este día, haremos un breve recorrido histórico sobre la evolución del crimen organizado en el país mencionado.
 ---
 

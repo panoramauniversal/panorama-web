@@ -1,7 +1,7 @@
 ---
 titulo: La geopolítica de la UEFA: ¿Por qué hay partidos prohibidos?
 fecha: 2024-07-01
-autores: Equipo Panorama Universal
+autores: Stefano Boubeta e Ignacio Casco
 resumen: La disputa de la Eurocopa ha dado lugar a un gran repaso de los diferentes conflictos y tensiones que existen entre diferentes países, haciendo que la UEFA deba intervenir en algunos. De esta manera, hoy veremos los partidos que han sido prohibidos por esta confederación futbolística, repasando desde cuándo y porqué rigen estas medidas restrictivas.
 ---
 

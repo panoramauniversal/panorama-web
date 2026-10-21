@@ -1,7 +1,7 @@
 ---
 titulo: Reforma judicial en México: ¿un ataque a la república?
 fecha: 2024-09-30
-autores: Equipo Panorama Universal
+autores: Stefano Boubeta e Ignacio Casco
 resumen: El pasado 11 de septiembre, el Congreso mexicano aprobó la reforma del Poder Judicial, propuesta por el presidente Andrés Manuel López Obrador. Esta modificación pretende democratizar la Justicia buscando eliminar la corrupción e intentando que se responda únicamente a las peticiones del pueblo y no a intereses creados.
 ---
 

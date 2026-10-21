@@ -1,7 +1,7 @@
 ---
 titulo: Sahel: una alianza contra el imperialismo y el terrorismo
 fecha: 2024-08-19
-autores: Equipo Panorama Universal
+autores: Stefano Boubeta e Ignacio Casco
 resumen: El sahel ha sido una región sumamente inestable durante décadas, varios factores han sido clave en esto: el colonialismo francés, la depredación de recursos, la discriminación racial y el vacío de poder luego de las independencias africanas. A partir del 2020, la región ha registrado diversos golpes de Estado, incrementando la desigualdad e inestabilidad.
 ---
 

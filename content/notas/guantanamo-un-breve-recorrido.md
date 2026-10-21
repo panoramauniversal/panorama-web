@@ -1,7 +1,7 @@
 ---
 titulo: Guantánamo: Un breve recorrido
 fecha: 2024-07-22
-autores: Equipo Panorama Universal
+autores: Stefano Boubeta e Ignacio Casco
 resumen: La palabra “Guantánamo” es ampliamente conocida, para referirse a la prisión más polémica de Estados Unidos. Ubicada en Cuba y utilizada como cárcel militar al inicio de la guerra contra el terror, esta ubicación ha sido testigo de múltiples violaciones de los derechos humanos, crueldades y suicidios.
 ---
 

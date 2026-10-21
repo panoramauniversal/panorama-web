@@ -1,7 +1,7 @@
 ---
 titulo: Gobernando la IA para la humanidad: El informe de ONU sobre Inteligencia Artificial
 fecha: 2024-10-07
-autores: Equipo Panorama Universal
+autores: Stefano Boubeta e Ignacio Casco
 resumen: El 19 de septiembre, el Cuerpo Consultivo de Inteligencia Artificial de la ONU emitió un informe final de más de 100 páginas analizando el fenómeno de la inteligencia artificial y sus implicancias. Entre temas como el crecimiento desigual, las amenazas a la seguridad y eventuales problemáticas sociales, se muestra como la gobernanza global enfrenta un desafío totalmente nuevo.
 ---
 
