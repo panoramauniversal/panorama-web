@@ -188,6 +188,7 @@ export const areas: Area[] = [
         nombre: "Ornella Ramírez",
         cargo: "Secretaria",
         bio: "Estudiante de Relaciones Internacionales en la UAI. Cuenta con experiencia en recursos humanos y actualmente se desempeña como secretaria de RRHH en Panorama Universal. Interesada en la gestión institucional y el trabajo en equipo.",
+        foto: "/equipo/ornella-ramirez.jpg",
         linkedin: "https://www.linkedin.com/in/ornella-ramirez-4370a4313",
         instagram: "orneramirez",
       },
