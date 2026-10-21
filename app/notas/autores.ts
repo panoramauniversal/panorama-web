@@ -87,3 +87,19 @@ export function separarAutores(autores: string) {
     .map((a) => a.trim())
     .filter(Boolean);
 }
+
+export function slugAutor(nombre: string) {
+  return nombre
+    .normalize("NFD")
+    .replace(/[̀-ͯ]/g, "")
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, "-")
+    .replace(/^-|-$/g, "");
+}
+
+// Busca las redes por nombre, sin importar tildes ni mayúsculas.
+export function redesDe(nombre: string): Redes | undefined {
+  const slug = slugAutor(nombre);
+  const clave = Object.keys(redesAutores).find((n) => slugAutor(n) === slug);
+  return clave ? redesAutores[clave] : undefined;
+}

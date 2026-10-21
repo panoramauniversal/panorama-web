@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { BotonEscribir, Eyebrow, Footer, Header } from "../components";
 import { getNotas } from "./datos";
+import { PestanasNotas } from "./pestanas";
 import { TarjetaNota } from "./tarjeta";
 
 export const metadata: Metadata = {
@@ -18,6 +19,7 @@ export default function NotasPage() {
       <main>
         <section className="bg-tierra text-crema">
           <div className="mx-auto max-w-6xl px-4 py-16 sm:px-6 md:py-20">
+            <PestanasNotas activa="notas" />
             <Eyebrow>Notas</Eyebrow>
             <h1 className="text-4xl font-bold sm:text-5xl">
               Análisis para entender{" "}

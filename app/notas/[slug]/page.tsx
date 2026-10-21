@@ -2,44 +2,41 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { Footer, Header } from "../../components";
-import { redesAutores, separarAutores } from "../autores";
+import { redesDe, separarAutores, slugAutor } from "../autores";
 import { formatearFecha, getNota, getNotas } from "../datos";
 import { TarjetaNota } from "../tarjeta";
+import { BotonesRedes } from "../redes";
 import { TextoNota } from "../texto";
 
 type Props = { params: Promise<{ slug: string }> };
 
-const pastilla =
-  "rounded-full border border-crema/25 px-3 py-1 text-xs font-semibold text-crema/90 transition hover:border-oro hover:text-oro";
+function Autores({ autores }: { autores: string }) {
+  const nombres = separarAutores(autores);
+  return (
+    <>
+      {nombres.map((nombre, i) => (
+        <span key={nombre}>
+          {i > 0 && (i === nombres.length - 1 ? " y " : ", ")}
+          <Link href={`/notas/autores/${slugAutor(nombre)}`} className="font-semibold text-crema hover:text-oro">
+            {nombre}
+          </Link>
+        </span>
+      ))}
+    </>
+  );
+}
 
 function RedesAutores({ autores }: { autores: string }) {
-  const conRedes = separarAutores(autores).filter((a) => redesAutores[a]);
+  const conRedes = separarAutores(autores).filter((a) => redesDe(a));
   if (conRedes.length === 0) return null;
   return (
     <ul className="mt-5 flex flex-wrap gap-x-6 gap-y-3 text-sm">
-      {conRedes.map((nombre) => {
-        const r = redesAutores[nombre];
-        return (
-          <li key={nombre} className="flex flex-wrap items-center gap-2">
-            {conRedes.length > 1 && <span className="text-crema/70">{nombre}</span>}
-            {r.instagram && (
-              <a
-                href={`https://www.instagram.com/${r.instagram}/`}
-                target="_blank"
-                rel="noopener noreferrer"
-                className={pastilla}
-              >
-                Instagram
-              </a>
-            )}
-            {r.linkedin && (
-              <a href={r.linkedin} target="_blank" rel="noopener noreferrer" className={pastilla}>
-                LinkedIn
-              </a>
-            )}
-          </li>
-        );
-      })}
+      {conRedes.map((nombre) => (
+        <li key={nombre} className="flex flex-wrap items-center gap-2">
+          {conRedes.length > 1 && <span className="text-crema/70">{nombre}</span>}
+          <BotonesRedes redes={redesDe(nombre)!} light />
+        </li>
+      ))}
     </ul>
   );
 }
@@ -82,7 +79,7 @@ export default async function NotaPage({ params }: Props) {
               </h1>
               <div className="mt-6 flex flex-wrap gap-x-6 gap-y-2 text-sm text-crema/80">
                 <span>
-                  Por <span className="font-semibold text-crema">{nota.autores}</span>
+                  Por <Autores autores={nota.autores} />
                 </span>
                 <span>{formatearFecha(nota.fecha)}</span>
                 {nota.colaboracion && <span>En colaboración con {nota.colaboracion}</span>}

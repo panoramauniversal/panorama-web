@@ -2,6 +2,7 @@
 // (titulo, fecha, autores, colaboracion, resumen) y el cuerpo en Markdown simple.
 import fs from "node:fs";
 import path from "node:path";
+import { separarAutores, slugAutor } from "./autores";
 
 export type Nota = {
   slug: string;
@@ -55,4 +56,26 @@ export function formatearFecha(fecha: string) {
     month: "long",
     year: "numeric",
   });
+}
+
+export type Autor = { nombre: string; slug: string; notas: Nota[] };
+
+// Todas las personas que firmaron al menos una nota, en orden alfabético.
+export function getAutores(): Autor[] {
+  const porSlug = new Map<string, Autor>();
+  for (const nota of getNotas()) {
+    for (const nombre of separarAutores(nota.autores)) {
+      const slug = slugAutor(nombre);
+      const autor = porSlug.get(slug) ?? { nombre, slug, notas: [] };
+      // Entre dos formas del mismo nombre, nos quedamos con la que tiene tildes.
+      if (nombre.normalize("NFD").length > autor.nombre.normalize("NFD").length) autor.nombre = nombre;
+      autor.notas.push(nota);
+      porSlug.set(slug, autor);
+    }
+  }
+  return [...porSlug.values()].sort((a, b) => a.nombre.localeCompare(b.nombre, "es"));
+}
+
+export function getAutor(slug: string) {
+  return getAutores().find((a) => a.slug === slug);
 }
