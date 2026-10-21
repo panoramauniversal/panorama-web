@@ -74,6 +74,7 @@ export const areas: Area[] = [
         nombre: "Luca Nava",
         cargo: "Secretario",
         bio: "Estudiante avanzado y tesista de la Licenciatura en Relaciones Internacionales por la Universidad Nacional de General San Martín (UNSAM). Secretario Académico de Panorama Universal. Redactor de Diplomacia Activa. Ex Voluntario de la Secretaría de Coordinación del CARI. Trabaja en la Secretaría de Trabajo y Producción de la Municipalidad de Tres de Febrero.",
+        foto: "/equipo/luca-nava.jpg",
         linkedin: "https://www.linkedin.com/in/luca-nava-30aa08286/",
         instagram: "lucaa.nava",
       },
