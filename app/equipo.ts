@@ -42,7 +42,12 @@ export const areas: Area[] = [
         linkedin: "https://www.linkedin.com/in/stefano-boubeta",
         instagram: "stefboubeta",
       },
-      { nombre: "Karina Herrera", cargo: "Vicepresidenta" },
+      {
+        nombre: "Karina Herrera",
+        cargo: "Vicepresidenta",
+        bio: "Profesora de Educación Especial (I.N.S.P.E.E.) con especialización en ciegos y disminuidos visuales. Posgrado en Estimulación Temprana (I.N.S.P.E.E.). Óptica y Contactóloga. Posgrado en Pedagogía y Psicopedagogía Terapéutica (Universidad de Nebrija, España). Cursó la licenciatura en Relaciones Internacionales en la USAL. Fue profesora y Secretaria en la Escuela Técnica N°1 Manuel Belgrano (Tres de Febrero, Buenos Aires). Fue Jefe General de Taller de Óptica en Escuela Técnica N°16 D.E. 17 (CABA). Autora de diversos artículos ligados a salud y educación en Revista Mujer Actual de España. Es vicepresidenta de Panorama Universal.",
+        foto: "/equipo/karina-herrera.jpg",
+      },
       {
         nombre: "Santiago Simons",
         cargo: "Secretario General",
