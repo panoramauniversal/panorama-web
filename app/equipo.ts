@@ -37,7 +37,7 @@ export const areas: Area[] = [
       {
         nombre: "Stefano Boubeta",
         cargo: "Fundador y Presidente",
-        foto: "/equipo/stefano-boubeta.png",
+        foto: "/equipo/stefano-boubeta.jpg",
         bio: "Licenciado en Relaciones Internacionales por la Universidad Nacional de General San Martín (UNSAM). Maestrando en Defensa Nacional en la Universidad de la Defensa Nacional (UNDEF). Fundador y Presidente de Panorama Universal. Se desempeña como Asistente Académico en la Secretaría de Coordinación del Consejo Argentino para Relaciones Internacionales (CARI). En la UNSAM ha sido profesor adscripto en las materias Historia Argentina (2023), Derechos Humanos en la Agenda Internacional (2024) y Cooperación Internacional (2025).",
         linkedin: "https://www.linkedin.com/in/stefano-boubeta",
         instagram: "stefboubeta",
