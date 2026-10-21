@@ -2,11 +2,47 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { Footer, Header } from "../../components";
+import { redesAutores, separarAutores } from "../autores";
 import { formatearFecha, getNota, getNotas } from "../datos";
 import { TarjetaNota } from "../tarjeta";
 import { TextoNota } from "../texto";
 
 type Props = { params: Promise<{ slug: string }> };
+
+const pastilla =
+  "rounded-full border border-crema/25 px-3 py-1 text-xs font-semibold text-crema/90 transition hover:border-oro hover:text-oro";
+
+function RedesAutores({ autores }: { autores: string }) {
+  const conRedes = separarAutores(autores).filter((a) => redesAutores[a]);
+  if (conRedes.length === 0) return null;
+  return (
+    <ul className="mt-5 flex flex-wrap gap-x-6 gap-y-3 text-sm">
+      {conRedes.map((nombre) => {
+        const r = redesAutores[nombre];
+        return (
+          <li key={nombre} className="flex flex-wrap items-center gap-2">
+            {conRedes.length > 1 && <span className="text-crema/70">{nombre}</span>}
+            {r.instagram && (
+              <a
+                href={`https://www.instagram.com/${r.instagram}/`}
+                target="_blank"
+                rel="noopener noreferrer"
+                className={pastilla}
+              >
+                Instagram
+              </a>
+            )}
+            {r.linkedin && (
+              <a href={r.linkedin} target="_blank" rel="noopener noreferrer" className={pastilla}>
+                LinkedIn
+              </a>
+            )}
+          </li>
+        );
+      })}
+    </ul>
+  );
+}
 
 export function generateStaticParams() {
   return getNotas().map((n) => ({ slug: n.slug }));
@@ -51,6 +87,7 @@ export default async function NotaPage({ params }: Props) {
                 <span>{formatearFecha(nota.fecha)}</span>
                 {nota.colaboracion && <span>En colaboración con {nota.colaboracion}</span>}
               </div>
+              <RedesAutores autores={nota.autores} />
             </div>
           </header>
 
