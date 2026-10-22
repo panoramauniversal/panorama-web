@@ -29,7 +29,7 @@ Sitio en español rioplatense (voseo) de Panorama Universal. Producción: https:
 
 ## Pendientes
 
-- Voluntarios: solo están cargados los de Comunicación y Diseño (Agustina Luc, Cecile Fabian-Fränkel, Iara Bornaz, Lourdes Torres, Santiago Provensale). Faltan los de las demás secretarías.
+- Voluntarios: cargados Comunicación y Diseño, Académica y Lucia Sol Martin (Asuntos Institucionales y Proyectos). Faltan el resto de las secretarías. Si el nombre de firma de notas difiere, usar el campo `autor`.
 
 - Vincular el botón "¿Querés escribir en Panorama?" cuando exista el formulario.
 - Autores sin ninguna red: Julián Arce, Karina Herrera, Kevin Bryan, Maximiliano Buteler, Nahuel Nores (planilla "Autores sin redes - Notas Panorama" en el Drive).
