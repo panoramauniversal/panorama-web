@@ -2,7 +2,7 @@
 
 import { useEffect, useState, type ReactNode } from "react";
 
-type Anio = { anio: string; cantidad: number; contenido: ReactNode };
+type Anio = { anio: string; contenido: ReactNode };
 
 // Muestra las notas de un año por vez. El año elegido queda en la dirección (#2024) para poder compartirlo.
 export function NotasPorAnio({ anios }: { anios: Anio[] }) {
@@ -38,10 +38,7 @@ export function NotasPorAnio({ anios }: { anios: Anio[] }) {
                 : "border border-tierra/15 bg-white hover:border-oro hover:text-oro"
             }`}
           >
-            {a.anio}{" "}
-            <span className={a.anio === activo ? "text-crema/60" : "text-tierra-suave/60"}>
-              ({a.cantidad})
-            </span>
+            {a.anio}
           </button>
         ))}
       </nav>

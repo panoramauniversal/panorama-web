@@ -42,7 +42,6 @@ export default function NotasPage() {
               const delAnio = notas.filter((n) => n.fecha.startsWith(anio));
               return {
                 anio,
-                cantidad: delAnio.length,
                 contenido: (
                   <ul className="grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
                     {delAnio.map((n) => (

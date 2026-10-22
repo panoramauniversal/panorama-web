@@ -52,7 +52,7 @@ export function TarjetaMiembro({ persona }: { persona: Integrante }) {
               href={`/notas/autores/${autor.slug}`}
               className="rounded-full bg-tierra px-4 py-1.5 text-crema transition hover:bg-oro hover:text-tierra"
             >
-              Ver sus notas ({autor.notas.length})
+              Ver sus notas
             </Link>
           )}
           {persona.linkedin && (
