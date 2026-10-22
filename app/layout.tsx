@@ -28,7 +28,11 @@ export const metadata: Metadata = {
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
-    <html lang="es" className={`${poppins.variable} ${lora.variable}`}>
+    <html
+      lang="es"
+      className={`${poppins.variable} ${lora.variable}`}
+      data-scroll-behavior="smooth"
+    >
       <body className="font-sans antialiased">{children}</body>
     </html>
   );

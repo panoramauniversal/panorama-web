@@ -1,6 +1,7 @@
 import Image from "next/image";
 import Link from "next/link";
 import { links, nav, redes } from "./content";
+import { LogoInicio } from "./logo-inicio";
 
 export function Eyebrow({ children, light = false }: { children: React.ReactNode; light?: boolean }) {
   return (
@@ -19,7 +20,7 @@ export function Header() {
   return (
     <header className="sticky top-0 z-50 border-b border-tierra/10 bg-crema/90 backdrop-blur">
       <div className="mx-auto flex max-w-6xl items-center justify-between gap-4 px-4 py-3 sm:px-6">
-        <Link href="/" className="flex items-center gap-3">
+        <LogoInicio>
           <Image src="/logo.png" alt="" width={40} height={41} className="h-10 w-auto" priority />
           <span className="leading-tight">
             <span className="block text-lg font-bold">Panorama</span>
@@ -27,7 +28,7 @@ export function Header() {
               Universal
             </span>
           </span>
-        </Link>
+        </LogoInicio>
 
         <nav className="hidden lg:block" aria-label="Principal">
           <ul className="flex items-center gap-7 text-sm font-medium">
