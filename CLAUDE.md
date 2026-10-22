@@ -14,8 +14,9 @@ Sitio en español rioplatense (voseo) de Panorama Universal. Producción: https:
 - `app/content.ts`: textos de la portada, redes, links (`formularioVoluntariado`, `formularioEscribir` vacío hasta que haya formulario), menú.
 - `app/equipo.ts`: áreas e integrantes (nombre, cargo, bio, foto, linkedin, instagram). Fotos en `public/equipo/`, cuadradas 600×600 y centradas en la cara.
 - `content/notas/*.md`: una nota por archivo, con encabezado `titulo`, `fecha` (AAAA-MM-DD), `autores` (separados por `,`, ` y ` o ` e `), `colaboracion` (opcional), `resumen`. Cuerpo con `## subtítulos`, párrafos, `**negrita**`, `*cursiva*`.
+- `app/voluntarios.ts`: voluntarios (nombre, área, foto/redes opcionales). Se ven en `/equipo/voluntariado/voluntarios`, solo enlazada desde el botón "Nuestros voluntarios" de Voluntariado.
 - `app/notas/autores.ts`: redes de cada autor por nombre (`redesAutores`). La búsqueda ignora tildes.
-- Páginas: portada (`app/page.tsx`: inicio, últimas notas, quiénes somos, por qué, qué hacemos, comunidad, sumate), `/notas`, `/notas/[slug]`, `/notas/autores`, `/notas/autores/[slug]`, `/equipo`, `/equipo/[slug]`, `/equipo/voluntariado`.
+- Páginas: portada (`app/page.tsx`: inicio, últimas notas, quiénes somos, por qué, qué hacemos, comunidad, sumate), `/notas`, `/notas/[slug]`, `/notas/autores`, `/notas/autores/[slug]`, `/equipo`, `/equipo/[slug]`, `/equipo/voluntariado`, `/equipo/voluntariado/voluntarios`. En `/notas` se ve un año por vez (pestañas por año, `#2024` en la dirección).
 
 ## Decisiones ya tomadas
 
@@ -26,6 +27,8 @@ Sitio en español rioplatense (voseo) de Panorama Universal. Producción: https:
 - El autor de cada nota sale del cronograma. Si no figura, preguntar en vez de firmar como "Equipo Panorama Universal".
 
 ## Pendientes
+
+- Voluntarios: solo están cargados los de Comunicación y Diseño (Agustina Luc, Cecile Fabian-Fränkel, Iara Bornaz, Lourdes Torres, Santiago Provensale). Faltan los de las demás secretarías.
 
 - Vincular el botón "¿Querés escribir en Panorama?" cuando exista el formulario.
 - Autores sin ninguna red: Julián Arce, Karina Herrera, Kevin Bryan, Maximiliano Buteler, Nahuel Nores (planilla "Autores sin redes - Notas Panorama" en el Drive).
