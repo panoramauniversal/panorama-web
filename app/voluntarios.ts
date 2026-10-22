@@ -7,6 +7,26 @@ export type Voluntario = Omit<Integrante, "cargo"> & { area: string };
 
 export const voluntarios: Voluntario[] = [
   { nombre: "Agustina Luc", area: "Comunicación y Diseño" },
+  {
+    nombre: "Milagros Larsen",
+    area: "Académica",
+    bio: "Estudiante de Relaciones Internacionales en la Universidad Nacional del Centro de la Provincia de Buenos Aires (UNICEN).",
+    instagram: "milii_larsen",
+  },
+  {
+    nombre: "Milagros Portilla",
+    area: "Académica",
+    bio: "Estudiante de Relaciones Internacionales y Ciencia Política en la Universidad de Palermo.",
+    instagram: "milaporti",
+    linkedin: "https://www.linkedin.com/in/milagros-portilla-4b19bb317/",
+  },
+  {
+    nombre: "Tomás Barrera",
+    autor: "Tomás Gabriel Barrera",
+    area: "Académica",
+    bio: "Licenciado en Historia por la Universidad de Chile y estudiante de Periodismo en la Universidad Gabriela Mistral. Actualmente se desempeña como profesional de capacitaciones en World Vision Chile, vinculando su trayectoria con la educación, los derechos humanos y las relaciones internacionales.",
+    instagram: "guajira.cosmica",
+  },
   { nombre: "Cecile Fabian-Fränkel", area: "Comunicación y Diseño" },
   { nombre: "Iara Bornaz", area: "Comunicación y Diseño" },
   {

@@ -8,6 +8,8 @@ export type Integrante = {
   foto?: string;
   linkedin?: string;
   instagram?: string;
+  // Nombre con el que firma las notas, si es distinto (para el botón "Ver sus notas").
+  autor?: string;
 };
 
 export type Area = {

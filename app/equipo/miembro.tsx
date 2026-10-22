@@ -32,7 +32,7 @@ export function Avatar({ persona, size }: { persona: Integrante; size: "sm" | "l
 }
 
 export function TarjetaMiembro({ persona }: { persona: Integrante }) {
-  const autor = getAutorDeIntegrante(persona.nombre);
+  const autor = getAutorDeIntegrante(persona.autor ?? persona.nombre);
   return (
     <article className="flex h-full flex-col rounded-3xl border border-tierra/10 bg-white p-7">
       <div className="flex items-center gap-5">
