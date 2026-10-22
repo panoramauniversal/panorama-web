@@ -24,6 +24,7 @@ Sitio en español rioplatense (voseo) de Panorama Universal. Producción: https:
 - No hay sección de pilares (se eliminó).
 - Notas: sin imágenes. Las notas de Substack no se cargan.
 - `<html data-scroll-behavior="smooth">` es necesario para que Next no deje la página a mitad de scroll al navegar.
+- Bios de equipo y voluntarios: no repetir el cargo ni el área de Panorama (ya figuran en la tarjeta). Largo parecido entre todas.
 - El autor de cada nota sale del cronograma. Si no figura, preguntar en vez de firmar como "Equipo Panorama Universal".
 
 ## Pendientes
