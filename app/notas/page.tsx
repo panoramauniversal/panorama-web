@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { BotonEscribir, Eyebrow, Footer, Header } from "../components";
+import { NotasPorAnio } from "./anios";
 import { getNotas } from "./datos";
 import { PestanasNotas } from "./pestanas";
 import { TarjetaNota } from "./tarjeta";
@@ -32,37 +33,28 @@ export default function NotasPage() {
             <div className="mt-8">
               <BotonEscribir light />
             </div>
-            {anios.length > 1 && (
-              <nav className="mt-8 flex flex-wrap gap-2" aria-label="Años">
-                {anios.map((a) => (
-                  <a
-                    key={a}
-                    href={`#anio-${a}`}
-                    className="rounded-full border border-crema/30 px-4 py-1.5 text-sm font-medium transition hover:border-oro hover:text-oro"
-                  >
-                    {a}
-                  </a>
-                ))}
-              </nav>
-            )}
           </div>
         </section>
 
         <div className="mx-auto max-w-6xl px-4 py-16 sm:px-6 md:py-20">
-          {anios.map((anio) => (
-            <section key={anio} id={`anio-${anio}`} className="mb-16 last:mb-0">
-              <h2 className="mb-6 font-serif text-3xl italic text-oro">{anio}</h2>
-              <ul className="grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
-                {notas
-                  .filter((n) => n.fecha.startsWith(anio))
-                  .map((n) => (
-                    <li key={n.slug}>
-                      <TarjetaNota nota={n} />
-                    </li>
-                  ))}
-              </ul>
-            </section>
-          ))}
+          <NotasPorAnio
+            anios={anios.map((anio) => {
+              const delAnio = notas.filter((n) => n.fecha.startsWith(anio));
+              return {
+                anio,
+                cantidad: delAnio.length,
+                contenido: (
+                  <ul className="grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
+                    {delAnio.map((n) => (
+                      <li key={n.slug}>
+                        <TarjetaNota nota={n} />
+                      </li>
+                    ))}
+                  </ul>
+                ),
+              };
+            })}
+          />
         </div>
       </main>
       <Footer />
