@@ -55,6 +55,12 @@ export default function VoluntariadoPage() {
                   <p key={p}>{p}</p>
                 ))}
               </div>
+              <Link
+                href="/equipo/voluntariado/voluntarios"
+                className="mt-8 inline-block rounded-full bg-tierra px-7 py-3 font-semibold text-crema transition hover:bg-oro hover:text-tierra"
+              >
+                Nuestros voluntarios →
+              </Link>
             </div>
             <div>
               <Eyebrow>Dónde participan</Eyebrow>
