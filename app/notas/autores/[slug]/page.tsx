@@ -2,10 +2,11 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { Footer, Header } from "../../../components";
-import { areas } from "../../../equipo";
+import { areas, type Integrante } from "../../../equipo";
 import { Avatar } from "../../../equipo/miembro";
+import { voluntarios } from "../../../voluntarios";
 import { redesDe } from "../../autores";
-import { getAutor, getAutores } from "../../datos";
+import { getAutor, getAutorDeIntegrante, getAutores } from "../../datos";
 import { BotonesRedes } from "../../redes";
 import { TarjetaNota } from "../../tarjeta";
 
@@ -23,20 +24,24 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   return { title: titulo, description: descripcion, openGraph: { title: titulo, description: descripcion } };
 }
 
-// Si la persona forma parte del equipo, usamos su foto y su cargo.
-function buscarEnEquipo(nombre: string) {
+// Si la persona forma parte del equipo o del voluntariado, usamos su foto, su cargo y su bio.
+// Se busca igual que el botón "Ver sus notas" de las tarjetas, para que siempre coincidan.
+function buscarEnEquipo(slug: string) {
+  const esElAutor = (p: Integrante) => getAutorDeIntegrante(p.autor ?? p.nombre)?.slug === slug;
   for (const area of areas) {
-    const persona = area.integrantes.find(
-      (p) => p.nombre === nombre || p.nombre.startsWith(`${nombre} `),
-    );
-    if (persona) return { persona, area };
+    const persona = area.integrantes.find(esElAutor);
+    if (persona) return { persona, cargo: `${persona.cargo} · ${area.nombre}` };
+  }
+  for (const { area, ...v } of voluntarios) {
+    const persona = { ...v, cargo: "Voluntariado" };
+    if (esElAutor(persona)) return { persona, cargo: `Voluntariado · ${area}` };
   }
 }
 
 export default async function AutorPage({ params }: Props) {
   const autor = getAutor((await params).slug);
   if (!autor) notFound();
-  const equipo = buscarEnEquipo(autor.nombre);
+  const equipo = buscarEnEquipo(autor.slug);
   const redes = redesDe(autor.nombre);
 
   return (
@@ -54,7 +59,7 @@ export default async function AutorPage({ params }: Props) {
                 <h1 className="text-4xl font-bold sm:text-5xl">{autor.nombre}</h1>
                 {equipo && (
                   <p className="mt-2 text-sm font-medium uppercase tracking-wider text-oro">
-                    {equipo.persona.cargo} · {equipo.area.nombre}
+                    {equipo.cargo}
                   </p>
                 )}
                 <p className="mt-2 text-crema/80">
