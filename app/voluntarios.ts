@@ -16,6 +16,12 @@ export const voluntarios: Voluntario[] = [
     bio: "Estudiante de Relaciones Internacionales en la Universidad Católica Argentina. Actualmente se desempeña como becaria en la Alianza Francesa de Buenos Aires.",
     linkedin: "https://www.linkedin.com/in/luciasolmartin/",
   },
-  { nombre: "Lourdes Torres", area: "Comunicación y Diseño" },
+  {
+    nombre: "Lourdes Torres",
+    area: "Comunicación y Diseño",
+    foto: "/equipo/lourdes-torres.jpg",
+    bio: "Estudiante de la Licenciatura en Relaciones Internacionales en la Universidad Católica de Santiago del Estero. Actualmente se desempeña como Community Manager y gestora de redes sociales en Tárpuy Agencia, dedicada al marketing digital.",
+    instagram: "louu.torres",
+  },
   { nombre: "Santiago Provensale", area: "Comunicación y Diseño" },
 ];
