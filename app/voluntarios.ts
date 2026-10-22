@@ -16,6 +16,7 @@ export const voluntarios: Voluntario[] = [
   {
     nombre: "Milagros Portilla",
     area: "Académica",
+    foto: "/equipo/milagros-portilla.jpg",
     bio: "Estudiante de Relaciones Internacionales y Ciencia Política en la Universidad de Palermo.",
     instagram: "milaporti",
     linkedin: "https://www.linkedin.com/in/milagros-portilla-4b19bb317/",
