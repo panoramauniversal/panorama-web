@@ -65,6 +65,7 @@ export const redesAutores: Record<string, Redes> = {
   "Santiago Provensale": { instagram: "santiproven8" },
   "Santiago Simons": { instagram: "santisimons", linkedin: "https://www.linkedin.com/in/santiago-simons/" },
   "Santiago Soratti": { instagram: "santiagosoratti" },
+  "Sofía Burgos": { instagram: "sofia.p.burgos", linkedin: "https://www.linkedin.com/in/sofiapilarburgos/" },
   "Sofia Celiz": { instagram: "sofiaceliz__" },
   "Sofia Kasirer": { instagram: "sofikasirer" },
   "Sofia Selser": { instagram: "sofiselser" },
