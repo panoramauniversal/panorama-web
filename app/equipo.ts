@@ -98,11 +98,17 @@ export const areas: Area[] = [
       {
         nombre: "Agostina Granero Vocos",
         cargo: "Secretaria",
+        bio: "Licenciada en Relaciones Internacionales por la Universidad Católica de Córdoba (UCC). Trabaja como Asistente de Investigación en el Kellogg Institute for International Studies de la Universidad de Notre Dame, además es voluntaria de la Dirección Editorial del Consejo Argentino para las Relaciones Internacionales (CARI).",
         foto: "/equipo/agostina-granero-vocos.webp",
         linkedin: "https://www.linkedin.com/in/agostinagranerovocos/",
         instagram: "agosgranero22",
       },
-      { nombre: "Joaquín Campoy", cargo: "Subsecretario", foto: "/equipo/joaquin-campoy.jpg" },
+      {
+        nombre: "Joaquín Campoy",
+        cargo: "Subsecretario",
+        bio: "Licenciado en Ciencia Política y Relaciones Internacionales por la Universidad Católica de La Plata. Maestrando en Relaciones Internacionales en la Universidad Austral. Voluntario de la Dirección Editorial y de Comunicación del Consejo Argentino para las Relaciones Internacionales (CARI) y miembro del Grupo de Trabajo sobre Australasia del Comité de Asuntos Asiáticos del CARI.",
+        foto: "/equipo/joaquin-campoy.jpg",
+      },
     ],
   },
   {
