@@ -68,19 +68,17 @@ export default async function AreaPage({ params }: Props) {
 
         <section className="mx-auto max-w-6xl px-4 py-16 sm:px-6 md:py-20">
           {area.integrantes.length > 2 ? (
-            // Con más de dos integrantes, van todos en una misma fila a lo ancho.
+            // Con más de dos integrantes, van primero todos en una misma fila a lo ancho.
             <>
-              <div className="grid gap-8 md:grid-cols-[2fr_1fr] md:items-start">
+              <Eyebrow>Integrantes</Eyebrow>
+              <div className="grid gap-5 lg:grid-cols-3">
+                {area.integrantes.map((p) => (
+                  <TarjetaMiembro key={p.nombre} persona={p} />
+                ))}
+              </div>
+              <div className="mt-14 grid gap-8 md:grid-cols-[2fr_1fr] md:items-start">
                 <QueHacemos tareas={area.tareas} />
                 {area.mail && <Contacto mail={area.mail} />}
-              </div>
-              <div className="mt-14">
-                <Eyebrow>Integrantes</Eyebrow>
-                <div className="grid gap-5 lg:grid-cols-3">
-                  {area.integrantes.map((p) => (
-                    <TarjetaMiembro key={p.nombre} persona={p} />
-                  ))}
-                </div>
               </div>
             </>
           ) : (
