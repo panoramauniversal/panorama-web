@@ -53,6 +53,7 @@ export const areas: Area[] = [
       {
         nombre: "Santiago Simons",
         cargo: "Secretario General",
+        bio: "Licenciado en Periodismo por la Universidad de Palermo (UP), donde actualmente cursa las licenciaturas en Relaciones Internacionales y en Ciencia Política. Se desempeña como Analista de Estrategia y Comunicación Institucional en la Fundación CiGob, donde trabaja en proyectos en la intersección entre tecnología, gobierno y sociedad, y en el área de Comunicación Digital de Autoritas Consulting. Anteriormente fue Redactor Web y Analista de Métricas en Bitbol, Analista de SEO y Posicionamiento Digital en RepLatam y Director de Contenido Audiovisual en Seleccionados.",
         linkedin: "https://www.linkedin.com/in/santiago-simons/",
         instagram: "santisimons",
       },
