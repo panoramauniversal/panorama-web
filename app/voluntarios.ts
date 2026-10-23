@@ -10,6 +10,7 @@ export const voluntarios: Voluntario[] = [
   {
     nombre: "Milagros Larsen",
     area: "Académica",
+    foto: "/equipo/milagros-larsen.jpg",
     bio: "Estudiante de Relaciones Internacionales en la Universidad Nacional del Centro de la Provincia de Buenos Aires (UNICEN).",
     instagram: "milii_larsen",
   },
