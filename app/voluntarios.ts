@@ -8,6 +8,13 @@ export type Voluntario = Omit<Integrante, "cargo"> & { area: string };
 export const voluntarios: Voluntario[] = [
   { nombre: "Agustina Luc", area: "Comunicación y Diseño" },
   {
+    nombre: "Martina Ayelén Rein",
+    area: "Asuntos Institucionales y Proyectos",
+    foto: "/equipo/martina-rein.jpg",
+    bio: "Estudiante avanzada de Relaciones Internacionales en la Universidad Católica Argentina.",
+    linkedin: "https://www.linkedin.com/in/martinarein/",
+  },
+  {
     nombre: "Milagros Larsen",
     area: "Académica",
     foto: "/equipo/milagros-larsen.jpg",
