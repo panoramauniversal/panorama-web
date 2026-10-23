@@ -38,7 +38,13 @@ export const voluntarios: Voluntario[] = [
     instagram: "guajira.cosmica",
   },
   { nombre: "Cecile Fabian-Fränkel", area: "Comunicación y Diseño" },
-  { nombre: "Iara Bornaz", area: "Comunicación y Diseño" },
+  {
+    nombre: "Iara Bornaz",
+    area: "Comunicación y Diseño",
+    bio: "Licenciada en Relaciones Internacionales por la Universidad Católica de Córdoba (UCC). Actualmente se desempeña como voluntaria en el Consejo Argentino para las Relaciones Internacionales (CARI) y en CIPPEC.",
+    instagram: "iarabornazz",
+    linkedin: "https://www.linkedin.com/in/iarabornaz/",
+  },
   {
     nombre: "Lucia Sol Martin",
     area: "Asuntos Institucionales y Proyectos",
