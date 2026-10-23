@@ -25,6 +25,7 @@ export const voluntarios: Voluntario[] = [
     nombre: "Tomás Barrera",
     autor: "Tomás Gabriel Barrera",
     area: "Académica",
+    foto: "/equipo/tomas-barrera.jpg",
     bio: "Licenciado en Historia por la Universidad de Chile y estudiante de Periodismo en la Universidad Gabriela Mistral. Actualmente se desempeña como profesional de capacitaciones en World Vision Chile, vinculando su trayectoria con la educación, los derechos humanos y las relaciones internacionales.",
     instagram: "guajira.cosmica",
   },
