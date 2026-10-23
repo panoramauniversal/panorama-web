@@ -62,7 +62,7 @@ export const redesAutores: Record<string, Redes> = {
   "Ornella Ramírez": { instagram: "orneramirez", linkedin: "https://www.linkedin.com/in/ornella-ramirez-4370a4313" },
   "Pablo Azcurra Arndt": { instagram: "diewuste_wachst" },
   "Pedro Gil Rodríguez": { instagram: "pedrorodriguezg" },
-  "Santiago Provensale": { instagram: "santiproven8" },
+  "Santiago Provensale": { instagram: "santiproven8", linkedin: "https://www.linkedin.com/in/santiagojavierprovensale/" },
   "Santiago Simons": { instagram: "santisimons", linkedin: "https://www.linkedin.com/in/santiago-simons/" },
   "Santiago Soratti": { instagram: "santiagosoratti" },
   "Sofía Burgos": { instagram: "sofia.p.burgos", linkedin: "https://www.linkedin.com/in/sofiapilarburgos/" },

@@ -53,5 +53,11 @@ export const voluntarios: Voluntario[] = [
     bio: "Estudiante de la Licenciatura en Relaciones Internacionales en la Universidad Católica de Santiago del Estero. Actualmente se desempeña como Community Manager y gestora de redes sociales en Tárpuy Agencia, dedicada al marketing digital.",
     instagram: "louu.torres",
   },
-  { nombre: "Santiago Provensale", area: "Comunicación y Diseño" },
+  {
+    nombre: "Santiago Provensale",
+    area: "Comunicación y Diseño",
+    bio: "Licenciado en Relaciones Internacionales por la Universidad Católica de Córdoba (UCC). Actualmente se desempeña en el área de Comunicación de la Secretaría General de la Gobernación de Córdoba, donde realiza tareas de análisis y comunicación política.",
+    instagram: "santiproven8",
+    linkedin: "https://www.linkedin.com/in/santiagojavierprovensale/",
+  },
 ];
