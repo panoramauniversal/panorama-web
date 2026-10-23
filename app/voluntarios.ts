@@ -56,6 +56,7 @@ export const voluntarios: Voluntario[] = [
   {
     nombre: "Santiago Provensale",
     area: "Comunicación y Diseño",
+    foto: "/equipo/santiago-provensale.jpg",
     bio: "Licenciado en Relaciones Internacionales por la Universidad Católica de Córdoba (UCC). Actualmente se desempeña en el área de Comunicación de la Secretaría General de la Gobernación de Córdoba, donde realiza tareas de análisis y comunicación política.",
     instagram: "santiproven8",
     linkedin: "https://www.linkedin.com/in/santiagojavierprovensale/",
