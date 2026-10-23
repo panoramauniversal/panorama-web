@@ -18,6 +18,31 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     : {};
 }
 
+function QueHacemos({ tareas }: { tareas: string[] }) {
+  return (
+    <div>
+      <Eyebrow>Qué hacemos</Eyebrow>
+      <ul className="space-y-4">
+        {tareas.map((t) => (
+          <li key={t} className="flex gap-3 text-tierra-suave">
+            <span className="mt-2 h-2 w-2 shrink-0 rounded-full bg-oro" />
+            <span>{t}</span>
+          </li>
+        ))}
+      </ul>
+    </div>
+  );
+}
+
+function Contacto({ mail, className = "" }: { mail: string; className?: string }) {
+  return (
+    <p className={`rounded-2xl bg-oro-claro p-5 text-sm ${className}`}>
+      <span className="block font-semibold">Contacto</span>
+      <MailLink mail={mail} className="text-[13px] tracking-tight" />
+    </p>
+  );
+}
+
 export default async function AreaPage({ params }: Props) {
   const area = getArea((await params).slug);
   if (!area) notFound();
@@ -42,33 +67,38 @@ export default async function AreaPage({ params }: Props) {
         </section>
 
         <section className="mx-auto max-w-6xl px-4 py-16 sm:px-6 md:py-20">
-          <div className="grid gap-12 md:grid-cols-[1fr_2fr]">
-            <div>
-              <Eyebrow>Qué hacemos</Eyebrow>
-              <ul className="space-y-4">
-                {area.tareas.map((t) => (
-                  <li key={t} className="flex gap-3 text-tierra-suave">
-                    <span className="mt-2 h-2 w-2 shrink-0 rounded-full bg-oro" />
-                    <span>{t}</span>
-                  </li>
-                ))}
-              </ul>
-              {area.mail && (
-                <p className="mt-8 rounded-2xl bg-oro-claro p-5 text-sm">
-                  <span className="block font-semibold">Contacto</span>
-                  <MailLink mail={area.mail} className="text-[13px] tracking-tight" />
-                </p>
-              )}
-            </div>
-            <div>
-              <Eyebrow>Integrantes</Eyebrow>
-              <div className="grid items-start gap-5 lg:grid-cols-2">
-                {area.integrantes.map((p) => (
-                  <TarjetaMiembro key={p.nombre} persona={p} />
-                ))}
+          {area.integrantes.length > 2 ? (
+            // Con más de dos integrantes, van todos en una misma fila a lo ancho.
+            <>
+              <div className="grid gap-8 md:grid-cols-[2fr_1fr] md:items-start">
+                <QueHacemos tareas={area.tareas} />
+                {area.mail && <Contacto mail={area.mail} />}
+              </div>
+              <div className="mt-14">
+                <Eyebrow>Integrantes</Eyebrow>
+                <div className="grid gap-5 lg:grid-cols-3">
+                  {area.integrantes.map((p) => (
+                    <TarjetaMiembro key={p.nombre} persona={p} />
+                  ))}
+                </div>
+              </div>
+            </>
+          ) : (
+            <div className="grid gap-12 md:grid-cols-[1fr_2fr]">
+              <div>
+                <QueHacemos tareas={area.tareas} />
+                {area.mail && <Contacto mail={area.mail} className="mt-8" />}
+              </div>
+              <div>
+                <Eyebrow>Integrantes</Eyebrow>
+                <div className="grid items-start gap-5 lg:grid-cols-2">
+                  {area.integrantes.map((p) => (
+                    <TarjetaMiembro key={p.nombre} persona={p} />
+                  ))}
+                </div>
               </div>
             </div>
-          </div>
+          )}
         </section>
 
         <section className="border-t border-tierra/10 bg-white">
