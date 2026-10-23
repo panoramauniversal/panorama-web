@@ -41,6 +41,7 @@ export const voluntarios: Voluntario[] = [
   {
     nombre: "Iara Bornaz",
     area: "Comunicación y Diseño",
+    foto: "/equipo/iara-bornaz.jpg",
     bio: "Licenciada en Relaciones Internacionales por la Universidad Católica de Córdoba (UCC). Actualmente se desempeña como voluntaria en el Consejo Argentino para las Relaciones Internacionales (CARI) y en CIPPEC.",
     instagram: "iarabornazz",
     linkedin: "https://www.linkedin.com/in/iarabornaz/",
