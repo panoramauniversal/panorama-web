@@ -37,7 +37,13 @@ export const voluntarios: Voluntario[] = [
     bio: "Licenciado en Historia por la Universidad de Chile y estudiante de Periodismo en la Universidad Gabriela Mistral. Actualmente se desempeña como profesional de capacitaciones en World Vision Chile, vinculando su trayectoria con la educación, los derechos humanos y las relaciones internacionales.",
     instagram: "guajira.cosmica",
   },
-  { nombre: "Cecile Fabian-Fränkel", area: "Comunicación y Diseño", foto: "/equipo/cecile-fabian-frankel.jpg" },
+  {
+    nombre: "Cecile Fabian-Fränkel",
+    area: "Comunicación y Diseño",
+    foto: "/equipo/cecile-fabian-frankel.jpg",
+    bio: "Estudiante de Diseño Gráfico en la Universidad de Buenos Aires (UBA).",
+    instagram: "cecifrankel",
+  },
   {
     nombre: "Iara Bornaz",
     area: "Comunicación y Diseño",
