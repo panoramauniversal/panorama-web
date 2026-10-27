@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Image from "next/image";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { Footer, Header } from "../../components";
@@ -17,7 +18,10 @@ function Autores({ autores }: { autores: string }) {
       {nombres.map((nombre, i) => (
         <span key={nombre}>
           {i > 0 && (i === nombres.length - 1 ? " y " : ", ")}
-          <Link href={`/notas/autores/${slugAutor(nombre)}`} className="font-semibold text-crema hover:text-oro">
+          <Link
+            href={`/notas/autores/${slugAutor(nombre)}`}
+            className="font-semibold text-crema hover:text-oro"
+          >
             {nombre}
           </Link>
         </span>
@@ -51,7 +55,12 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     ? {
         title: `${nota.titulo} | Panorama Universal`,
         description: nota.resumen,
-        openGraph: { title: nota.titulo, description: nota.resumen, type: "article" },
+        openGraph: {
+          title: nota.titulo,
+          description: nota.resumen,
+          type: "article",
+          ...(nota.imagen && { images: [nota.imagen] }),
+        },
       }
     : {};
 }
@@ -89,6 +98,35 @@ export default async function NotaPage({ params }: Props) {
           </header>
 
           <div className="mx-auto max-w-3xl px-4 py-14 sm:px-6 md:py-16">
+            {nota.imagen && (
+              <figure className="mb-10">
+                <Image
+                  src={nota.imagen}
+                  alt=""
+                  width={1200}
+                  height={675}
+                  sizes="(min-width: 768px) 720px, 100vw"
+                  priority
+                  className="aspect-video w-full rounded-2xl object-cover"
+                />
+                {nota.credito && (
+                  <figcaption className="mt-2 text-xs text-tierra-suave">
+                    {nota.creditoUrl ? (
+                      <a
+                        href={nota.creditoUrl}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="hover:text-oro"
+                      >
+                        {nota.credito}
+                      </a>
+                    ) : (
+                      nota.credito
+                    )}
+                  </figcaption>
+                )}
+              </figure>
+            )}
             <p className="border-l-4 border-oro pl-5 font-serif text-xl leading-relaxed sm:text-2xl">
               {nota.resumen}
             </p>

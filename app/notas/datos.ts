@@ -1,5 +1,6 @@
 // Lee las notas desde content/notas/*.md. Cada archivo tiene un encabezado
-// (titulo, fecha, autores, colaboracion, resumen) y el cuerpo en Markdown simple.
+// (titulo, fecha, autores, colaboracion, resumen y, si tiene, imagen, credito y creditoUrl)
+// y el cuerpo en Markdown simple.
 import fs from "node:fs";
 import path from "node:path";
 import { separarAutores, slugAutor } from "./autores";
@@ -11,6 +12,10 @@ export type Nota = {
   autores: string;
   colaboracion?: string;
   resumen: string;
+  // Imagen de portada en public/notas/ (horizontal, de uso libre) y su crédito.
+  imagen?: string;
+  credito?: string;
+  creditoUrl?: string;
   cuerpo: string;
 };
 
@@ -34,6 +39,9 @@ function leerNota(archivo: string): Nota {
     autores: datos.autores,
     colaboracion: datos.colaboracion || undefined,
     resumen: datos.resumen,
+    imagen: datos.imagen || undefined,
+    credito: datos.credito || undefined,
+    creditoUrl: datos.creditoUrl || undefined,
     cuerpo: cuerpo.trim(),
   };
 }
