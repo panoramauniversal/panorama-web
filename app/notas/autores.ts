@@ -26,6 +26,7 @@ export const redesAutores: Record<string, Redes> = {
   "Iara Sofía Santoro": { instagram: "iarusantoro", linkedin: "https://www.linkedin.com/in/iarasantoro" },
   "Ignacio Casco": { instagram: "igna_c" },
   "Ignacio Milman": { instagram: "nachomilman" },
+  "Ivo Trošelj": { instagram: "_ivotroselj" },
   "Jerónimo Zarlenga": { instagram: "jero_zarlenga" },
   "Joaquín Campoy": { instagram: "joaco_campoy_" },
   "José Schleifer": { instagram: "josescheifler" },
