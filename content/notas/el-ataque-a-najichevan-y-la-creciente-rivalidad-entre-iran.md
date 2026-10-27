@@ -3,6 +3,9 @@ titulo: El ataque a Najicheván y la creciente rivalidad entre Irán y Azerbaiy�
 fecha: 2026-03-19
 autores: Juan Pablo Murray
 resumen: El reciente ataque contra el enclave azerí de Najicheván escribe un nuevo capítulo en la historia del Cáucaso, dejando en evidencia la compleja agenda geopolítica de la región y del escenario internacional. Detrás del episodio aparecen cuestiones más profundas: las tensiones entre Irán y Azerbaiyán, el corredor de Zangezur y una región que se vuelve cada vez más estratégica.
+imagen: /notas/el-ataque-a-najichevan-y-la-creciente-rivalidad-entre-iran.webp
+credito: Foto: Svln4821 / Wikimedia Commons (CC BY-SA 4.0)
+creditoUrl: https://commons.wikimedia.org/wiki/File:Ordubad_naxcivan_nakhchivan_azerbaijan_azerbaycan_daglar_svln4821_02.jpg
 ---
 
 ## Lo sucedido en Najicheván

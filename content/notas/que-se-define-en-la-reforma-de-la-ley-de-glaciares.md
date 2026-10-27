@@ -3,6 +3,9 @@ titulo: ¿Qué se define en la reforma de la Ley de Glaciares?
 fecha: 2026-03-02
 autores: Lucia Brizuela
 resumen: El pasado jueves 26 de febrero, el Senado dio media sanción al proyecto de ley remitido por el Poder Ejecutivo que introduce modificaciones a la Ley de Glaciares. El proyecto de ley que modifica el Régimen de Presupuestos Mínimos para la Preservación de los Glaciares y del Ambiente Periglacial fue aprobado con 40 votos afirmativos, 31 negativos y 1 abstención. Sin embargo, aún resta el tratamiento por parte de la Cámara baja.
+imagen: /notas/que-se-define-en-la-reforma-de-la-ley-de-glaciares.webp
+credito: Foto: Luca Galuzzi (Lucag) / Wikimedia Commons (CC BY-SA 2.5)
+creditoUrl: https://commons.wikimedia.org/wiki/File:Perito_Moreno_Glacier_Patagonia_Argentina_Luca_Galuzzi_2005.JPG
 ---
 
 ¿Sobre qué trata esta Ley? La Ley 26.639, sancionada en 2010, fue pionera en el mundo por proteger los glaciares y el ambiente periglacial como reservas estratégicas de agua dulce para consumo humano, agricultura, recarga de cuencas hídricas, biodiversidad y ciencia. Esta ley nacional establece presupuestos mínimos para garantizar una tutela ambiental uniforme en todo el país.

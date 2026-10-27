@@ -5,7 +5,7 @@ autores: Adrián Tuninetti
 colaboracion: CoFEI
 resumen: La Copa del Mundo no es solo una competencia deportiva: también funciona como una plataforma de poder, visibilidad internacional y disputa política. El Mundial organizado por Estados Unidos, México y Canadá refleja varias tensiones del escenario global actual: diplomacia deportiva, soft power, seguridad, migración, intereses comerciales y narrativas de liderazgo.
 imagen: /notas/el-futbol-como-herramienta-de-poder-geopolitica-y-narrativa.webp
-credito: Foto: 内閣広報室 / Cabinet Public Affairs Office / Wikimedia Commons (CC BY 4.0)
+credito: Foto: Oficina de Prensa del Gabinete de Japón / Wikimedia Commons (CC BY 4.0)
 creditoUrl: https://commons.wikimedia.org/wiki/File:Sanae_Takaichi_FIFA_World_Cup_2026_trophy_tour_05.jpg
 ---
 

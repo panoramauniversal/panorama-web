@@ -3,6 +3,9 @@ titulo: El motor europeo: Alemania, Francia y el proyecto E6
 fecha: 2026-03-23
 autores: Joaquín Campoy y Alexis Sanchez
 resumen: En un contexto global cada vez más competitivo, seis potencias europeas impulsan el E6 para coordinar inversiones estratégicas y reforzar la autonomía del continente. La iniciativa busca fortalecer el rol del euro, mejorar la competitividad y reducir la dependencia externa, en medio del repliegue de Estados Unidos y el avance de China.
+imagen: /notas/el-motor-europeo-alemania-francia-y-el-proyecto-e6.webp
+credito: Foto: Casa Blanca / Wikimedia Commons (dominio público)
+creditoUrl: https://commons.wikimedia.org/wiki/File:German_Chancellor_Friedrich_Merz,_French_President_Emmanuel_Macron,_and_other_European_leaders_meet_with_President_Donald_Trump_(54732162600).jpg
 ---
 
 Alemania, Francia, Italia, Países Bajos, Polonia y España impulsan el Grupo E6, una iniciativa para coordinar inversiones estratégicas dentro de Europa. No se enfoca solo en defensa, sino en fortalecer la competitividad y la autonomía económica del continente.

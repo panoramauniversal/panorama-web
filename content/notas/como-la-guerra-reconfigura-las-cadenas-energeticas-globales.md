@@ -4,6 +4,9 @@ fecha: 2026-03-28
 autores: Maximiliano Buteler y Stefano Boubeta
 colaboracion: Internacionalizarse
 resumen: La guerra entre Estados Unidos, Israel e Irán no impacta solo en Medio Oriente. También afecta infraestructuras clave del sistema energético internacional. Cuando aumenta el riesgo sobre producción y tránsito, aumenta también la presión sobre la economía global.
+imagen: /notas/como-la-guerra-reconfigura-las-cadenas-energeticas-globales.webp
+credito: Foto: Gordon Leggett / Wikimedia Commons (CC BY-SA 4.0)
+creditoUrl: https://commons.wikimedia.org/wiki/File:2022-09-04_01_ACADIAN_-_IMO_9298715_tanker_%E2%80%93_St._John%E2%80%99s_NL_Canada.jpg
 ---
 
 La guerra entre Estados Unidos, Israel e Irán no impacta solo en Medio Oriente. También afecta infraestructuras clave del sistema energético internacional. Cuando aumenta el riesgo sobre producción y tránsito, aumenta también la presión sobre la economía global.

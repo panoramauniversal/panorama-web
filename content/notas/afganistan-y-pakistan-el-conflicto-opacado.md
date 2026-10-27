@@ -3,6 +3,9 @@ titulo: Afganistán y Pakistán: el conflicto opacado
 fecha: 2026-03-30
 autores: Matías Moretti
 resumen: Mientras la atención global se concentra en Medio Oriente, un nuevo foco de tensión emerge en el sur de Asia. Los enfrentamientos entre Afganistán y Pakistán reactivan una disputa histórica marcada por la Línea Durand, tensiones étnicas y el rol de los talibanes en la región. El conflicto, impulsado por acusaciones cruzadas y ataques fronterizos, se inserta además en una dinámica geopolítica más amplia que involucra a China e India.
+imagen: /notas/afganistan-y-pakistan-el-conflicto-opacado.webp
+credito: Foto: Maximusopti / Wikimedia Commons (CC BY-SA 4.0)
+creditoUrl: https://commons.wikimedia.org/wiki/File:Torkham_border.jpg
 ---
 
 En una coyuntura internacional donde la atención está puesta en los acontecimientos en Ormuz, el Golfo Pérsico y los reinos árabes, un nuevo conflicto en el sur de Asia está pasando desapercibido. El pasado 27 de febrero, el gobierno pakistaní declaró entrar en una guerra abierta contra Afganistán a partir de una serie de combates que comenzaron en la frontera entre ambos países.

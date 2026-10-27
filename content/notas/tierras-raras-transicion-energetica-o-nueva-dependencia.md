@@ -4,6 +4,9 @@ fecha: 2026-03-04
 autores: Agostina Granero
 colaboracion: Chicas en RRII
 resumen: Tu celular, los autos eléctricos, los aerogeneradores y hasta el avión de combate F-35 dependen de un grupo de 17 elementos casi desconocidos: las tierras raras. No son tan “raras” por su escasez, sino por lo complejo y costoso de extraerlas y procesarlas. China concentra cerca del 70% de la extracción mundial y alrededor del 90% del procesamiento global, lo que le otorga una ventaja estratégica clave en plena guerra comercial con Estados Unidos.
+imagen: /notas/tierras-raras-transicion-energetica-o-nueva-dependencia.webp
+credito: Foto: Tmy350 / Wikimedia Commons (CC BY-SA 4.0)
+creditoUrl: https://commons.wikimedia.org/wiki/File:Mountain_Pass_Rare_Earth_Mine_%26_Processing_Facility.jpg
 ---
 
 ## Introducción

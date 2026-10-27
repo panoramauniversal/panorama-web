@@ -3,6 +3,9 @@ titulo: ¿Por qué Irán?
 fecha: 2026-03-09
 autores: Facundo Mosovich García
 resumen: La reciente escalada entre Estados Unidos, Israel e Irán vuelve a poner en debate cuáles son las verdaderas causas de las intervenciones militares. Mientras Washington justifica sus acciones en la amenaza nuclear iraní y la seguridad regional, otros análisis señalan que el conflicto debe entenderse también en el marco de la competencia geopolítica y el reordenamiento del poder en Medio Oriente.
+imagen: /notas/por-que-iran.webp
+credito: Foto: Mhsheikholeslami / Wikimedia Commons (CC BY-SA 4.0)
+creditoUrl: https://commons.wikimedia.org/wiki/File:Tehran_skyline-_Alborz_Mountains_on_background-20150401.jpg
 ---
 
 ## Introducción
