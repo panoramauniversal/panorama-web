@@ -4,6 +4,9 @@ fecha: 2026-04-15
 autores: Valentina Silva
 colaboracion: Internacionalizarse
 resumen: Vivimos en una época donde el acceso al conocimiento nunca fue tan amplio, pero su comprensión parece cada vez más superficial. Entre la ilusión de saber, el peso del pensamiento grupal y la rapidez de las redes, surge una pregunta clave: ¿estamos realmente formando una sociedad más crítica o solo más segura de su propia ignorancia?
+imagen: /notas/el-caso-de-la-globalizacion-intelectual-fallida.webp
+credito: Foto: Diliff / Wikimedia Commons (CC BY 2.5)
+creditoUrl: https://commons.wikimedia.org/wiki/File:NYC_Public_Library_Research_Room_Jan_2006-1-_3.jpg
 ---
 
 ## La ignorancia moderna

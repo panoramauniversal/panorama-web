@@ -3,6 +3,9 @@ titulo: El ojo que todo lo ve: ¿Qué quiere Peter Thiel en Argentina?
 fecha: 2026-06-08
 autores: Matias Leibovich
 resumen: Peter Thiel es muchas cosas: billonario, tecnolibertario, ferviente aliado de Donald Trump, Presidente de Palantir Technologies, y recientemente, residente de Buenos Aires. Pero ¿quién es este enigmático magnate y qué lo trae a la Argentina? Palantir, su famosa empresa, ha generado cuanto menos, un revuelo.
+imagen: /notas/el-ojo-que-todo-lo-ve-que-quiere-peter-thiel-en-argentina.webp
+credito: Foto: Gage Skidmore from Surprise, AZ, United States of America / Wikimedia Commons (CC BY-SA 2.0)
+creditoUrl: https://commons.wikimedia.org/wiki/File:Peter_Thiel_(51876289196).jpg
 ---
 
 ## Introducción

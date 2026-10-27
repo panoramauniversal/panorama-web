@@ -3,6 +3,9 @@ titulo: Entre Washington y Beijing: la Unión Europea y los límites de la auton
 fecha: 2026-04-06
 autores: Santiago Provensale
 resumen: ¿Es la UE un actor soberano o un simple tablero de juego? El viejo orden ha muerto. Atrapada entre la hegemonía de Washington y el ascenso de Beijing, la UE enfrenta una crisis de identidad sistémica. Durante décadas, Bruselas confió que el comercio y las reglas serían suficientes, pero la geopolítica actual exige algo que Europa aún no consolida: poder real.
+imagen: /notas/entre-washington-y-beijing-la-union-europea-y-los-limites.webp
+credito: Foto: EmDee / Wikimedia Commons (CC BY-SA 4.0)
+creditoUrl: https://commons.wikimedia.org/wiki/File:Belgique_-_Bruxelles_-_Schuman_-_Berlaymont_-_01.jpg
 ---
 
 ## Actor intermedio

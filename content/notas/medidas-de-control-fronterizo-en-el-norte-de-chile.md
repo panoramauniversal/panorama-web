@@ -3,6 +3,9 @@ titulo: Medidas de control fronterizo en el norte de Chile
 fecha: 2026-04-20
 autores: Felipe Barrientos
 resumen: A lo largo de 2025 y lo que va de 2026, la infraestructura en la frontera norte de Chile ha experimentado una transformación sin precedentes, sobre todo en los puntos críticos de las regiones de Arica, Parinacota y Tarapacá (Sectores de Chacalluta y Colchane). El objetivo central de estas obras es centralizar el flujo migratorio exclusivamente a través de pasos habilitados y combatir el crimen organizado trasnacional.
+imagen: /notas/medidas-de-control-fronterizo-en-el-norte-de-chile.webp
+credito: Foto: Bachelot Pierre J-P / Wikimedia Commons (CC BY-SA 3.0)
+creditoUrl: https://commons.wikimedia.org/wiki/File:Colchane_chili.jpg
 ---
 
 En los últimos años, la frontera norte de Chile se ha convertido en un punto clave del debate político y social. Se ha registrado un aumento significativo de la migración irregular, generando preocupación por la seguridad y el control territorial. La medida fue anunciada por el actual presidente, José Antonio Kast, en su campaña presidencial del 2025, y consiste en cerrar la frontera norte de Chile compartida con Perú y Bolivia.

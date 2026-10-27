@@ -3,6 +3,9 @@ titulo: ¿Cuánto le queda de vida al Reino Unido?
 fecha: 2026-05-18
 autores: Stefano Boubeta
 resumen: En un sistema internacional en constante mutación, la capacidad de resiliencia de las potencias tradicionales se encuentra diezmada por influjos tanto externos como internos. Las tensiones políticas, el rechazo a la centralización y los desafíos socioeconómicos ponen a prueba la integridad del Reino Unido, analizando si su estructura política y su proyección global podrán sostenerse frente a las fuerzas centrífugas del siglo XXI.
+imagen: /notas/cuanto-le-queda-de-vida-al-reino-unido.webp
+credito: Foto: Diliff / Wikimedia Commons (CC BY-SA 2.5)
+creditoUrl: https://commons.wikimedia.org/wiki/File:Palace_of_Westminster,_London_-_Feb_2007.jpg
 ---
 
 Durante gran parte del siglo XX, el Reino Unido fue considerado uno de los sistemas políticos más estables del mundo occidental. Mientras gran parte de Europa atravesaba guerras, crisis institucionales o profundos procesos de fragmentación política, Westminster parecía mantenerse inmune al caos. La monarquía parlamentaria, el histórico bipartidismo entre conservadores y laboristas, y la fortaleza de sus instituciones construyeron la imagen de un país políticamente previsible, sólido y relativamente ajeno a las turbulencias que afectaban a otras democracias europeas.

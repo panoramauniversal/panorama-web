@@ -4,6 +4,9 @@ fecha: 2026-06-01
 autores: Martina Yannone
 colaboracion: Internacionalizarse
 resumen: “En un contexto global cada vez más fragmentado y competitivo, marcado por tensiones geopolíticas y una creciente reorientación de recursos hacia seguridad y defensa, los datos preliminares de la OCDE 2025 muestran una caída histórica de los flujos de Ayuda Oficial al Desarrollo (AOD).”
+imagen: /notas/la-mayor-caida-historica-de-la-ayuda-oficial-al-desarrollo.webp
+credito: Foto: autor desconocido / Wikimedia Commons (CC BY-SA 4.0)
+creditoUrl: https://commons.wikimedia.org/wiki/File:USAid_Books_in_Chichewa_for_standard_5.jpg
 ---
 
 “En un contexto global cada vez más fragmentado y competitivo, marcado por tensiones geopolíticas y una creciente reorientación de recursos hacia seguridad y defensa, los datos preliminares de la OCDE 2025 muestran una caída histórica de los flujos de Ayuda Oficial al Desarrollo (AOD).”

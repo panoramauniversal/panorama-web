@@ -3,6 +3,9 @@ titulo: De la Nación del Arcoíris a la caza del inmigrante: cómo Sudáfrica p
 fecha: 2026-06-29
 autores: Valentina Campagna
 resumen: Ante problemas estructurales como el desempleo y la escasez de servicios básicos, grupos civiles radicalizados culpan a los extranjeros e imponen un ultimátum para abandonar el país el 30 de junio. La hostilidad, enraizada en los traumas psicológicos heredados del apartheid, generó situaciones donde se aplica la justicia por mano propia, así como desplazamientos y una fuerte condena de la comunidad internacional y la Unión Africana.
+imagen: /notas/de-la-nacion-del-arcoiris-a-la-caza-del-inmigrante-como.webp
+credito: Foto: Matt-80 / Wikimedia Commons (CC BY 2.0)
+creditoUrl: https://commons.wikimedia.org/wiki/File:Soweto_township.jpg
 ---
 
 ## Intereses en conflicto

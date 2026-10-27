@@ -3,6 +3,9 @@ titulo: Nuestro suelo más querido - Entrevista con Waldemar Aquino (VGM)
 fecha: 2026-04-22
 autores: Octavio Sánchez Piedrabuena, Martina Christensen y Justina Mattos
 resumen: Conversamos con el Capitán de Navío (R) Waldemar Aquino, quien durante el conflicto de Malvinas se desempeñó como Teniente de Corbeta y Jefe de Apoyo Logístico del legendario BIM 5 en Río Grande. Ahondamos sobre el peso del mando, el coraje, la importancia de Malvinas como el conflicto más austral del mundo, la disparidad de fuerzas y las enseñanzas militares que la guerra nos dejó.
+imagen: /notas/nuestro-suelo-mas-querido-entrevista-con-waldemar-aquino-vgm.webp
+credito: Foto: Pablo D. Flores / Wikimedia Commons (CC BY-SA 2.5)
+creditoUrl: https://commons.wikimedia.org/wiki/File:Monumento_a_los_ca%C3%ADdos_en_Malvinas,_Rosario.jpg
 ---
 
 ## Waldemar Aquino

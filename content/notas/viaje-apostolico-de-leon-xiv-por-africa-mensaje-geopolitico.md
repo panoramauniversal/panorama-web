@@ -4,6 +4,9 @@ fecha: 2026-05-20
 autores: Felipe Barrientos
 colaboracion: Soft Power Argentina
 resumen: El Papa León XIV realizó una gira por el continente africano durante 11 días, recorrido que aprovechó para pronunciarse una vez más a favor de la paz y manifestándose en contra de la guerra y la corrupción, pidiendo por los derechos humanos, el buen uso de los recursos naturales y los derechos de los migrantes.
+imagen: /notas/viaje-apostolico-de-leon-xiv-por-africa-mensaje-geopolitico.webp
+credito: Foto: Edgar Beltrán / The Pillar / Wikimedia Commons (CC BY-SA 4.0)
+creditoUrl: https://commons.wikimedia.org/wiki/File:Pope_Leo_XIV_1.png
 ---
 
 El Papa León XIV realizó su primer viaje Apostólico a África, desde el 13 al 23 de abril de 2026, visitando Argelia, Camerún, Angola y Guinea Ecuatorial. Fue una gira centrada en la paz, diálogo interreligioso, denuncia de explotación de recursos y el apoyo de las comunidades locales. El viaje duró 11 días, recorriendo más de 17.000 kilómetros y realizando 18 vuelos. Finalizó el día 23 de abril en Guinea Ecuatorial con un llamado a la reconciliación y a la paz en el continente africano.

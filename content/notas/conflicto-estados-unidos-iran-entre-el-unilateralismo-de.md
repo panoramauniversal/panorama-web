@@ -4,6 +4,9 @@ fecha: 2026-04-27
 autores: Matias Gonzalez
 colaboracion: CEDEMA
 resumen: El 28 de febrero comenzó una escalada de conflicto entre las fuerzas de Estados Unidos e Israel contra Irán. Los bombardeos con aviones y drones por parte de las potencias occidentales y la respuesta iraní que terminó en el cierre del estrecho de Ormuz sacudiendo la economía mundial llevó a un escenario en el que la paz parecía una lejana utopía. Sin embargo, a inicios de abril, un nuevo actor ingresó en la escena: Pakistán.
+imagen: /notas/conflicto-estados-unidos-iran-entre-el-unilateralismo-de.webp
+credito: Foto: بهادر های زاده / Wikimedia Commons (CC BY-SA 4.0)
+creditoUrl: https://commons.wikimedia.org/wiki/File:Azadi_Tower_in_the_spring.jpg
 ---
 
 ## El despertar de la disputa

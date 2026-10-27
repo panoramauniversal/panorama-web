@@ -3,6 +3,9 @@ titulo: La dualidad del átomo en la Tercera Era Nuclear
 fecha: 2026-05-04
 autores: Natalia Luers
 resumen: Con la 11ava Conferencia de Revisión (RevCon) del Tratado de No-Proliferación Nuclear (TNP) teniendo lugar desde el pasado 27 de abril hasta el 22 de mayo en la ciudad de Nueva York, la comunidad internacional se reúne en un contexto nombrado por muchos analistas como el inicio de la Tercera Era Nuclear: una coyuntura marcada por la erosión de los acuerdos de control de armamentos, el resurgimiento de la competencia entre grandes potencias, y la multiplicación de focos de tensión con implicancias nucleares. En este escenario, la RevCon adquiere una relevancia renovada, pero enfrenta límites evidentes en su capacidad de adaptarse a esta nueva fase del orden nuclear internacional. Su objetivo sigue siendo evaluar la implementación del tratado en función de sus tres pilares (no proliferación, desarme nuclear y usos pacíficos de la energía nuclear), reducir los riesgos de escalada nuclear y acordar un lineamiento para su funcionamiento futuro, en un momento en que los mecanismos tradicionales de gobernanza nuclear muestran signos de debilitamiento y desconfianza.
+imagen: /notas/la-dualidad-del-atomo-en-la-tercera-era-nuclear.webp
+credito: Foto: Mrcukilo / Wikimedia Commons (CC BY-SA 3.0)
+creditoUrl: https://commons.wikimedia.org/wiki/File:Central_Nuclear_Atucha_I_-_II.JPG
 ---
 
 ## De dónde venimos: Primera Era Nuclear

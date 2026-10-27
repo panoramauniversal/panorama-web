@@ -4,6 +4,9 @@ fecha: 2026-05-06
 autores: Guillermo Dellatorre
 colaboracion: Repensar la Argentina
 resumen: La Patagonia representa una gran relevancia geopolítica de Argentina. Desde el control de los pasos bioceánicos hasta las inmensas reservas de agua, gas y petróleo, el sur puede definir nuestro futuro como nación. Pero esta riqueza convive con tensiones fronterizas y dilemas de soberanía que debemos tener en cuenta. Todas estas cuestiones plantean las siguientes preguntas; ¿Cómo proceder ante cada uno de los sectores reclamantes del territorio?
+imagen: /notas/patagonia-entre-riqueza-y-conflicto.webp
+credito: Foto: Fernando / Wikimedia Commons (CC BY-SA 4.0)
+creditoUrl: https://commons.wikimedia.org/wiki/File:Llao_Llao_Peninsula.jpg
 ---
 
 ## Territorio y Alcance
