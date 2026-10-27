@@ -3,6 +3,9 @@ titulo: Matar la memoria: La destrucción del Museo Nacional de Chernóbil en Ki
 fecha: 2026-07-06
 autores: Lucas Sachetto
 resumen: ªDurante el pasado mes de marzo un ataque balístico ruso contra la ciudad ucraniana de Kiev terminó con la destrucción parcial del Museo Nacional de Chernóbil. El ataque no sólo destruyó parte de su acervo documental, también afectó uno de los principales espacios donde Ucrania construyó una narrativa y una memoria histórica sobre la tragedia nuclear de 1986.
+imagen: /notas/matar-la-memoria-la-destruccion-del-museo-nacional-de.webp
+credito: Foto: Paweł 'pbm' Szubert / Wikimedia Commons (CC BY-SA 3.0)
+creditoUrl: https://commons.wikimedia.org/wiki/File:Chernobyl_-_power_plant_-_reactor_4_02.jpg
 ---
 
 ## Cuando la guerra ataca la memoria histórica

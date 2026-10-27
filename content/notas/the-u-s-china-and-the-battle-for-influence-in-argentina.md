@@ -3,6 +3,9 @@ titulo: The U.S., China, and the Battle for Influence in Argentina
 fecha: 2026-09-21
 autores: Ian Birnie
 resumen: Argentina is becoming a battleground between the U.S. and China, especially for technology, infrastructure, critical minerals, and investment. This carousel looks at how Argentina is working with both powers, and why that balance is becoming increasingly difficult to maintain.
+imagen: /notas/the-u-s-china-and-the-battle-for-influence-in-argentina.webp
+credito: Foto: The Cosmonaut / Wikimedia Commons (CC BY-SA 2.5 ca)
+creditoUrl: https://commons.wikimedia.org/wiki/File:Casa_Rosada_fa%C3%A7ade.jpg
 ---
 
 China has spent more than two decades building financial and commercial relations in Argentina. From 2000 to 2023, China provided around US$36 billion through 127 loans, 84 grant-financed commitments, and currency swaps to Argentina.

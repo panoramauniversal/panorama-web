@@ -3,6 +3,9 @@ titulo: La guerra también se libra con palabras
 fecha: 2026-08-17
 autores: Sofía Fertitta
 resumen: ¿Por qué una misma guerra puede ser una "invasión" para unos y una "operación" para otros? Las palabras con que se narra un conflicto nunca son un simple reflejo de los hechos. Eligen villanos, víctimas y héroes, deciden qué muertes nos duelen y cuáles pasan de largo, y moldean lo que el mundo va a recordar. Y no es algo lejano. Esas palabras nos llegan todos los días, en cada titular que leemos casi sin pensar y repetimos sin notarlo.
+imagen: /notas/la-guerra-tambien-se-libra-con-palabras.webp
+credito: Foto: Tony Webster / Wikimedia Commons (CC BY 2.0)
+creditoUrl: https://commons.wikimedia.org/wiki/File:News_Microphones_at_Press_Conference.jpg
 ---
 
 ## El lenguaje nunca es neutral

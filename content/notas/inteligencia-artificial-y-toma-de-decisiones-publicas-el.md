@@ -3,6 +3,9 @@ titulo: Inteligencia artificial y toma de decisiones públicas - El Gemelo Digit
 fecha: 2026-08-10
 autores: Tomás Pereiro
 resumen: La inteligencia artificial comienza a ocupar un lugar en la gestión pública. Su capacidad para procesar grandes volúmenes de datos, identificar patrones y anticipar escenarios promete hacer más eficiente la toma de decisiones estatales, pero también plantea nuevos desafíos para la protección de los ciudadanos. El denominado Gemelo Digital Social abrió este debate en Argentina.
+imagen: /notas/inteligencia-artificial-y-toma-de-decisiones-publicas-el.webp
+credito: Foto: Christopher Bowns / Wikimedia Commons (CC BY-SA 2.0)
+creditoUrl: https://commons.wikimedia.org/wiki/File:Virginia_Tech_-_data_center.jpg
 ---
 
 ## La IA llegó a la gestión pública

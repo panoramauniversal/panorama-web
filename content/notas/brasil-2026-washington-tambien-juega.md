@@ -3,6 +3,9 @@ titulo: Brasil 2026: Washington también juega. Aranceles, sanciones y disputa g
 fecha: 2026-09-28
 autores: Nahuel Nores
 resumen: Brasil 2026 no es solo una elección presidencial. Aranceles, sanciones, plataformas digitales, visas y presiones sobre el control electoral se cruzan con la disputa entre Estados Unidos y China y con dos proyectos de inserción internacional. El resultado puede reordenar el Mercosur, la región y el margen de maniobra de la Argentina.
+imagen: /notas/brasil-2026-washington-tambien-juega.webp
+credito: Foto: Ricardo Stuckert / Presidencia de Brasil / Wikimedia Commons (CC BY 3.0 br)
+creditoUrl: https://commons.wikimedia.org/wiki/File:26-10-2025_-_Presidente_da_Rep%C3%BAblica,_Lu%C3%ADs_In%C3%A1cio_Lula_da_Silva,_durante_Encontro_com_o_Presidente_dos_Estados_Unidos,_Donald_Trump,_durante_o_47%C2%AA_C%C3%BApula_da_Associa%C3%A7%C3%A3o_de_Na%C3%A7%C3%B5es_do_Sudeste_Asi%C3%A1tico.jpg
 ---
 
 ## No se elige solo presidente

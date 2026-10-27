@@ -4,6 +4,9 @@ fecha: 2026-07-29
 autores: Luca Nava y Florencia Castelli
 colaboracion: Girly Politics
 resumen: Hoy en día, las fronteras se construyen con algoritmos y modelos de lenguaje y no con una pared de cemento. China busca convertir la IA en un bien público global para fracturar el monopolio de la innovación estadounidense. Este escenario invita a observar la reconfiguración del poder multipolar. Pekín despliega una “diplomacia de código abierto” hacia el Sur Global y, en simultáneo, refuerza su estricto control estatal interno.
+imagen: /notas/el-nacer-del-nuevo-imperio-digital.webp
+credito: Foto: mikemacmarketing / Wikimedia Commons (CC BY 2.0)
+creditoUrl: https://commons.wikimedia.org/wiki/File:Social_Media_App_Icons_On_The_Screen_of_A_Smartphone.jpg
 ---
 
 ## El Giro Geopolítico del Algoritmo

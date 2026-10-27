@@ -3,6 +3,9 @@ titulo: El nuevo giro a la derecha en la región: ¿cómo ganó Abelardo de la E
 fecha: 2026-07-13
 autores: Felipe Barrientos
 resumen: ¿Un país dividido o una democracia vibrante? Las elecciones en Colombia se definieron por medio de dos capítulos históricos. El camino hacia la presidencia se transformó en una carrera milimétrica que mantuvo en vilo a todo el continente por casi un mes.
+imagen: /notas/el-nuevo-giro-a-la-derecha-en-la-region-como-gano-abelardo.webp
+credito: Foto: Javierleiva / Wikimedia Commons (CC BY-SA 4.0)
+creditoUrl: https://commons.wikimedia.org/wiki/File:Plaza_de_Bol%C3%ADvar_en_Bogot%C3%A1_(Colombia).jpg
 ---
 
 ## Breve resumen de las elecciones

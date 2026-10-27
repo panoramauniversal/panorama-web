@@ -3,6 +3,9 @@ titulo: España vs. Argentina: mucho más que un partido
 fecha: 2026-07-18
 autores: Stefano Boubeta
 resumen: Cada vez que Argentina y España se enfrentan, también se cruzan más de 500 años de historia compartida. Desde la llegada de la Corona española al Río de la Plata y la independencia argentina, hasta las grandes olas migratorias que moldearon nuestra identidad y los vínculos políticos, económicos, culturales y deportivos que continúan hasta la actualidad.
+imagen: /notas/espana-vs-argentina-mucho-mas-que-un-partido.webp
+credito: Foto: لا روسا / Wikimedia Commons (CC BY-SA 3.0)
+creditoUrl: https://commons.wikimedia.org/wiki/File:Santiagobernabeupanoramav45.JPG
 ---
 
 Durante más de tres siglos, el actual territorio argentino formó parte del Imperio español. Desde la creación del Virreinato del Río de la Plata en 1776 hasta la Revolución de Mayo de 1810 y la independencia de 1816, la relación entre ambos países estuvo marcada por un profundo vínculo político, económico y cultural que todavía deja huellas en la actualidad.

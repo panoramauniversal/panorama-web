@@ -22,12 +22,14 @@ Sitio en español rioplatense (voseo) de Panorama Universal. Producción: https:
 
 - No mencionar que Panorama es una asociación civil ni incluir la "palabra del presidente".
 - No hay sección de pilares (se eliminó).
-- Notas: sin imágenes. Las notas de Substack no se cargan.
+- Notas: cada una lleva una imagen de portada (`imagen`, `credito`, `creditoUrl` en el encabezado; archivo en `public/notas/<slug>.webp`, 1200×675, ~100 KB). Solo imágenes de uso libre (Wikimedia Commons, dominio público, CC0, CC BY, CC BY-SA), nunca las placas de Instagram ni fotos de medios. Las notas de Substack no se cargan.
 - `<html data-scroll-behavior="smooth">` es necesario para que Next no deje la página a mitad de scroll al navegar.
 - Bios de equipo y voluntarios: no repetir el cargo ni el área de Panorama (ya figuran en la tarjeta). Largo parecido entre todas.
 - El autor de cada nota sale del cronograma. Si no figura, preguntar en vez de firmar como "Equipo Panorama Universal".
 
 ## Pendientes
+
+- Imágenes de notas: se cargan por tandas desde la más nueva hacia atrás. Al terminar todas, revisión general con el equipo.
 
 - Voluntarios: cargados Comunicación y Diseño, Académica y Lucia Sol Martin (Asuntos Institucionales y Proyectos). Faltan el resto de las secretarías. Si el nombre de firma de notas difiere, usar el campo `autor`.
 

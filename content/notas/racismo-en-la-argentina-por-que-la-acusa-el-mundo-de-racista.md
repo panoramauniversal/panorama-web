@@ -3,6 +3,9 @@ titulo: Racismo en la Argentina ¿Por qué la acusa el mundo de racista?
 fecha: 2026-08-01
 autores: Milagros Portilla
 resumen: Tras el fervor del Mundial, Argentina quedó en el centro de un debate global, siendo señalada en redes sociales como un país estructuralmente racista. Sin embargo, estas condenas virtuales y cancelaciones exprés suelen ignorar la compleja historia demográfica de la región, convirtiendo un problema sociológico profundo en una simple tendencia pasajera impulsada por los algoritmos.
+imagen: /notas/racismo-en-la-argentina-por-que-la-acusa-el-mundo-de-racista.webp
+credito: Foto: Ben Tavener / Wikimedia Commons (CC BY 2.0)
+creditoUrl: https://commons.wikimedia.org/wiki/File:Argentina_fans_at_S%C3%A3o_Paulo_Fan_Fest.jpg
 ---
 
 ## Origen del debate

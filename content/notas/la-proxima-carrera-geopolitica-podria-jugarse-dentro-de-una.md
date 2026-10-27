@@ -4,6 +4,9 @@ fecha: 2026-09-16
 autores: Mariano Ratto
 colaboracion: Grupo Joven del CARI
 resumen: La carrera por las vacunas personalizadas contra el cáncer no se juega solamente en los laboratorios. También pone en disputa inversión, datos, capacidad productiva y dominio tecnológico. Mientras las grandes empresas avanzan, la biotecnología se consolida como una nueva fuente de poder económico y estratégico. ¿Qué lugar puede ocupar Argentina?
+imagen: /notas/la-proxima-carrera-geopolitica-podria-jugarse-dentro-de-una.webp
+credito: Foto: James Gathany / CDC / Wikimedia Commons (dominio público)
+creditoUrl: https://commons.wikimedia.org/wiki/File:CDC_scientist_transfers_H7N9.png
 ---
 
 ## El poder ya no se mide solo en ejércitos

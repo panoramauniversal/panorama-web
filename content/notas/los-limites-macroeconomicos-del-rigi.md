@@ -4,6 +4,9 @@ fecha: 2026-09-23
 autores: Tomás Vallica
 colaboracion: Internacionalizarse
 resumen: La llegada de grandes inversiones en litio y otros minerales se encuentra en el centro de la estrategia económica nacional. Con el RIGI, el gobierno busca destrabar proyectos mineros clave ofreciendo estabilidad jurídica y cambiaria por 30 años. Sin embargo, economistas y analistas debaten si la falta de requisitos de transferencia tecnológica y de contratación local podría limitar este derrame, generando dinámicas de enclave a largo plazo.
+imagen: /notas/los-limites-macroeconomicos-del-rigi.webp
+credito: Foto: Planet Labs, Inc. / Wikimedia Commons (CC BY-SA 4.0)
+creditoUrl: https://commons.wikimedia.org/wiki/File:Salar_de_Olaroz_Lithium_Mine,_Argentina_by_Planet_Labs.jpg
 ---
 
 ## Un recurso crítico global

@@ -3,6 +3,9 @@ titulo: Salto Grande: geopolítica, energía y federalismo
 fecha: 2026-07-27
 autores: José Schleifer
 resumen: En esta edición a fondo analizamos cómo la megaobra de Salto Grande reconfiguró el Cono Sur. Del modelo pionero de diplomacia binacional a la consolidación del centralismo de Estado. ¿Por qué la energía rinde distinto de un lado y del otro? Repasamos las tensiones de 2026, el inmenso costo territorial de las provincias ribereñas y nuestra propia visita de campo al complejo para entender la magnitud de esta obra.
+imagen: /notas/salto-grande-geopolitica-energia-y-federalismo.webp
+credito: Foto: Dario Alpern / Wikimedia Commons (CC BY-SA 3.0)
+creditoUrl: https://commons.wikimedia.org/wiki/File:Represa_de_Salto_Grande_desde_el_lado_argentino.JPG
 ---
 
 ## De la tensión al modelo pionero

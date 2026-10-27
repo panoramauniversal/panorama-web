@@ -3,6 +3,9 @@ titulo: Malvinas, Milei y la Geopolítica del RIGI
 fecha: 2026-09-10
 autores: Octavio Sánchez Piedrabuena y Martina Sgromo
 resumen: ¿Y si la soberanía también se defiende con negocios? El RIGI no es solo una herramienta económica: es una maniobra geopolítica. Mientras gigantes petroleros eligen el continente argentino y le dan la espalda a Malvinas, el país transforma su riqueza y su potencial en poder de disuasión.
+imagen: /notas/malvinas-milei-y-la-geopolitica-del-rigi.webp
+credito: Foto: Harley D. Nygren / Wikimedia Commons (dominio público)
+creditoUrl: https://commons.wikimedia.org/wiki/File:Port_Stanley_1961_-_NOAA_-_Corp1373.jpg
 ---
 
 ## El reclamo de Milei por Malvinas

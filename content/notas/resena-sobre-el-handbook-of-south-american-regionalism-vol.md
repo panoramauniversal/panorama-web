@@ -3,6 +3,9 @@ titulo: Reseña sobre el Handbook of South American Regionalism (vol. 37)
 fecha: 2026-09-14
 autores: Aldo López
 resumen: El artículo analiza las transformaciones recientes del regionalismo latinoamericano a partir del concepto de regionalismo líquido, caracterizado por una mayor flexibilidad, informalidad y debilidad institucional. Los autores vinculan esta dinámica con el interpresidencialismo y proponen una tipología que permite distinguir distintos grados y formas de cooperación e integración regional.
+imagen: /notas/resena-sobre-el-handbook-of-south-american-regionalism-vol.webp
+credito: Foto: Dati Bendo / Comisión Europea / Wikimedia Commons (CC BY 4.0)
+creditoUrl: https://commons.wikimedia.org/wiki/File:VdL_Mercosur_2024.jpg
 ---
 
 ## La importancia de la Serie sobre Regionalismo de la Universidad de las Naciones Unidas

@@ -3,6 +3,9 @@ titulo: La conquista silenciosa
 fecha: 2026-09-07
 autores: Sofía Fertitta
 resumen: Hay formas de poder que no se ven en los mapas ni en los tratados. Circulan en las pantallas, en la música y en las historias que elegimos sin pensar demasiado. Este carrusel es un recorrido por una de las estrategias más eficaces de la política internacional contemporánea, esa que influye a través de la atracción y no de la fuerza. Una invitación a mirar con otros ojos aquello que creíamos simple diversión.
+imagen: /notas/la-conquista-silenciosa.webp
+credito: Foto: Thomas Wolf, www.foto-tw.de / Wikimedia Commons (CC BY-SA 3.0)
+creditoUrl: https://commons.wikimedia.org/wiki/File:Hollywood_Sign_(Zuschnitt).jpg
 ---
 
 ## De la guerra a la pantalla
