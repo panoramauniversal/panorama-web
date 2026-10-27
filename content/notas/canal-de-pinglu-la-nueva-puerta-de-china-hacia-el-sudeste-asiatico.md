@@ -3,6 +3,9 @@ titulo: Canal de Pinglu: la nueva puerta de China hacia el Sudeste Asiático
 fecha: 2026-10-26
 autores: Ivo Trošelj
 resumen: China apuesta por una nueva infraestructura estratégica para conectar su interior industrial con el Sudeste Asiático. El canal de Pinglu promete acortar distancias, reducir costos logísticos y fortalecer los intercambios comerciales con la ASEAN, en una región atravesada por crecientes intereses económicos y geopolíticos.
+imagen: /notas/canal-de-pinglu-la-nueva-puerta-de-china-hacia-el-sudeste-asiatico.webp
+credito: Foto: MspreilsCN / Wikimedia Commons (CC0)
+creditoUrl: https://commons.wikimedia.org/wiki/File:Pinglu_Canal_in_construction_-_1.jpg
 ---
 
 ## Una nueva conexión con el mar

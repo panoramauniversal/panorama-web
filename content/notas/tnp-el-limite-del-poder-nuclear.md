@@ -4,6 +4,9 @@ fecha: 2026-10-19
 autores: Stefano Boubeta
 colaboracion: OAJNU
 resumen: Durante la Guerra Fría, el mundo construyó una de las principales barreras contra la expansión de las armas nucleares: el Tratado de No Proliferación Nuclear. Desde 1970, el TNP intenta sostener un equilibrio entre tres objetivos: evitar que nuevos Estados desarrollen armas nucleares, avanzar hacia el desarme y garantizar el uso pacífico de la energía nuclear.
+imagen: /notas/tnp-el-limite-del-poder-nuclear.webp
+credito: Foto: Departamento de Defensa de EE.UU. / Wikimedia Commons (dominio público)
+creditoUrl: https://commons.wikimedia.org/wiki/File:Operation_Crossroads_Baker_Edit.jpg
 ---
 
 ## ¿Por qué seguimos hablando de armas nucleares?

@@ -3,6 +3,9 @@ titulo: Brasil 2026: Meta bajo sospecha
 fecha: 2026-10-24
 autores: Nahuel Nores
 resumen: En plena segunda vuelta entre Lula y Flávio Bolsonaro, Meta quedó en el centro de la disputa: bloqueos y fallas reconocidas por la empresa, una IA que respondía distinto según el candidato, anuncios pagados desde el exterior y redes coordinadas con contenido sintético. El TSE ordenó un trato igualitario, pero sigue abierta la pregunta sobre cuánto pueden influir las plataformas y quién controla sus decisiones.
+imagen: /notas/brasil-2026-meta-bajo-sospecha.webp
+credito: Foto: Tribunal Superior Electoral de Brasil / Wikimedia Commons (dominio público)
+creditoUrl: https://commons.wikimedia.org/wiki/File:Brazilian_DRE_voting_machine_for_2022_elections.jpg
 ---
 
 Fallos técnicos, inteligencia artificial y publicidad extranjera en plena elección.

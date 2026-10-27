@@ -4,6 +4,9 @@ fecha: 2026-10-21
 autores: Sofía Burgos
 colaboracion: Fundación Politeia
 resumen: ¿Puede un compromiso diplomático convivir con la habilitación de un corredor logístico hacia un territorio en disputa? La posible reactivación del comercio marítimo entre Punta Arenas y Puerto Argentino reabre el debate sobre los límites de la integración regional y la efectividad del reclamo soberano argentino en el Atlántico Sur.
+imagen: /notas/chile-acuerdos-y-desacuerdos-por-malvinas-y-el-sur.webp
+credito: Foto: Entropy1963 / Wikimedia Commons (dominio público)
+creditoUrl: https://commons.wikimedia.org/wiki/File:Punta_Arenas_Strait_of_Magellan.jpg
 ---
 
 El escenario austral expone la tensión entre la retórica diplomática y la actividad comercial. El establecimiento de logística marítima entre Punta Arenas y Puerto Argentino desafía la coordinación bilateral sobre las actividades en la zona en disputa.

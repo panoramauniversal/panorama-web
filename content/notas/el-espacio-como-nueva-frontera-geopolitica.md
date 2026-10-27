@@ -3,6 +3,9 @@ titulo: El espacio como nueva frontera geopolítica: ¿hacia dónde va la polít
 fecha: 2026-10-05
 autores: Milagros Larsen
 resumen: Argentina conserva capacidades espaciales estatales, mientras el gobierno de Milei impulsa simultáneamente una mayor participación privada, apertura de servicios satelitales, cooperación con Estados Unidos e integración a la economía espacial global. ¿Qué implica esa combinación para el modelo espacial argentino?
+imagen: /notas/el-espacio-como-nueva-frontera-geopolitica.webp
+credito: Foto: CONAE / Wikimedia Commons (CC BY 4.0)
+creditoUrl: https://commons.wikimedia.org/wiki/File:SAOCOM_1B_pruebas_finales_en_CEATSA_03.jpg
 ---
 
 ## La política espacial argentina

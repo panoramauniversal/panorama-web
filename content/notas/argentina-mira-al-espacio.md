@@ -3,6 +3,9 @@ titulo: Argentina mira al espacio: SpaceX puso en órbita el primer nanosatélit
 fecha: 2026-10-08
 autores: Martina Sgromo
 resumen: En una jornada histórica para la ciencia y la defensa nacional, el Evaluador Tecnológico Nano Sat (ETNS) fue puesto en órbita a bordo de la misión Transporter-18 de SpaceX. Innovación, eficiencia de costos bajo el paradigma NewSpace y visión estratégica para modernizar las capacidades de nuestra Defensa Nacional.
+imagen: /notas/argentina-mira-al-espacio.webp
+credito: Foto: Joshua Conti / U.S. Space Force / Wikimedia Commons (dominio público)
+creditoUrl: https://commons.wikimedia.org/wiki/File:45th_Space_Wing_Supports_Successful_Falcon_9_SAOCOM_1B_Launch_02.jpg
 ---
 
 ## Hito histórico
