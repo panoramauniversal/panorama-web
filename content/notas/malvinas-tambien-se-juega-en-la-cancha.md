@@ -4,8 +4,8 @@ fecha: 2026-07-14
 autores: Santiago Simons
 resumen: Cada vez que Argentina e Inglaterra se enfrentan, el partido deja de ser solo fútbol. Detrás de esos noventa minutos existe un conflicto que comenzó en 1833 con la ocupación británica de las Islas Malvinas, tuvo su momento más dramático en la guerra de 1982 y continúa hasta hoy con una disputa de…
 imagen: /notas/malvinas-tambien-se-juega-en-la-cancha.webp
-credito: Foto: autor desconocido / Wikimedia Commons (dominio público)
-creditoUrl: https://commons.wikimedia.org/wiki/File:Argentina_v_uruguay_1986_13.jpg
+credito: Foto: Dani Yako / Wikimedia Commons (dominio público)
+creditoUrl: https://commons.wikimedia.org/wiki/File:Maradona_scoring_england_1986.jpg
 ---
 
 Cada vez que Argentina e Inglaterra se enfrentan, el partido deja de ser solo fútbol. Detrás de esos noventa minutos existe un conflicto que comenzó en 1833 con la ocupación británica de las Islas Malvinas, tuvo su momento más dramático en la guerra de 1982 y continúa hasta hoy con una disputa de soberanía que sigue abierta. La rivalidad deportiva es apenas el reflejo de una historia que nunca terminó.

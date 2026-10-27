@@ -4,8 +4,8 @@ fecha: 2026-07-04
 autores: Tomás Gabriel Barrera
 resumen: En 2026, Estados Unidos conmemora 250 años desde la Declaración de Independencia. Más que una celebración, este aniversario invita a reflexionar sobre las tensiones entre los ideales de libertad e igualdad proclamados en 1776 y los desafíos que hoy enfrenta su democracia.
 imagen: /notas/250-anos-de-estados-unidos-un-experimento-democratico.webp
-credito: Foto: Mys 721tx / Wikimedia Commons (CC BY-SA 3.0)
-creditoUrl: https://commons.wikimedia.org/wiki/File:Exterior_of_the_Independence_Hall,_Aug_2019.jpg
+credito: Foto: Departamento del Interior de EE.UU. / Wikimedia Commons (dominio público)
+creditoUrl: https://commons.wikimedia.org/wiki/File:Freedom_250_July_4th_Airshow_and_Fireworks_on_the_National_Mall,_Washington,_D.C._in_2026_-_69.jpg
 ---
 
 ## Introducción

@@ -4,8 +4,8 @@ fecha: 2026-07-20
 autores: Karina Herrera
 resumen: La política mundial envejece. Mientras la edad promedio de los mandatarios ronda los 63 años, cada vez más líderes superan los 70 y concentran décadas de experiencia, influencia y permanencia en las estructuras de poder. Desde Paul Biya, al frente de Camerún desde 1982, hasta figuras como Donald Trump, Lula da Silva, Xi Jinping o Vladimir Putin, la longevidad política atraviesa continentes y sistemas de gobierno.
 imagen: /notas/la-longevidad-en-el-poder-la-nueva-era-de-la-gerontocracia.webp
-credito: Foto: Martin Falbisoner / Wikimedia Commons (CC BY-SA 3.0)
-creditoUrl: https://commons.wikimedia.org/wiki/File:US_Capitol_east_side.JPG
+credito: Foto: Casa Blanca / Wikimedia Commons (dominio público)
+creditoUrl: https://commons.wikimedia.org/wiki/File:President_Joe_Biden_meets_with_President-elect_Donald_Trump_on_November_13,_2024,_in_the_White_House_Oval_Office.jpg
 ---
 
 ## Un fenómeno global

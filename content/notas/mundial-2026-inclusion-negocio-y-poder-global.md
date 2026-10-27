@@ -5,8 +5,8 @@ autores: Luciana Navarro
 colaboracion: Soft Power Argentina
 resumen: El Mundial ha sido el más grande de la historia, pero su expansión no se explica solo por el fútbol. Más representación, nuevos mercados, legitimidad institucional y soft power convergen en un torneo que funcionó también como plataforma de poder global.
 imagen: /notas/mundial-2026-inclusion-negocio-y-poder-global.webp
-credito: Foto: ProtoplasmaKid / Wikimedia Commons (CC BY-SA 4.0)
-creditoUrl: https://commons.wikimedia.org/wiki/File:Estadio_Azteca_desde_el_aire_1.jpg
+credito: Foto: UNODC / Wikimedia Commons (CC BY 2.0)
+creditoUrl: https://commons.wikimedia.org/wiki/File:Gianni_Infantino_(2020).jpg
 ---
 
 ## Un Mundial sin precedentes
