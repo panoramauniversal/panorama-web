@@ -3,6 +3,9 @@ titulo: Sociedades anónimas deportivas: encrucijadas entre el modelo inglés y 
 fecha: 2024-09-09
 autores: Franco de Reyes
 resumen: Después de los inconvenientes generados entre la AFA y el Gobierno Nacional por el ingreso de las Sociedades Anónimas Deportivas al fútbol argentino, Claudio Tapia Presidente de la AFA, denunció al gobierno de Milei ante la Justicia, por la obligación en la modificación del estatuto. La Justicia Federal dictaminó un fallo a favor de la AFA en dónde el DNU 70/23, que traería este modelo, no entrará en vigencia hasta nuevo aviso.
+imagen: /notas/sociedades-anonimas-deportivas-encrucijadas-entre-el-modelo.webp
+credito: Foto: Diego Delso / Wikimedia Commons (CC BY-SA 3.0)
+creditoUrl: https://commons.wikimedia.org/wiki/File:La_Bombonera_-_Buenos_Aires_-_Argentina.jpg
 ---
 
 ## Introducción

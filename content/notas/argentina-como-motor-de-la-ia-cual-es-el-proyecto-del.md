@@ -3,6 +3,9 @@ titulo: Argentina como motor de la IA ¿Cuál es el proyecto del gobierno?
 fecha: 2024-06-10
 autores: Stefano Boubeta e Ignacio Casco
 resumen: La semana pasada, el presidente Javier Milei realizó un viaje hacia Estados Unidos. Donde se reunió con varios CEOs de las empresas tecnológicas más importantes: Apple, Google, Meta, OpenAI, entre otras. El objetivo de este viaje en sus palabras es atraer las inversiones por parte de estas…
+imagen: /notas/argentina-como-motor-de-la-ia-cual-es-el-proyecto-del.webp
+credito: Foto: Christopher Bowns / Wikimedia Commons (CC BY-SA 2.0)
+creditoUrl: https://commons.wikimedia.org/wiki/File:Virginia_Tech_-_data_center.jpg
 ---
 
 ## Contexto

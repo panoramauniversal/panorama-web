@@ -3,6 +3,9 @@ titulo: Más vulneraciones de derechos para las mujeres en Afganistán
 fecha: 2024-09-16
 autores: Lucia Brizuela
 resumen: Recientemente en Afganistán empezó a avanzar una nueva iniciativa con respecto al comportamiento de las mujeres reglamentado por el Estado, la Ley de Promoción de la Virtud y Prevención del Vicio, que cercena en buena medida las ya reducidas libertades que poseen las mujeres dentro del territorio nacional.
+imagen: /notas/mas-vulneraciones-de-derechos-para-las-mujeres-en-afganistan.webp
+credito: Foto: ninara / Wikimedia Commons (CC BY 2.0)
+creditoUrl: https://commons.wikimedia.org/wiki/File:Burqa_in_Kabul,_Afghanistan.jpg
 ---
 
 Luego de 20 años de estar exiliados del poder, en 2021 los talibanes tomaron Kabul, la capital de Afganistán. volviendo hacia un régimen basado en una extrema y estricta interpretación de la sharía o ley islámica (sistema legal basado en el Corán).

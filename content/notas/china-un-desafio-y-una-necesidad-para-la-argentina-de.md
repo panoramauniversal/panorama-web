@@ -3,6 +3,9 @@ titulo: China, un desafío y una necesidad para la Argentina de Javier Milei
 fecha: 2024-12-23
 autores: Sofia Selser
 resumen: Tras un año de haber asumido la presidencia, repasamos el panorama internacional que hoy enfrenta el gobierno de Javier Milei, haciendo énfasis en su capacidad de relacionarse con las dos economías más fuertes del mundo: China y Estados Unidos.
+imagen: /notas/china-un-desafio-y-una-necesidad-para-la-argentina-de.webp
+credito: Foto: Gobierno de la República Argentina / Wikimedia Commons (CC BY 4.0)
+creditoUrl: https://commons.wikimedia.org/wiki/File:Milei%26XiJinping.jpg
 ---
 
 ## Relación China-Argentina

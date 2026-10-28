@@ -3,6 +3,9 @@ titulo: Elecciones UE 2024: ¿las elecciones más importantes de la historia eur
 fecha: 2024-06-17
 autores: Franco de Reyes
 resumen: La pasada semana, entre el 6 y el 9 de Junio, se llevaron a cabo las elecciones parlamentarias de la Unión Europea, renovándose 720 escaños en total. A una semana de terminadas las elecciones, en este post repasaremos y analizaremos los resultados, viendo cuáles fueron sus principales consecuencias políticas en la región y teniendo en cuenta el giro a la derecha que podría dar este organismo de cara al período 2024-2029.
+imagen: /notas/elecciones-ue-2024-las-elecciones-mas-importantes-de-la.webp
+credito: Foto: Diliff / Wikimedia Commons (CC BY-SA 3.0)
+creditoUrl: https://commons.wikimedia.org/wiki/File:European_Parliament_Strasbourg_Hemicycle_-_Diliff.jpg
 ---
 
 ## Introducción

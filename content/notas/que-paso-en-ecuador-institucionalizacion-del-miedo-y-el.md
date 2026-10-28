@@ -3,6 +3,9 @@ titulo: ¿Qué pasó en Ecuador? Institucionalización del miedo y el crimen org
 fecha: 2024-05-20
 autores: Stefano Boubeta e Ignacio Casco
 resumen: Hace unos años, se comenzó a ver una creciente ola de violencia en Ecuador que puso en jaque a más de un gobierno. La misma está asociada a grupos delictivos organizados y narcotráfico tanto local como internacional. En este día, haremos un breve recorrido histórico sobre la evolución del crimen organizado en el país mencionado.
+imagen: /notas/que-paso-en-ecuador-institucionalizacion-del-miedo-y-el.webp
+credito: Foto: Presidencia de la República del Ecuador / Wikimedia Commons (dominio público)
+creditoUrl: https://commons.wikimedia.org/wiki/File:POLIC%C3%8DA_NACIONAL_Y_FUERZAS_ARMADAS_RATIFICAN_SU_COMPROMISO_POR_UN_ECUADOR_DE_PAZ,_14_DE_FEBRERO_DE_2024_-_1.jpg
 ---
 
 ## Actualidad

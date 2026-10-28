@@ -3,6 +3,9 @@ titulo: Copa América 2024 y el Racismo: Miradas desde la visión deportiva, pol
 fecha: 2024-07-08
 autores: Franco de Reyes
 resumen: Con el inicio de la Copa América 2024 en Estados Unidos, hemos sido testigos de momentos críticos en lo que respecta a la problemática del racismo en el mundo. ¿Cuáles han sido estos momentos? ¿Qué pasó? ¿Por qué son casos importantes para pensar en el racismo?
+imagen: /notas/copa-america-2024-y-el-racismo-miradas-desde-la-vision.webp
+credito: Foto: Sebas / Wikimedia Commons (CC BY 3.0)
+creditoUrl: https://commons.wikimedia.org/wiki/File:Argentina_1-1_Ecuador_-_Copa_Am%C3%A9rica_2024_-_Entonaci%C3%B3n_del_himno.jpg
 ---
 
 ## Introducción

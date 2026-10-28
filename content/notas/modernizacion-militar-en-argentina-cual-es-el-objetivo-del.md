@@ -3,6 +3,9 @@ titulo: Modernización militar en Argentina, ¿Cuál es el objetivo del gobierno
 fecha: 2024-05-13
 autores: Stefano Boubeta e Ignacio Casco
 resumen: Recientemente, el gobierno de Javier Milei comenzó un proceso de modernización y reequipamiento de las fuerzas armadas argentinas. A partir de la compra de 24 cazas F-16 a Dinamarca el pasado abril, el Ministerio de Defensa inició el plan de mejorar las capacidades técnicas de las que disponen las…
+imagen: /notas/modernizacion-militar-en-argentina-cual-es-el-objetivo-del.webp
+credito: Foto: Ministerio de Defensa de la Nación / Wikimedia Commons (CC BY 4.0)
+creditoUrl: https://commons.wikimedia.org/wiki/File:Arribo_del_primer_F-16_a_Argentina_09.jpg
 ---
 
 Recientemente, el gobierno de Javier Milei comenzó un proceso de modernización y reequipamiento de las fuerzas armadas argentinas. A partir de la compra de 24 cazas F-16 a Dinamarca el pasado abril, el Ministerio de Defensa inició el plan de mejorar las capacidades técnicas de las que disponen las tres ramas del Ejército Argentino.

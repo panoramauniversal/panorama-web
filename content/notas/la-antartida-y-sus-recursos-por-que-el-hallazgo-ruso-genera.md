@@ -3,6 +3,9 @@ titulo: La Antártida y sus recursos: ¿Por qué el hallazgo ruso genera controv
 fecha: 2024-05-27
 autores: Stefano Boubeta e Ignacio Casco
 resumen: Durante la semana pasada, en Reino Unido se reveló un informe confidencial que detallaba que Rusia habría encontrado la reserva de petróleo más grande del mundo en la Antártida, superando a varios de los yacimientos más importantes en la agenda geopolítica actual. Esta información generó un gran revuelo en la comunidad internacional por diversos factores, poniendo en jaque el futuro institucional del Tratado Antártico.
+imagen: /notas/la-antartida-y-sus-recursos-por-que-el-hallazgo-ruso-genera.webp
+credito: Foto: W. Bulach / Wikimedia Commons (CC BY-SA 4.0)
+creditoUrl: https://commons.wikimedia.org/wiki/File:00_2099_Antarctica_-_Gerlache_Strait_(Icebergs).jpg
 ---
 
 ## ¿Qué pasó?

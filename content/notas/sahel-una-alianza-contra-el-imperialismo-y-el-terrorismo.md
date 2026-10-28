@@ -3,6 +3,9 @@ titulo: Sahel: una alianza contra el imperialismo y el terrorismo
 fecha: 2024-08-19
 autores: Stefano Boubeta e Ignacio Casco
 resumen: El sahel ha sido una región sumamente inestable durante décadas, varios factores han sido clave en esto: el colonialismo francés, la depredación de recursos, la discriminación racial y el vacío de poder luego de las independencias africanas. A partir del 2020, la región ha registrado diversos golpes de Estado, incrementando la desigualdad e inestabilidad.
+imagen: /notas/sahel-una-alianza-contra-el-imperialismo-y-el-terrorismo.webp
+credito: Foto: Barke11 / Wikimedia Commons (CC BY-SA 4.0)
+creditoUrl: https://commons.wikimedia.org/wiki/File:Alliance_des_Etats_du_Sahel_AES_04.jpg
 ---
 
 Durante décadas, la región del Sahel ha sido inestable política, social y económicamente. El pasado colonial francés ha causado profundas crisis humanitarias debido al saqueo de recursos, a la segregación étnica y al vacío de poder dejado. Luego de la Segunda Guerra Mundial, Mali, Níger y Burkina Faso han experimentado sucesivos golpes de Estado, los cuales acrecentaron la desigualdad e inestabilidad, la pobreza, las migraciones y la violación de Derechos Humanos.

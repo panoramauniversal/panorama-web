@@ -3,6 +3,9 @@ titulo: Sudán: una guerra civil con raíces históricas
 fecha: 2024-08-12
 autores: Lucía Franco
 resumen: Sudán se encuentra en situación de emergencia a raíz de los conflictos iniciados en abril de 2023, que desembocaron en una guerra civil, dejando miles de desplazados, refugiados, heridos y muertos. La tensión entre dos militares, Mohamed Hamdan Dagal y Abdel al-Burhan, por el poder devino en una situación crítica para el país y la región, haciendo que la comunidad internacional pida un alto al fuego y abogue por el retorno de la democracia.
+imagen: /notas/sudan-una-guerra-civil-con-raices-historicas.webp
+credito: Foto: Foreign, Commonwealth & Development Office / Wikimedia Commons (CC BY 2.0)
+creditoUrl: https://commons.wikimedia.org/wiki/File:Foreign_Secretary_David_Lammy_meets_Sudanese_refugees_in_Chad_in_the_border_town_of_Adre_on_24_January_2025_-_13.jpg
 ---
 
 ## ¿Qué pasa en Sudán? ¿Cómo se llegó a esta situación?

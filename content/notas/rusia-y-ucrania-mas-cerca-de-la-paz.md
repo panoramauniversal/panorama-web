@@ -3,6 +3,9 @@ titulo: Rusia y Ucrania, ¿más cerca de la paz?
 fecha: 2024-06-24
 autores: Celeste Arambarri
 resumen: El pasado fin de semana se realizó una Cumbre en Suiza a petición de Ucrania, destinada a tratar temas relativos al conflicto armado que este país mantiene con Rusia desde 2022, en pos de una solución pacífica del mismo. En esta publicación, analizaremos brevemente qué implica la concreción de dicha conferencia y si la paz realmente se encuentra próxima o aún representa un ideal lejano.
+imagen: /notas/rusia-y-ucrania-mas-cerca-de-la-paz.webp
+credito: Foto: The White House / Wikimedia Commons (dominio público)
+creditoUrl: https://commons.wikimedia.org/wiki/File:V20240615LJ-0766.jpg
 ---
 
 Los días 15 y 16 de junio se realizó en Bürgenstock (Suiza) la Cumbre de Paz para Ucrania, un acontecimiento que marca un hito significativo en el desarrollo de la guerra ruso-ucraniana.
