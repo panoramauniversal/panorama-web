@@ -3,6 +3,9 @@ titulo: Flexibilización de la inmigración en España: ¿a quién beneficia rea
 fecha: 2024-11-25
 autores: Lucía Franco
 resumen: Hace unos días, en España entró en vigencia la ley de extranjería, la cual busca flexibilizar las normas de migración y regular la situación de miles de personas. De esta manera, en el siguiente post analizaremos los cambios que se introducen en la ley, viendo cómo puede beneficiar a los migrantes y al propio gobierno español.
+imagen: /notas/flexibilizacion-de-la-inmigracion-en-espana-a-quien.webp
+credito: Foto: Diario de Madrid / Wikimedia Commons (CC BY 4.0)
+creditoUrl: https://commons.wikimedia.org/wiki/File:Carmena_se_reunir%C3%A1_en_Roma_con_alcaldes_para_abordar_la_crisis_migratoria_en_el_Mediterr%C3%A1neo_01.jpg
 ---
 
 ## Introducción

@@ -3,6 +3,9 @@ titulo: Crisis en la candidatura demócrata: el camino hacia noviembre
 fecha: 2024-07-15
 autores: Celeste Arambarri
 resumen: El primer debate presidencial entre Joe Biden y Donald Trump desató grandes preocupaciones sobre la capacidad del actual mandatario estadounidense de desempeñar correctamente el rol de presidente en caso de ser reelecto. En esta publicación, analizaremos brevemente la posibilidad de un cambio de candidato por parte del Partido Demócrata y la situación en la cual se encuentran los demócratas en el camino hacia las elecciones de noviembre.
+imagen: /notas/crisis-en-la-candidatura-democrata-el-camino-hacia-noviembre.webp
+credito: Foto: The White House / Wikimedia Commons (dominio público)
+creditoUrl: https://commons.wikimedia.org/wiki/File:Kamala_Harris_with_Joe_Biden_-_20240704.jpg
 ---
 
 El pasado 27 de junio tuvo lugar en los Estados Unidos el primer debate electoral entre los candidatos a presidente para las elecciones del año en curso. Allí, se enfrentaron en un intercambio público dos figuras centrales de la política estadounidense de la última década: el actual presidente demócrata, Joe Biden, y su predecesor, el empresario republicano Donald Trump.

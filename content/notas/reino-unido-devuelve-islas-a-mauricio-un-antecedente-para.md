@@ -3,6 +3,9 @@ titulo: Reino Unido devuelve islas a Mauricio: ¿un antecedente para el reclamo 
 fecha: 2024-10-21
 autores: Stefano Boubeta e Ignacio Casco
 resumen: El pasado 3 de octubre, Reino Unido oficializó el traspaso de la soberanía del archipiélago de Chagos a la República de Mauricio. Luego de varios años de negociaciones, el territorio compuesto por 55 islas en el Océano Índico finalmente volverá a formar parte del país africano. Sin embargo, la Isla Diego García seguirá bajo dominio británico, ya que allí prevalece una base militar estadounidense que genera gran controversia desde los años 70.
+imagen: /notas/reino-unido-devuelve-islas-a-mauricio-un-antecedente-para.webp
+credito: Foto: U.S. Navy / Wikimedia Commons (dominio público)
+creditoUrl: https://commons.wikimedia.org/wiki/File:Diego_Garcia_aerial_view_in_2013.JPG
 ---
 
 Luego de varios años de negociaciones, el pasado 3 de octubre Reino Unido oficializó el traspaso de la soberanía del archipiélago de Chagos a la República de Mauricio, un territorio compuesto por 55 islas en el Océano Índico que era disputado desde 1968.

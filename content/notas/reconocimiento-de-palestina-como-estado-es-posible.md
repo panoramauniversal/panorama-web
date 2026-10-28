@@ -3,6 +3,9 @@ titulo: Reconocimiento de Palestina como Estado ¿Es posible?
 fecha: 2024-06-03
 autores: Stefano Boubeta e Ignacio Casco
 resumen: La semana pasada, España, Noruega e Irlanda reconocieron formalmente a Palestina como Estado, con esto se suman a más de 140 países miembros de la ONU que han hecho este reconocimiento y se avanza un poco más en la posibilidad de presionar a las grandes potencias para que hagan el reconocimiento. Así, el Estado Palestino obtendría beneficios internacionalmente en detrimento de la gran ventaja que lleva Israel.
+imagen: /notas/reconocimiento-de-palestina-como-estado-es-posible.webp
+credito: Foto: Habib M'henni / Wikimedia Commons (CC BY-SA 4.0)
+creditoUrl: https://commons.wikimedia.org/wiki/File:Flag_of_Palestine,_in_Sayada,_Tunisia_5_June_2024.jpg
 ---
 
 ## Introducción

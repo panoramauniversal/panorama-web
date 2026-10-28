@@ -3,6 +3,9 @@ titulo: Ley Marcial en Corea del Sur: 6 horas donde la democracia desapareció
 fecha: 2024-12-16
 autores: Ignacio Milman
 resumen: Corea del Sur se vio sacudida cuando el presidente Yoon impuso sorpresivamente la ley marcial, generando una tormenta política. En solo seis horas, la presión del parlamento y la indignación pública forzaron a Yoon a retractarse. Ahora, el país enfrenta una encrucijada de inestabilidad y demandas de renuncia. Siendo una pieza clave en el escenario internacional, el mundo está a la expectativa de lo que pueda suceder.
+imagen: /notas/ley-marcial-en-corea-del-sur-6-horas-donde-la-democracia.webp
+credito: Foto: Cjb8293 / Wikimedia Commons (CC BY-SA 4.0)
+creditoUrl: https://commons.wikimedia.org/wiki/File:Republic_of_Korea_capitol.jpg
 ---
 
 El pasado 3 de diciembre, Corea del Sur entró en crisis después de que el presidente sorpresivamente impusiera la ley marcial, pero tuvo que retirarla 6 horas después ante la respuesta democrática del parlamento y la desaprobación general de la población. Ahora, el país asiático se ve envuelto en un manto de inestabilidad e incertidumbre.
