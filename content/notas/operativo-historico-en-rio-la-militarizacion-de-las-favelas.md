@@ -4,6 +4,9 @@ fecha: 2025-11-17
 autores: Lautaro Badilla Gomez y Stefano Boubeta
 colaboracion: Repensar la Argentina
 resumen: El operativo más grande en la historia reciente de Río de Janeiro dejó más de 120 muertos y reavivó el debate sobre la militarización de las favelas. Con más de 2.500 agentes, helicópteros, blindados y drones, la ofensiva contra el Comando Vermelho paralizó barrios enteros y generó fuertes cuestionamientos por el uso desproporcionado de la fuerza.
+imagen: /notas/operativo-historico-en-rio-la-militarizacion-de-las-favelas.webp
+credito: Foto: Agência Brasil / Wikimedia Commons (CC BY 3.0 br)
+creditoUrl: https://commons.wikimedia.org/wiki/File:Policiais_ocupam_Complexo_do_Alemao.JPG
 ---
 
 El pasado 28 de octubre, más de 2.500 efectivos policiales y militares del estado de Río de Janeiro lanzaron un gigantesco operativo contra la organización Comando Vermelho en las favelas Complexo do Alemão y Complexo da Penha. El despliegue incluyó helicópteros, vehículos blindados y drones, y fue calificado por el gobernador como “la mayor operación de la historia de la ciudad”.

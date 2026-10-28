@@ -3,6 +3,9 @@ titulo: COP30 en Brasil: concesiones, tensiones y oportunidades de liderazgo
 fecha: 2025-12-01
 autores: Delfina Campos Bianchi
 resumen: Del 10 al 21 de noviembre se llevó a cabo la COP30 en Belém, Brasil. La cumbre logró avances interesantes, como la definición de 59 indicadores de adaptación y una triplicación del financiamiento para la adaptación. Sin embargo, también fue escenario de grandes tensiones y dificultades para alcanzar consensos.
+imagen: /notas/cop30-en-brasil-concesiones-tensiones-y-oportunidades-de.webp
+credito: Foto: Xuthoria / Wikimedia Commons (CC BY-SA 4.0)
+creditoUrl: https://commons.wikimedia.org/wiki/File:COP30_-_Protests_06.jpg
 ---
 
 ## Introducción (COPs)

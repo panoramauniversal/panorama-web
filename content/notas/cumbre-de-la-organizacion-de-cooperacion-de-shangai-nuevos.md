@@ -3,6 +3,9 @@ titulo: Cumbre de la Organización de Cooperación de Shangai: nuevos movimiento
 fecha: 2025-09-15
 autores: Agustín Dal Ri
 resumen: Iniciado septiembre se llevó adelante una reunión de líderes asiáticos en Tianjin, China, de la Organización de Cooperación de Shanghái (OCS). Este foro para debatir amplios temas, desde seguridad hasta temas nucleares y de IA, tuvo una convocatoria récord, destacándose las asistencias del presidente ruso Vladimir Putin y del primer ministro indio Narendra Modi.
+imagen: /notas/cumbre-de-la-organizacion-de-cooperacion-de-shangai-nuevos.webp
+credito: Foto: Kremlin.ru / Wikimedia Commons (CC BY 4.0)
+creditoUrl: https://commons.wikimedia.org/wiki/File:Xi_Jinping,_Narendra_Modi_and_Vladimir_Putin_at_2025_SCO_Summit.jpg
 ---
 
 El 31 de agosto y el 01 de septiembre del 2025 la ciudad china de Tianjin recibió la cumbre del Consejo de Jefes de Estado de la Organización de Cooperación de Shangai (OCS), reunión que contó con la participación de grandes figuras internacionales, además de la del anfitrión Xi Jingpin.

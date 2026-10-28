@@ -3,6 +3,9 @@ titulo: Sudán, desde el asedio hasta la masacre: lo que se sabe de El Fasher
 fecha: 2025-12-08
 autores: Maria Belén Bocassi
 resumen: En El Fasher, Sudán, las Fuerzas de Apoyo Rápido (RSF) tomaron la ciudad tras un asedio marcado por masacres, ejecuciones y violencia sexual sistemática contra la población civil. Organismos internacionales denuncian crímenes de guerra y una crisis humanitaria extrema, con miles de personas huyendo para sobrevivir. El Fasher no es un conflicto lejano: es una historia de vidas arrancadas, familias que resisten y un pueblo que pide ser visto.
+imagen: /notas/sudan-desde-el-asedio-hasta-la-masacre-lo-que-se-sabe-de-el.webp
+credito: Foto: USAID / Wikimedia Commons (dominio público)
+creditoUrl: https://commons.wikimedia.org/wiki/File:Darfur_IDPs_1_camp.jpg
 ---
 
 ## Abril 2023: Inicio del conflicto general en Sudán

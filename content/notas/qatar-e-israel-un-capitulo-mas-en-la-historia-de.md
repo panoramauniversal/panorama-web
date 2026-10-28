@@ -3,6 +3,9 @@ titulo: Qatar e Israel: un capítulo más en la historia de dependencias
 fecha: 2025-09-29
 autores: Ignacio Milman
 resumen: El pasado 3 de septiembre, Doha fue escenario de un ataque israelí con misiles de precisión contra la cúpula negociadora de Hamas. Aunque los dirigentes sobrevivieron, seis personas murieron, lo que generó una fuerte condena de Qatar y tensiones con Washington, que quedó en una posición incómoda entre dos de sus aliados estratégicos más importantes.
+imagen: /notas/qatar-e-israel-un-capitulo-mas-en-la-historia-de.webp
+credito: Foto: Zairon / Wikimedia Commons (CC BY 4.0)
+creditoUrl: https://commons.wikimedia.org/wiki/File:Doha_Skyline_09.jpg
 ---
 
 El pasado 3 de septiembre la cúpula negociadora de Hamas fue interceptada en Doha, Qatar por misiles de precisión israelíes. Según el grupo palestino, radicado en dicha ciudad, todos los funcionarios sobrevivieron al ataque, sin embargo, seis personas perdieron la vida.

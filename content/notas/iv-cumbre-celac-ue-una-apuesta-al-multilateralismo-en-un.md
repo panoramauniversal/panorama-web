@@ -3,6 +3,9 @@ titulo: IV Cumbre CELAC-UE: una apuesta al multilateralismo en un contexto de te
 fecha: 2025-11-24
 autores: Martina Yannone
 resumen: La IV Cumbre CELAC-UE, realizada en Santa Marta, reunió a 60 países con la intención de fortalecer la cooperación birregional en comercio, transición verde, digitalización, seguridad y políticas sociales. La Unión Europea buscó afianzar su rol como socio estratégico a través de inversiones sostenibles y nuevas iniciativas como la Alianza para la Seguridad Ciudadana y el Pacto Birregional sobre el Cuidado.
+imagen: /notas/iv-cumbre-celac-ue-una-apuesta-al-multilateralismo-en-un.webp
+credito: Foto: Juan Cano / Presidencia de Colombia / Wikimedia Commons (dominio público)
+creditoUrl: https://commons.wikimedia.org/wiki/File:20251109_Santa_Marta_Llegada_del_Presidente_Gustavo_Petro_a_la_lV_Cumbre_CELAC_-UE_-Juan_Cano04537.jpg
 ---
 
 El pasado 9 de noviembre de 2025 se celebró la IV Cumbre CELAC-UE en Santa Marta, Colombia. Fue copresidida por Gustavo Petro, en su rol de presidente pro-tempore de la CELAC, y António Costa, presidente del Consejo Europeo.

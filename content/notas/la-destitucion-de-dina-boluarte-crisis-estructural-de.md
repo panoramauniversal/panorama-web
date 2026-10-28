@@ -3,6 +3,9 @@ titulo: La destitución de Dina Boluarte: crisis estructural de representación 
 fecha: 2025-11-10
 autores: Luca Nava
 resumen: La destitución de Dina Boluarte en octubre de 2025 por “permanente incapacidad moral” (PIM) expone una vez más la profunda inestabilidad política del Perú. Aunque el país mantiene cierta estabilidad económica, el descontento social sigue latente. La ambigüedad de la PIM ha alimentado un caos institucional sin precedentes, mientras la fragilidad del sistema de partidos y el centralismo histórico dificultan la gobernabilidad.
+imagen: /notas/la-destitucion-de-dina-boluarte-crisis-estructural-de.webp
+credito: Foto: Presidencia de la República del Perú / Wikimedia Commons (CC BY 3.0)
+creditoUrl: https://commons.wikimedia.org/wiki/File:Llegada_de_la_presidenta_Dina_Boluarte_a_Palacio_de_Gobierno_6-40_screenshot.png
 ---
 
 ## El proceso

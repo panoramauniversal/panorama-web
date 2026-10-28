@@ -3,6 +3,9 @@ titulo: Kafka en la máquina: Albania puso de ministra a una IA
 fecha: 2025-10-13
 autores: Pablo Azcurra Arndt
 resumen: Tras haber sido elegido para su cuarto mandato como primer ministro de Albania, Edi Rama tomó la decisión de ascender a rango de ministra a Diella, una inteligencia artificial que tendrá a su cargo la adjudicación de las licitaciones del Estado. Con la mira puesta en el ingreso a la Unión Europea y frente a un problema de corrupción crónica que obstaculiza ese camino, la apuesta busca reducir el factor humano y garantizar mayor transparencia.
+imagen: /notas/kafka-en-la-maquina-albania-puso-de-ministra-a-una-ia.webp
+credito: Foto: Matti Blume / Wikimedia Commons (CC BY-SA 4.0)
+creditoUrl: https://commons.wikimedia.org/wiki/File:Edi_Rama,_press_conference,_ITB_2025,_Berlin_(ITB56443).jpg
 ---
 
 ## Qué/Quién es Diella

@@ -3,6 +3,9 @@ titulo: Asimetría Estratégica y Disuasión Preventiva: La Guerra entre Israel 
 fecha: 2025-07-07
 autores: Sofia Kasirer
 resumen: La confrontación entre Israel e Irán define hoy uno de los ejes centrales de la seguridad en Medio Oriente. Mientras Teherán avanza en sus capacidades nucleares y proyecta poder a través de milicias aliadas, Israel responde con inteligencia estratégica, defensa multicapa y alianzas clave.
+imagen: /notas/asimetria-estrategica-y-disuasion-preventiva-la-guerra.webp
+credito: Foto: Standardwhale / Wikimedia Commons (CC0)
+creditoUrl: https://commons.wikimedia.org/wiki/File:Attack_on_Tehran_2.jpg
 ---
 
 El conflicto entre Israel e Irán alcanzó un nuevo nivel en junio de 2025, tras doce días de enfrentamientos que incluyeron ataques lanzados desde Irán, Líbano, Gaza, Siria y Yemen. Esta ofensiva coordinada confirmó que la tensión dejó de ser indirecta para convertirse en una amenaza regional abierta.

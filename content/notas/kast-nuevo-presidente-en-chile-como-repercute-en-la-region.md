@@ -4,6 +4,9 @@ fecha: 2025-12-22
 autores: Gonzalo Bañez y Stefano Boubeta
 colaboracion: Grupo Joven del CARI
 resumen: La victoria de José Antonio Kast en el balotaje chileno marca un punto de inflexión político en la región. Su triunfo no sólo consolida el avance de gobiernos de derecha en el continente americano, sino que refuerza un eje centrado en seguridad, orden institucional y liberalismo económico. Chile busca ahora un rol estratégico en el escenario regional, con capacidad de influir en los debates políticos y en los próximos procesos electorales.
+imagen: /notas/kast-nuevo-presidente-en-chile-como-repercute-en-la-region.webp
+credito: Foto: Biblioteca del Congreso Nacional de Chile / Wikimedia Commons (CC BY 3.0 cl)
+creditoUrl: https://commons.wikimedia.org/wiki/File:BCN_-_Jos%C3%A9_Antonio_Kast_-_0004.jpg
 ---
 
 En un histórico balotaje presidencial, José Antonio Kast se impuso ante Jeanette Jara y concretó un giro hacia la derecha del gobierno chileno. En juego se encontraban una propuesta de derecha conservadora, centrada en el orden, la seguridad y el liberalismo económico; y un modelo de izquierda asociado al oficialismo, con un fuerte énfasis en el rol del Estado.

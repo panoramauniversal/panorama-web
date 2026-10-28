@@ -3,6 +3,9 @@ titulo: Perú vs. Colombia: la disputa por Santa Rosa
 fecha: 2025-08-25
 autores: Katia Gavric
 resumen: Una formación natural reciente reaviva una vieja tensión entre Perú y Colombia. Mientras el cauce del Amazonas sigue moviéndose, también lo hace la frontera. ¿Quién tiene soberanía sobre la isla Santa Rosa en el río Amazonas? La disputa por esta pequeña isla frente a Leticia (Colombia) y Tabatinga (Brasil) plantea un dilema entre derecho, geografía y política. ¿Alcanza con aplicar los tratados vigentes o se necesita un nuevo acuerdo?
+imagen: /notas/peru-vs-colombia-la-disputa-por-santa-rosa.webp
+credito: Foto: M M / Wikimedia Commons (CC BY-SA 2.0)
+creditoUrl: https://commons.wikimedia.org/wiki/File:Amazonas,_Iquitos_-_Leticia,_Kolumbien_(11472727105).jpg
 ---
 
 El Amazonas no solo es el río más caudaloso de Sudamérica; en varios tramos funciona como frontera internacional particularmente sensible. Es ahí, donde su cauce delimita soberanías, que pequeños cambios en la corriente pueden llegar a desencadenar grandes tensiones diplomáticas. Tal es el caso de la isla Santa Rosa de Yavarí, frente a la ciudad de Leticia (Colombia) y Tabatinga (Brasil).

@@ -3,6 +3,9 @@ titulo: La necesaria recuperación de capacidades militares
 fecha: 2025-12-15
 autores: Agustín Bazán
 resumen: Tras décadas de postergación, la modernización de las Fuerzas Armadas vuelve a ocupar un lugar central. La incorporación de nuevos medios -como los P-3C Orión, los blindados Stryker y los F-16- marca un punto de inflexión en la recuperación de capacidades defensivas clave. Aún queda camino por recorrer: transporte estratégico, reabastecimiento en vuelo, capacidad submarina y modernización logística siguen siendo desafíos pendientes.
+imagen: /notas/la-necesaria-recuperacion-de-capacidades-militares.webp
+credito: Foto: C° Lautaro Vera / Wikimedia Commons (CC BY 4.0)
+creditoUrl: https://commons.wikimedia.org/wiki/File:Presentaci%C3%B3n_formal_F-16_Argentina_10.jpg
 ---
 
 ## Contexto

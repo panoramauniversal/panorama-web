@@ -3,6 +3,9 @@ titulo: Rusia prueba los límites de la OTAN: ¿cómo impactan las incursiones a
 fecha: 2025-10-20
 autores: Lucas Carone y Stefano Boubeta
 resumen: En las últimas semanas, aviones y drones rusos ingresaron en los espacios aéreos de Polonia y Estonia, dos miembros clave de la OTAN. Estos episodios encendieron las alarmas en Europa del Este y reavivaron la tensión entre Moscú y Occidente. Lejos de ser hechos aislados, estas maniobras podrían formar parte de una estrategia de presión gradual con la que Rusia busca proyectar poder, medir reacciones y desafiar la cohesión de la Alianza Atlántica.
+imagen: /notas/rusia-prueba-los-limites-de-la-otan-como-impactan-las.webp
+credito: Foto: Gerard van der Schaaf / Wikimedia Commons (CC BY 2.0)
+creditoUrl: https://commons.wikimedia.org/wiki/File:Polish_air_force_F-16_Take_off_(26917785987).jpg
 ---
 
 En las últimas semanas, Rusia ha intensificado acciones que han generado alarma en Europa del Este. Incursiones de aeronaves militares rusas y drones en los espacios aéreos de Polonia y Estonia, ambos miembros de la OTAN, se perciben como provocaciones directas que ponen en tensión la seguridad regional y desafían el orden internacional vigente.

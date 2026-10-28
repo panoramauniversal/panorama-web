@@ -3,6 +3,9 @@ titulo: Protestas históricas en Nepal: la Generación Z, de las redes a las cal
 fecha: 2025-09-22
 autores: Valentino Dalla Valle
 resumen: Estas últimas semanas, Katmandú fue escenario de masivas protestas que comenzaron con el rechazo a la prohibición de redes sociales y terminaron con la renuncia del primer ministro K. P. Sharma Oli. Con más de 70 muertos y edificios estatales incendiados, la crisis expuso el hartazgo juvenil, la fragilidad democrática y la puja de influencia entre India y China.
+imagen: /notas/protestas-historicas-en-nepal-la-generacion-z-de-las-redes.webp
+credito: Foto: Bijay Chaurasia / Wikimedia Commons (CC BY-SA 4.0)
+creditoUrl: https://commons.wikimedia.org/wiki/File:Demonstrations_and_protests_in_Nepal_in_2025-070A6049.jpg
 ---
 
 ## Introducción

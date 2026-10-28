@@ -3,6 +3,9 @@ titulo: Star Wars reeditado: La militarización del espacio ultraterrestre
 fecha: 2025-08-04
 autores: Pablo Azcurra Arndt
 resumen: En la actualidad, la agenda internacional y los intereses de los grandes actores alcanzan diferentes agendas de manera transversal a las mismas. En este contexto, la tecnología, el medio ambiente, el comercio, entre otros, son aspectos más notorios de los intereses políticos y la distribución del poder en el mundo. Sin embargo, aparecen también aspectos más contraintuitivos dentro de la agenda tal como lo es el caso del espacio ultraterrestre.
+imagen: /notas/star-wars-reeditado-la-militarizacion-del-espacio.webp
+credito: Foto: Casa Blanca / Wikimedia Commons (dominio público)
+creditoUrl: https://commons.wikimedia.org/wiki/File:Donald_Trump_announces_the_Golden_Dome_missile_defense_system_inside_the_White_House_Oval_Office_on_May_20,_2025.jpg
 ---
 
 La militarización del espacio ultraterrestre se refiere al despliegue de tecnología y recursos militares en el espacio exterior (convencionalmente: 100 km sobre el nivel del mar) con fines de defensa, vigilancia u ofensivos. En rigor, el espacio ultraterrestre debiera permanecer pacífico… pero es más complejo.

@@ -3,6 +3,9 @@ titulo: Acuerdo MERCOSUR - EFTA: una nueva apuesta por el mercado europeo
 fecha: 2025-07-28
 autores: Lucas Carone
 resumen: Recientemente, el MERCOSUR firmó un tratado de liberalización comercial con el bloque de Suiza, Noruega, Islandia y Liechtenstein (EFTA), con el mismo se abre el 97% del comercio entre ambos. El mismo incluye bienes y servicios, propiedad intelectual y sostenibilidad, con lo cuál parece posicionar al MERCOSUR como un socio comercial revitalizado.
+imagen: /notas/acuerdo-mercosur-efta-una-nueva-apuesta-por-el-mercado.webp
+credito: Foto: Cancillería Argentina / Wikimedia Commons (CC BY 4.0)
+creditoUrl: https://commons.wikimedia.org/wiki/File:MERCOSUR_-_EFTA.jpg
 ---
 
 Por décadas, América Latina ha buscado profundizar su integración regional con el objetivo de fortalecer su posición en el sistema internacional. Desde los esfuerzos de la ALALC en los años 60 hasta la creación de bloques más ambiciosos como la Comunidad Andina o el MERCOSUR, el regionalismo ha sido una respuesta tanto a la globalización como a las asimetrías del comercio mundial.

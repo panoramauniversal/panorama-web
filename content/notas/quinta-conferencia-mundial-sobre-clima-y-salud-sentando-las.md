@@ -3,6 +3,9 @@ titulo: Quinta Conferencia Mundial sobre Clima y Salud: sentando las bases para 
 fecha: 2025-08-18
 autores: Delfina Campos Bianchi
 resumen: La Quinta Conferencia Mundial sobre Clima y Salud es una de las principales reuniones previas a la COP30 a desarrollarse en Belém, Brasil, el próximo noviembre. La Conferencia no solo sienta las bases para la próxima Conferencia de las Partes, sino que también generó aportes directos al Plan de Acción de Salud de Belém, una propuesta brasileña para lograr integrar la salud en la política climática mundial.
+imagen: /notas/quinta-conferencia-mundial-sobre-clima-y-salud-sentando-las.webp
+credito: Foto: OMPI / Wikimedia Commons (CC BY 4.0)
+creditoUrl: https://commons.wikimedia.org/wiki/File:WHO,_WIPO,_WTO_Trilateral_Symposium_on_Human_Health_and_Climate_Change_held_at_United_Nations_Office_in_Geneva,_on_November_14,_2023.jpg
 ---
 
 ## Contexto

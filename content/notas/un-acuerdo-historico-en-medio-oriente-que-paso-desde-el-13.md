@@ -3,6 +3,9 @@ titulo: Un acuerdo histórico en Medio Oriente: ¿Qué pasó desde el 13 de octu
 fecha: 2025-11-03
 autores: Melina Antebi
 resumen: El pasado 13 de octubre, Israel y Hamas firmaron un acuerdo de paz sin precedentes, mediado por Estados Unidos, Egipto, Qatar y Arabia Saudita. Por primera vez en años, la palabra paz volvió a aparecer en el léxico de Medio Oriente.
+imagen: /notas/un-acuerdo-historico-en-medio-oriente-que-paso-desde-el-13.webp
+credito: Foto: Roman Ismayilov / Wikimedia Commons (CC BY 4.0)
+creditoUrl: https://commons.wikimedia.org/wiki/File:Sharm_El_Sheikh_Summit_for_Peace,_13_October_2025_(Roman_Ismayilov)_18.jpg
 ---
 
 Estas últimas semanas, la palabra “paz” apareció en nuestro léxico cuando en conversaciones diarias de geopolítica internacional hablamos de Medio Oriente. Algo que pocos creían que iba a poder lograrse en un futuro cercano. Nos encontramos ante momentos claves para la región. Los actores involucrados minuto a minuto emiten comunicados, envían señales, y toman decisiones estratégicas fundamentales para esa paz que tanto se buscó.
