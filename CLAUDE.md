@@ -22,16 +22,20 @@ Sitio en español rioplatense (voseo) de Panorama Universal. Producción: https:
 
 - No mencionar que Panorama es una asociación civil ni incluir la "palabra del presidente".
 - No hay sección de pilares (se eliminó).
-- Notas: cada una lleva una imagen de portada (`imagen`, `credito`, `creditoUrl` en el encabezado; archivo en `public/notas/<slug>.webp`, 1200×675, ~100 KB). Solo imágenes de uso libre (Wikimedia Commons, dominio público, CC0, CC BY, CC BY-SA), nunca las placas de Instagram ni fotos de medios. Si el título nombra a una persona, esa persona tiene que aparecer en la foto (regla vigente desde la tanda de marzo–junio de 2026; las ya publicadas antes quedan como se eligieron). Las notas de Substack no se cargan.
+- Notas: cada una lleva una imagen de portada (`imagen`, `credito`, `creditoUrl` en el encabezado; archivo en `public/notas/<slug>.webp`, 1200×675, ~100 KB). Solo imágenes de uso libre (Wikimedia Commons, dominio público, CC0, CC BY, CC BY-SA), nunca fotos de medios/agencias. No usar placas de Instagram, salvo que el equipo pase una pieza propia para usar de portada (ej. nota de Lula, recortada a ancho completo; sin crédito). Fotos propias que pase el equipo van sin crédito. Crédito: "Foto: Autor / Wikimedia Commons (licencia)" o "/ Flickr (licencia)", limpiando autores raros ("Own work", URLs, "from Ciudad"). No repetir la misma imagen en dos notas. Si el título nombra a una persona, esa persona tiene que aparecer en la foto (regla vigente desde la tanda de marzo–junio de 2026; las ya publicadas antes quedan como se eligieron). Las notas de Substack no se cargan.
+- Header y footer: logos (SVG de Simple Icons, `app/iconos.tsx`) de Instagram, TikTok y LinkedIn en vez de nombres.
+- Áreas de equipo con más de 2 integrantes (Equipo Directivo): integrantes primero en 3 columnas a lo ancho, después "Qué hacemos".
 - `<html data-scroll-behavior="smooth">` es necesario para que Next no deje la página a mitad de scroll al navegar.
 - Bios de equipo y voluntarios: no repetir el cargo ni el área de Panorama (ya figuran en la tarjeta). Largo parecido entre todas.
 - El autor de cada nota sale del cronograma. Si no figura, preguntar en vez de firmar como "Equipo Panorama Universal".
 
 ## Pendientes
 
-- Imágenes de notas: cargadas todas desde 2025 hasta hoy. De 2024 solo 6 (sucesos 2024, real, DDHH Ucrania, política exterior EE.UU., G20, Venezuela); faltan 28. Buscar con Openverse (fotos de Flickr de uso libre; `api.openverse.org` y `live.staticflickr.com`) y completar con Wikimedia Commons, que limita mucho las consultas. Scripts en el scratchpad se pierden: rehacerlos si hace falta. Al terminar, revisión general con el equipo.
+- Imágenes de notas: todas cargadas desde 2025 hasta hoy. De 2024 hay 6; faltan 28 (lista con consultas en `scripts/imagenes/tanda-2024.txt`, ya sin las 6 hechas: sucesos 2024, real, DDHH Ucrania, política exterior EE.UU., G20, Venezuela). Método "como al principio": por tandas, buscar candidatas, armar hoja de contactos, elegir yo una por nota, publicar y mandarle al usuario la hoja; el usuario después pide cambios puntuales. Scripts en `scripts/imagenes/` (copiarlos al scratchpad y correrlos con `python3 -I` desde ahí): `candidatas.py` (Wikimedia; limita mucho, 429), `ov_candidatas.py` (Openverse/Flickr, más rápido), `agregar.py` (archivo puntual de Commons), `aplicar.py carpeta repo slug=índice[:altura 0-1][:autor]`. Dominios habilitados: commons/upload/thumb.wikimedia.org, api.openverse.org, live.staticflickr.com. Al terminar todas, revisión general con el equipo.
+- Falta LinkedIn (solo pasaron el nombre, pedir link): Lourdes Torres, Cecile Fabian-Fränkel (voluntarias), Ivo Trošelj (autor).
+- Voluntaria Agustina Luc: sin foto ni bio.
 
-- Voluntarios: cargados Comunicación y Diseño, Académica y Lucia Sol Martin (Asuntos Institucionales y Proyectos). Faltan el resto de las secretarías. Si el nombre de firma de notas difiere, usar el campo `autor`.
+- Voluntarios: cargados Comunicación y Diseño, Académica, Lucia Sol Martin y Martina Ayelén Rein (Asuntos Institucionales y Proyectos). Faltan el resto de las secretarías. Si el nombre de firma de notas difiere, usar el campo `autor`.
 
 - Vincular el botón "¿Querés escribir en Panorama?" cuando exista el formulario.
 - Autores sin ninguna red: Julián Arce, Karina Herrera, Kevin Bryan, Maximiliano Buteler, Nahuel Nores (planilla "Autores sin redes - Notas Panorama" en el Drive).
