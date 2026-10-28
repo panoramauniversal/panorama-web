@@ -3,6 +3,9 @@ titulo: La devaluación del real: El futuro de Brasil desde dos miradas
 fecha: 2024-12-09
 autores: Stefano Boubeta e Ignacio Casco
 resumen: Con la reciente devaluación del real en Brasil, la más grande en su historia, surgieron distintas opiniones con respecto a cuál es el futuro de la economía del gigante sudamericano. De cara a los dos modelos distintos que llevan a cabo Brasil y Argentina,hoy analizaremos brevemente cómo se llegó a esta situación y cuáles son los futuros posibles desde ambas miradas.
+imagen: /notas/la-devaluacion-del-real-el-futuro-de-brasil-desde-dos.webp
+credito: Foto: markhillary / Flickr (CC BY 2.0)
+creditoUrl: https://www.flickr.com/photos/56087830@N00/5471385929
 ---
 
 La semana pasada, Brasil sufrió la mayor devaluación del real en su historia. El mismo pasó de valer frente al dólar 5,81 a 6,11 sumado a que fue una de las monedas del mundo con el peor desempeño en el año. Esta caída en su valor se produjo luego de que el Ministro de Hacienda, Fernando Haddad, anunciara por cadena nacional una exención de impuestos para las personas que ganen menos de 5.000 reales (840 dólares) que debe ser pasada por el congreso para entrar en vigencia en 2026. Política contraria al ajuste de gasto público que esperaban los mercados y se había anunciado previamente .

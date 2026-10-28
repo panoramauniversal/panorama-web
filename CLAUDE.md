@@ -29,7 +29,7 @@ Sitio en español rioplatense (voseo) de Panorama Universal. Producción: https:
 
 ## Pendientes
 
-- Imágenes de notas: se cargan por tandas desde la más nueva hacia atrás. Al terminar todas, revisión general con el equipo.
+- Imágenes de notas: cargadas todas desde 2025 hasta hoy. De 2024 solo 6 (sucesos 2024, real, DDHH Ucrania, política exterior EE.UU., G20, Venezuela); faltan 28 más Waldemar Aquino (el equipo consigue la foto). Buscar con Openverse (fotos de Flickr de uso libre; `api.openverse.org` y `live.staticflickr.com`) y completar con Wikimedia Commons, que limita mucho las consultas. Scripts en el scratchpad se pierden: rehacerlos si hace falta. Al terminar, revisión general con el equipo.
 
 - Voluntarios: cargados Comunicación y Diseño, Académica y Lucia Sol Martin (Asuntos Institucionales y Proyectos). Faltan el resto de las secretarías. Si el nombre de firma de notas difiere, usar el campo `autor`.
 

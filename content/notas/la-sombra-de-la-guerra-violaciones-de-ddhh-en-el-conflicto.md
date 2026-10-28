@@ -3,6 +3,9 @@ titulo: La sombra de la guerra: Violaciones de DDHH en el conflicto Ruso-Ucrania
 fecha: 2024-12-02
 autores: Jerónimo Zarlenga
 resumen: ººªLa sombra de la guerra: Violaciones de Derechos Humanos en el conflicto Ruso-Ucraniano. A 2 años y 8 meses de la guerra entre Rusia y Ucrania, miles de civiles se han visto afectados de múltiples maneras. La violencia y los rastros destructivos desplegados en el conflicto han generado una crisis humanitaria a gran escala en Europa, donde se han vulnerado derechos básicos de las personas en múltiples situaciones.
+imagen: /notas/la-sombra-de-la-guerra-violaciones-de-ddhh-en-el-conflicto.webp
+credito: Foto: Presidencia de Ucrania / Flickr (CC0)
+creditoUrl: https://www.flickr.com/photos/165930373@N06/51987872916
 ---
 
 ## Contexto del conflicto

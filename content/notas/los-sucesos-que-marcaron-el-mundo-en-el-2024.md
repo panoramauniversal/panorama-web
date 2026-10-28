@@ -3,6 +3,9 @@ titulo: Los sucesos que marcaron el mundo en el 2024
 fecha: 2024-12-30
 autores: Stefano Boubeta e Ignacio Casco
 resumen: Este año 2024 fue protagonista de grandes acontecimientos en la escena internacional, desde el sostenimiento de gobiernos autoritarios, caídas de distintos líderes y reconfiguraciones en la estructura del sistema. Por eso hoy repasamos brevemente los eventos más importantes de este año, y a su vez agradecemos especialmente a todos nuestros lectores y escritores que fueron parte de este gran proyecto durante el año transcurrido.
+imagen: /notas/los-sucesos-que-marcaron-el-mundo-en-el-2024.webp
+credito: Foto: Ron Cogswell / Flickr (CC BY 2.0)
+creditoUrl: https://www.flickr.com/photos/22711505@N05/53898847057
 ---
 
 ## Enero

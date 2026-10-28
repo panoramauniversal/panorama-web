@@ -3,6 +3,9 @@ titulo: Tiempos turbulentos: La política exterior de Estados Unidos frente a un
 fecha: 2024-11-18
 autores: Joaquín Campoy
 resumen: Donald Trump volverá a ser presidente de los Estados Unidos, en un contexto global totalmente diferente del que era durante su primer presidencia. El mundo se encuentra expectante por los cambios que pueda realizar Estados Unidos en su política exterior con respecto a cuestiones de gran relevancia como: la guerra en Ucrania, el conflicto bélico entre Israel y los países árabes e incluso la relación con China, la OTAN y Europa.
+imagen: /notas/tiempos-turbulentos-la-politica-exterior-de-estados-unidos.webp
+credito: Foto: Embajada de EE.UU. en Nigeria / Flickr (dominio público)
+creditoUrl: https://www.flickr.com/photos/65240623@N07/19552585025
 ---
 
 ## Introducción
