@@ -3,6 +3,9 @@ titulo: Annobón: la isla africana que quiere ser argentina
 fecha: 2025-06-16
 autores: Stefano Boubeta e Ignacio Casco
 resumen: Recientemente la isla de Annobón, un pequeño territorio ubicado en Guinea Ecuatorial, expresó su deseo de convertirse en parte de Argentina apelando a lazos históricos pasados. La solicitud generó sorpresa y hasta se volvió momentaneamente motivo de memes en redes sociales. Pero hay que preguntarnos ¿Cómo surgió la idea? ¿Por qué una isla lejana desea unirse a Argentina? ¿Que implicaría anexar la isla para Argentina?
+imagen: /notas/annobon-la-isla-africana-que-quiere-ser-argentina.webp
+credito: Foto: Edeiaid / Wikimedia Commons (CC0)
+creditoUrl: https://commons.wikimedia.org/wiki/File:Bandera_Annobon.png
 ---
 
 ## Introducción

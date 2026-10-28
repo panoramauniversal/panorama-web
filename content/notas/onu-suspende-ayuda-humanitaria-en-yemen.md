@@ -3,6 +3,9 @@ titulo: ONU suspende ayuda humanitaria en Yemen
 fecha: 2025-03-10
 autores: Maria Belén Bocassi
 resumen: La guerra civil en Yemen, que comenzó en 2014, ha desencadenado una de las crisis humanitarias más graves del mundo. El conflicto, que enfrenta a los rebeldes hutíes, respaldados por Irán, contra el gobierno reconocido internacionalmente y apoyado por una coalición liderada por Arabia Saudí, ha provocado la muerte de más de 150.000 personas y ha desplazado a millones.
+imagen: /notas/onu-suspende-ayuda-humanitaria-en-yemen.webp
+credito: Foto: Hamza Shiban / Wikimedia Commons (CC BY-SA 3.0)
+creditoUrl: https://commons.wikimedia.org/wiki/File:Old_City_Of_Sanaa_(95129511).jpeg
 ---
 
 ## ONU suspende actividades humanitarias en Saada

@@ -3,6 +3,9 @@ titulo: ¿El fin de la Cooperación al Desarrollo de Alemania?
 fecha: 2025-04-21
 autores: Stefano Boubeta
 resumen: Con la llegada de Friedrich Merz como futuro Canciller alemán, en una coalición entre la CDU, la CSU y el SPD, el histórico compromiso germánico con la ayuda al desarrollo podría estar viviendo un giro crucial.
+imagen: /notas/el-fin-de-la-cooperacion-al-desarrollo-de-alemania.webp
+credito: Foto: Ansgar Koreng / Wikimedia Commons (CC BY-SA 3.0 de)
+creditoUrl: https://commons.wikimedia.org/wiki/File:Reichstagsgeb%C3%A4ude_und_Paul-L%C3%B6be-Haus,_Berlin-Mitte,_170327,_ako.jpg
 ---
 
 Tras semanas de negociaciones luego de las elecciones, el 9 de abril se presentó la coalición que gobernará Alemania.

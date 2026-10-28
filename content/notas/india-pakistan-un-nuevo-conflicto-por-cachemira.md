@@ -3,6 +3,9 @@ titulo: India-Pakistán: Un nuevo conflicto por Cachemira
 fecha: 2025-05-12
 autores: Melina Antebi
 resumen: El ataque terrorista del 22 de abril de 2025 en la región de Cachemira no sólo dejó un saldo de casi 30 víctimas, sino que desencadenó un nuevo conflicto entre India y Pakistán. Estos dos países históricamente han confrontado por la región en la Línea de Control, frontera establecida tras su primera guerra en 1947.
+imagen: /notas/india-pakistan-un-nuevo-conflicto-por-cachemira.webp
+credito: Foto: Fulvio Spada / Wikimedia Commons (CC BY-SA 2.0)
+creditoUrl: https://commons.wikimedia.org/wiki/File:Empty_shikara_on_Dal_Lake,_Srinagar,_India_2013-08-23_(flickr_9967093983).jpg
 ---
 
 Durante las últimas tres semanas vimos reactivarse y escalar un conflicto que data desde los procesos de descolonización de los involucrados: el conflicto de India y Pakistán, al que hoy lamentable pero oficialmente podemos denominar guerra. Este enfrentamiento tiene varias dimensiones a tener en cuenta, desde discursos y acciones oficiales hasta la presencia de insurgentes, las guerras por el agua y el peligro nuclear.

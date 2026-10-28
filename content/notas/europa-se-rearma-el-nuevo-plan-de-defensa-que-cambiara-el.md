@@ -3,6 +3,9 @@ titulo: Europa se Rearma: El Nuevo Plan de Defensa que Cambiará el Futuro del C
 fecha: 2025-03-31
 autores: Eva Morales
 resumen: La creciente inestabilidad en el panorama internacional, impulsada por la reelección de Donald Trump y la intensificación de conflictos globales, ha llevado a la Unión Europea a diseñar un enfoque de seguridad más autónomo y resiliente. Este ambicioso plan busca redefinir el papel de Europa en la geopolítica global, reduciendo su dependencia de actores externos y fortaleciendo sus capacidades defensivas.
+imagen: /notas/europa-se-rearma-el-nuevo-plan-de-defensa-que-cambiara-el.webp
+credito: Foto: Bundeswehr-Fotos / Wikimedia Commons (CC BY 2.0)
+creditoUrl: https://commons.wikimedia.org/wiki/File:Leopard_2_A5_der_Bundeswehr.jpg
 ---
 
 El 4 de marzo de 2025, Ursula von der Leyen, presidenta de la Comisión Europea, presentó *Readiness 2030*, un plan de rearme que marcará un nuevo capítulo en la seguridad del continente. Con esta iniciativa sin precedentes, la UE busca fortalecer sus capacidades de defensa para enfrentar las amenazas globales con mayor eficacia.

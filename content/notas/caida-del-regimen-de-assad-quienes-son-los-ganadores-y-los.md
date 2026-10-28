@@ -3,6 +3,9 @@ titulo: Caída del régimen de Assad: ¿quiénes son los ganadores y los perdedo
 fecha: 2025-01-06
 autores: Pedro Gil Rodríguez
 resumen: El 8 de diciembre luego de intensos combates en Siria, los rebeldes tomaron la capital y lograron llevar a cabo la caída de Bashar Al Assad. Poniendo fin al histórico gobierno del régimen Baazista. Sin embargo, un poder que lleva tanto tiempo arraigado genera serios efectos al caer. Surgen entonces preguntas respecto a cómo cambia el equilibrio político en la región y al interior, qué países se ven beneficiados y perjudicados, entre otras.
+imagen: /notas/caida-del-regimen-de-assad-quienes-son-los-ganadores-y-los.webp
+credito: Foto: autor desconocido / Wikimedia Commons (dominio público)
+creditoUrl: https://commons.wikimedia.org/wiki/File:Syrian_citizens_celebrating_fall_of_the_Assad_regime_in_Damascus_at_December_11_of_2024.jpg
 ---
 
 ## Introducción

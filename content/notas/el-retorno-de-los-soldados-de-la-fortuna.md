@@ -3,6 +3,9 @@ titulo: El retorno de los soldados de la fortuna
 fecha: 2025-06-02
 autores: Pablo Azcurra Arndt
 resumen: Jean Larteguy escribió: "Ninguno de los mercenarios por mí conocidos responde ya a la definición que de ellos da el Larousse: 'Soldado que sirve por dinero a un gobierno extranjero'. El dinero nunca les interesa, la gloria rara vez, y se preocupan muy poco de la opinión que merecen a sus contemporáneos. En esto es en lo que se distinguen de los demás hombres." ¿Qué tendría para decir si los viera hoy?
+imagen: /notas/el-retorno-de-los-soldados-de-la-fortuna.webp
+credito: Foto: Agencia BelTA / Wikimedia Commons (CC BY 3.0)
+creditoUrl: https://commons.wikimedia.org/wiki/File:PMC_wagner_in_belarus_3.png
 ---
 
 ## Introducción

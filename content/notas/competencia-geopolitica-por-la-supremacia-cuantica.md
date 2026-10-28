@@ -3,6 +3,9 @@ titulo: Competencia geopolítica por la supremacía cuántica
 fecha: 2025-04-14
 autores: Pablo Azcurra Arndt
 resumen: En marzo de 2025, un paper en la revista Nature indicó que China y Sudáfrica lograron establecer un enlace cuántico. ¿Por qué esto es importante? En las últimas décadas han sucedido grandes avances en la implementación de tecnología basada en las propiedades atómicas descritas por la física cuántica.
+imagen: /notas/competencia-geopolitica-por-la-supremacia-cuantica.webp
+credito: Foto: Google / Wikimedia Commons (CC BY 3.0)
+creditoUrl: https://commons.wikimedia.org/wiki/File:Google_Sycamore_Chip_001.png
 ---
 
 En marzo de 2025, un paper en la revista Nature indica que China y Sudáfrica lograron establecer un enlace cuántico de comunicación entre ambas naciones.

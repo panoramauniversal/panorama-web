@@ -3,6 +3,9 @@ titulo: ¿Siglo perdido u oportunidad? El futuro de América Latina y el rol de 
 fecha: 2025-06-23
 autores: Lara Milewicz
 resumen: La arquitectura financiera internacional enfrenta tensiones crecientes. Mientras nuevos bancos emergen con propuestas más ágiles, América Latina sigue buscando respuestas a desafíos persistentes. ¿Quién define hoy las prioridades del desarrollo regional? ¿Qué sentido tiene multiplicar instituciones si no hay una visión común?
+imagen: /notas/siglo-perdido-u-oportunidad-el-futuro-de-america-latina-y.webp
+credito: Foto: APK / Wikimedia Commons (CC BY 4.0)
+creditoUrl: https://commons.wikimedia.org/wiki/File:Inter-American_Development_Bank_headquarters_-_1.jpg
 ---
 
 ## Noticia datos BM sobre crecimiento América Latina

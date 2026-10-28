@@ -3,6 +3,9 @@ titulo: El impacto del Criptogate en la economía argentina
 fecha: 2025-03-03
 autores: Sofia Selser
 resumen: Hace unas semanas, el presidente de Argentina, Javier Milei, se vió envuelto en un escándalo en torno al mundo de las criptomonedas. La promoción de Milei a un proyecto que devino en una supuesta estafa trajo un clima de incertidumbre y de desconfianza hacia la figura presidencial. Esto repercutió en los mercados y la cuestión recayó en la justicia.
+imagen: /notas/el-impacto-del-criptogate-en-la-economia-argentina.webp
+credito: Foto: Gage Skidmore / Wikimedia Commons (CC BY-SA 2.0)
+creditoUrl: https://commons.wikimedia.org/wiki/File:Elon_Musk_%26_Javier_Milei_(54350005050).jpg
 ---
 
 El pasado 14 de febrero a las 19:10, el presidente de la nación Argentina, Javier Milei, publicó en su cuenta de twitter con 3,8 millones de seguidores, un mensaje de difusión de un proyecto privado de una criptomoneda creada ese mismo día. De inmediato, el valor del token llamado $LIBRA se disparó.

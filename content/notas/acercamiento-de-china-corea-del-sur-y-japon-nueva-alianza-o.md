@@ -3,6 +3,9 @@ titulo: Acercamiento de China, Corea del Sur y Japón: ¿nueva alianza o coopera
 fecha: 2025-05-19
 autores: Agustín Dal Ri
 resumen: A fines de marzo una reunión entre China, Corea del Sur y Japón sorprendió a muchos. A pesar de que se dió en el marco de discusiones comerciales, el contexto internacional puede dar a pensar que hay algo más allá de eso. ¿Acaso Trump logró que rivales históricos dejen de lado sus diferencias para confrontarlo?
+imagen: /notas/acercamiento-de-china-corea-del-sur-y-japon-nueva-alianza-o.webp
+credito: Foto: Gobierno de Corea del Sur / Wikimedia Commons (CC BY-SA 2.0)
+creditoUrl: https://commons.wikimedia.org/wiki/File:Korea-Japan-China_Trilateral_Summit_meeting_in_October_2009_(4347872866).jpg
 ---
 
 El 30 de marzo del 2025, en el marco de una reunión trilateral en Seúl, los ministros de Economía y Comercio de China, Corea del Sur y Japón acordaron acelerar negociaciones para un TLC y garantizar reglas claras para un comercio libre, transparente, justo y predecible.

@@ -3,6 +3,9 @@ titulo: Los líderes globales que rodean a Donald Trump
 fecha: 2025-02-03
 autores: Camila Turner
 resumen: La asunción de Donald Trump no solo contó con la presencia de importantes miembros de su administración sino que también asistieron Jefes de Estado y Directores Ejecutivos de las principales empresas tecnológicas. Estos invitados reflejan la dirección que Trump le dará a su política y las alianzas que busca construir.
+imagen: /notas/los-lideres-globales-que-rodean-a-donald-trump.webp
+credito: Foto: Casa Blanca / Wikimedia Commons (dominio público)
+creditoUrl: https://commons.wikimedia.org/wiki/File:President_Donald_Trump_Meets_European_Leaders_(54732163195).jpg
 ---
 
 ## Introducción

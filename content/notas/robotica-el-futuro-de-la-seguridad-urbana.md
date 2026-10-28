@@ -3,6 +3,9 @@ titulo: Robótica, ¿El futuro de la Seguridad Urbana?
 fecha: 2025-05-26
 autores: Santiago Soratti
 resumen: El uso de robots en la seguridad urbana avanza de manera radical, existen ejemplos en la actualidad como el AI Police Cyborg en Tailandia o RG.T en China. Estos sistemas son capaces de identificar sospechosos, detectar armas e incluso actuar en situaciones de riesgo.
+imagen: /notas/robotica-el-futuro-de-la-seguridad-urbana.webp
+credito: Foto: Moti Pinchasi / Wikimedia Commons (CC BY-SA 3.0)
+creditoUrl: https://commons.wikimedia.org/wiki/File:Police-robot-netanya-atzmaut-elefmilim.JPG
 ---
 
 El 16 de abril la policía tailandesa presentó su flamante incorporación a las fuerzas del orden: AI Police Cyborg 1.0, un robot autónomo para seguridad ciudadana

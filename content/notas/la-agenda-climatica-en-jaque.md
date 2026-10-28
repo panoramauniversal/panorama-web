@@ -3,6 +3,9 @@ titulo: La agenda climática en jaque
 fecha: 2025-03-24
 autores: Tomás Vallica
 resumen: La historia de la humanidad tuvo distintos hitos a lo largo del tiempo, la llegada de la industrialización fue definitivamente unos de los mismos, que permitió obtener notables mejoras en la calidad de vida mediante el aumento de la producción y empleos pero también fue una contribución al deterioro del medio ambiente; provocando sequías, aumento del nivel del mar disminución de la biodiversidad, cambios en las corrientes oceánicas, entre otros factores. Como respuesta a estos problemas, la comunidad internacional desarrolló un agenda climática que podría darse por iniciada en la Convención de Río de 1992, con el fin de mitigar estos efectos. Sin embargo, hoy en día esta agenda se encuentra profundamente tambaleante. Por lo cual, en esta publicación se busca caracterizar esta agenda, sus implicancias, y sus actuales desafíos dentro del orden internacional.
+imagen: /notas/la-agenda-climatica-en-jaque.webp
+credito: Foto: Stephan Sprinz / Wikimedia Commons (CC BY 4.0)
+creditoUrl: https://commons.wikimedia.org/wiki/File:Fridays_for_Future_Heidelberg_03.jpg
 ---
 
 ## Qué es el cambio climático

@@ -3,6 +3,9 @@ titulo: La relación Europa - EEUU: el turno de la energía
 fecha: 2025-03-17
 autores: Santiago Soratti
 resumen: Con el regreso de Donald Trump a la presidencia de Estados Unidos, el sistema internacional parece estar experimentando grandes turbulencias de cara a la agenda que primaba previo a la llegada del magnate a la presidencia. Con lo anterior presente, Trump rápidamente apuntó contra sus aliados en Europa y nuevamente contra el Acuerdo de París.
+imagen: /notas/la-relacion-europa-eeuu-el-turno-de-la-energia.webp
+credito: Foto: Gordon Leggett / Wikimedia Commons (CC BY-SA 4.0)
+creditoUrl: https://commons.wikimedia.org/wiki/File:2023-05-20_01_LNG_tanker,_GULF_ENERGY_-_IMO_7390143.jpg
 ---
 
 ## Trump 2.0
