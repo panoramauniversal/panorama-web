@@ -4,6 +4,9 @@ fecha: 2026-02-11
 autores: Milagros Portilla
 colaboracion: Internacionalizarse
 resumen: El pasado 17 de enero de 2026, entró en vigor el Tratado BBNJ en el marco de la Convención de las Naciones Unidas sobre el Derecho del Mar (UNCLOS/CONVEMAR) para conservar y usar de forma sostenible la biodiversidad marina más allá de las jurisdicciones nacionales. Este es el tercero en su tipo bajo la CONVEMAR, resultado de casi dos décadas de negociaciones en el seno de la Conferencia Intergubernamental de las Naciones Unidas.
+imagen: /notas/el-tratado-bbnj-un-nuevo-marco-juridico-vinculante-para-la.webp
+credito: Foto: XEON / Wikimedia Commons (CC BY 3.0)
+creditoUrl: https://commons.wikimedia.org/wiki/File:Ocean_Wave_-_panoramio.jpg
 ---
 
 El acuerdo BBNJ (por sus siglas en inglés) para la Biodiversidad Marina de las Zonas Situadas Fuera de la Jurisdicción Nación, es un tratado que regula la conservación y uso sostenible de la biodiversidad marina en zonas fuera de jurisdicción nacional. Estas áreas representan el 43% de la superficie oceánica del planeta y carecían de un marco jurídico integral hasta su entrada en vigor este 17 de enero del 2026.

@@ -5,8 +5,8 @@ autores: Santiago Simons
 colaboracion: Internacionalizarse
 resumen: Tras cinco días de tensiones y debates en Nueva Delhi, 91 países (incluyendo a EE.UU., China, Rusia y la UE) firmaron un acuerdo sin precedentes para fijar el rumbo de la Inteligencia Artificial. No se trata solo de tecnología; es una reconfiguración total del poder geopolítico, económico y social.
 imagen: /notas/declaracion-de-delhi-2026-el-mayor-acuerdo-de-la-historia.webp
-credito: Foto: Kuldeepburjbhalaike / Wikimedia Commons (CC BY-SA 4.0)
-creditoUrl: https://commons.wikimedia.org/wiki/File:Bharat_Mandapam_view_from_East.jpg
+credito: Foto: Gobierno de la India / Wikimedia Commons (GODL-India)
+creditoUrl: https://commons.wikimedia.org/wiki/File:World_leaders_at_the_2026_AI_Impact_Summit_in_India.jpg
 ---
 
 **Cambio de Eje.** La Declaración de Delhi 2026 rompió el molde. Históricamente los foros de IA estuvieron dominados por las preocupaciones del Norte Global, pero esta vez el debate dejó de centrarse en los temores de Occidente sobre la "superinteligencia" y puso el foco en usar la IA para erradicar la pobreza y acelerar el desarrollo.

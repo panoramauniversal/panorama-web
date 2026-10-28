@@ -4,8 +4,8 @@ fecha: 2026-05-25
 autores: Juan Francisco Cruz
 resumen: Corea del Norte redefine su Constitución y entierra décadas de narrativa de reunificación para declararse un Estado completamente separado de su vecino del Sur. Estas nuevas reformas blindan el control total de Kim Jong-un de manera personalista, mientras el régimen despliega una renovada estrategia diplomática global.
 imagen: /notas/pyongyang-redefine-su-identidad-estatal-analisis-de-las.webp
-credito: Foto: jennybento / Wikimedia Commons (CC BY-SA 2.0)
-creditoUrl: https://commons.wikimedia.org/wiki/File:Kim_Il_Sung_Square_New_Year%27s_Day_(33012453561).jpg
+credito: Foto: Kremlin.ru / Wikimedia Commons (CC BY 4.0)
+creditoUrl: https://commons.wikimedia.org/wiki/File:Vladimir_Putin_and_Kim_Jong-un_(2024-06-19)_11.jpg
 ---
 
 ## La consolidación del Estado norcoreano sobre la reunificación

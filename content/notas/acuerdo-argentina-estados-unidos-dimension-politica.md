@@ -4,6 +4,9 @@ fecha: 2026-02-17
 autores: Stefano Boubeta y Maximiliano Buteler
 colaboracion: Internacionalizarse
 resumen: Leímos el “Acuerdo de Comercio e Inversión Recíprocos” firmado entre Argentina y Estados Unidos el 5 de febrero. Más allá de titulares y declaraciones oficiales, el documento combina dimensiones comerciales, regulatorias, tecnológicas y geopolíticas que merecen una lectura integral.
+imagen: /notas/acuerdo-argentina-estados-unidos-dimension-politica.webp
+credito: Foto: Casa Blanca / Wikimedia Commons (dominio público)
+creditoUrl: https://commons.wikimedia.org/wiki/File:President_Donald_Trump_meets_with_Argentina%E2%80%99s_President_Javier_Milei_(54348219476).jpg
 ---
 
 El 5 de febrero, Argentina y Estados Unidos firmaron el “Acuerdo de Comercio e Inversión Recíprocos” anunciado en noviembre de 2025. Este acuerdo marca un punto de inflexión en la relación bilateral. El entendimiento se presenta como el movimiento más relevante en el vínculo económico en años y ocurre en un contexto de redefinición del orden regional y reacomodamiento de alianzas estratégicas.

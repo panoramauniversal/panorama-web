@@ -4,6 +4,9 @@ fecha: 2026-01-21
 autores: Maximiliano Buteler y Stefano Boubeta
 colaboracion: Internacionalizarse
 resumen: Tras 26 años de negociaciones, el acuerdo entre la Unión Europea y el Mercosur entra en una fase decisiva. A la discusión política se suma ahora la dimensión jurídica: el Parlamento Europeo remitió el acuerdo al Tribunal de Justicia de la UE para definir su encuadre legal y el procedimiento de ratificación. Esto no implica un rechazo, pero sí extiende los plazos y eleva la incertidumbre sobre su entrada en vigor.
+imagen: /notas/acuerdo-uemercosur-claves-costos-y-margenes-de-maniobra.webp
+credito: Foto: Lula Oficial / Wikimedia Commons (CC BY-SA 4.0)
+creditoUrl: https://commons.wikimedia.org/wiki/File:07.12.2023_-_Fotografia_oficial_dos_Chefes_de_Estado_do_MERCOSUL_-_53382620858.jpg
 ---
 
 Tras 26 años de negociaciones, el Mercosur y la UE alcanzaron un acuerdo político destinado a crear una de las mayores zonas de libre comercio del mundo. Busca ampliar comercio e inversiones y consolidar un vínculo estratégico entre ambos bloques en un escenario global más competitivo. Ahora se abre la fase clave: aprobación en el Parlamento Europeo y procesos internos de ratificación.

@@ -3,6 +3,9 @@ titulo: Artemis II: la misión lunar con tecnología argentina
 fecha: 2026-02-23
 autores: Candela Mascetti
 resumen: Artemis II marca un nuevo paso en el programa lunar de la NASA. Tras pruebas técnicas exitosas, la misión se prepara para llevar astronautas alrededor de la Luna y validar los sistemas clave para futuras operaciones. Dentro del avance científico, participa tecnología argentina, con el microsatélite ATENEA.
+imagen: /notas/artemis-ii-la-mision-lunar-con-tecnologia-argentina.webp
+credito: Foto: NASA / Wikimedia Commons (dominio público)
+creditoUrl: https://commons.wikimedia.org/wiki/File:Artemis_II_Launch_(NHQ202604010307).jpg
 ---
 
 ## Programa general

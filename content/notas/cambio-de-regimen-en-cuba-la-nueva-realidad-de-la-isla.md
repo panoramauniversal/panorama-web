@@ -4,8 +4,8 @@ fecha: 2026-03-16
 autores: Agustín Dal Ri
 resumen: Las últimas noticias sobre Cuba mostraron que la isla atraviesa su peor momento energético tras el cambio de gobierno que Estados Unidos provocó en Venezuela. Más de la mitad del país se encuentra sin suministro eléctrico tras el bloqueo petrolero, y la retórica de Trump y otros funcionarios no para de pedir un cambio de régimen. En un contexto de economía hundida, migración alta y situación humanitaria preocupante, surge la pregunta.
 imagen: /notas/cambio-de-regimen-en-cuba-la-nueva-realidad-de-la-isla.webp
-credito: Foto: Fraganda / Wikimedia Commons (CC BY-SA 4.0)
-creditoUrl: https://commons.wikimedia.org/wiki/File:National-Capitol-and-classic-cars-in-Havana-Cuba-225-031-061A.jpg
+credito: Foto: Kremlin.ru / Wikimedia Commons (CC BY 4.0)
+creditoUrl: https://commons.wikimedia.org/wiki/File:Miguel_D%C3%ADaz-Canel_(2018-11-02).jpg
 ---
 
 ## Introducción

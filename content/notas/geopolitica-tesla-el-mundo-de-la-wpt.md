@@ -3,6 +3,9 @@ titulo: Geopolítica Tesla: El mundo de la WPT
 fecha: 2026-01-19
 autores: Pablo Azcurra Arndt
 resumen: La centralidad de la energía en el escenario geopolítico actual es difícil de negar: "petróleo" es para muchos la explicación suficiente del ataque estadounidense sobre Venezuela y la posterior insistencia con anexar Groenlandia. Pero centrarse en la producción tiende a pasar por alto el transporte. ¿Qué pasaría si se hiciese realidad el sueño de Tesla?
+imagen: /notas/geopolitica-tesla-el-mundo-de-la-wpt.webp
+credito: Foto: Dickenson V. Alley / Wikimedia Commons (dominio público)
+creditoUrl: https://commons.wikimedia.org/wiki/File:Nikola_Tesla,_with_his_equipment_EDIT.jpg
 ---
 
 ## Transporte energético
