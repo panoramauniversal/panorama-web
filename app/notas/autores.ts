@@ -17,7 +17,7 @@ export const redesAutores: Record<string, Redes> = {
   "Delfina Campos Bianchi": { instagram: "delfiicamposb" },
   "Eva Morales": { instagram: "evaa.moraales" },
   "Facundo Mosovich García": { instagram: "facu_mosovich" },
-  "Felipe Barrientos": { instagram: "philipbar_01", linkedin: "https://www.linkedin.com/in/felipe-daniel-b-b549b4178/" },
+  "Felipe Barrientos": { instagram: "felipebar.rrii", linkedin: "https://www.linkedin.com/in/felipe-daniel-b-b549b4178/" },
   "Florencia Castelli": { instagram: "flor_.castelli" },
   "Franco de Reyes": { instagram: "franndereyess" },
   "Gonzalo Bañez": { instagram: "gonzabanez" },
