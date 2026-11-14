@@ -15,6 +15,7 @@ export const redesAutores: Record<string, Redes> = {
   "Candela Mascetti": { instagram: "candemascetti" },
   "Celeste Arambarri": { instagram: "celestearambarri" },
   "Delfina Campos Bianchi": { instagram: "delfiicamposb" },
+  "Elvira Zavalía": { instagram: "elvirazavalia" },
   "Eva Morales": { instagram: "evaa.moraales" },
   "Facundo Mosovich García": { instagram: "facu_mosovich" },
   "Felipe Barrientos": { instagram: "felipebar.rrii", linkedin: "https://www.linkedin.com/in/felipe-daniel-b-b549b4178/" },

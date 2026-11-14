@@ -4,6 +4,7 @@ fecha: 2026-11-04
 autores: Elvira Zavalía
 colaboracion: Prisma Internacional
 resumen: Los demócratas recuperaron ambas cámaras en las elecciones de medio término. ¿Por qué perdieron los republicanos y qué cambia realmente en Estados Unidos?
+imagen: /notas/trump-perdio-el-congreso.webp
 ---
 
 ## ¿Qué significa perder las dos cámaras?
