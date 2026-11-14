@@ -57,6 +57,7 @@ export const redesAutores: Record<string, Redes> = {
   "Melina Antebi": { instagram: "meliantebi" },
   "Milagros Larsen": { instagram: "milii_larsen" },
   "Milagros Portilla": { instagram: "milaporti", linkedin: "https://www.linkedin.com/in/milagros-portilla-4b19bb317/" },
+  "Máximo Galliani": { instagram: "maxigalliani_" },
   "Máximo González Cabañas": { instagram: "maxigc__" },
   "Natalia Luers": { instagram: "nati.luers", linkedin: "https://www.linkedin.com/in/natalia-luers/" },
   "Octavio Sánchez Piedrabuena": { instagram: "martinn.snc", linkedin: "https://www.linkedin.com/in/octavio-mart%C3%ADn-sanchez-piedrabuena-965093361/" },
