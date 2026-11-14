@@ -19,7 +19,7 @@ Como dice el periodista Dan Rather, el gobierno de Estados Unidos funciona como 
 
 ## ¿Por qué perdieron los republicanos?
 
-El factor principal fue el costo de vida. La guerra con Irán, iniciada el 28 de febrero, y el bloqueo del Estrecho de Ormuz llevaron el galón de nafta a USD 4,27. Según Moody's Analytics, el conflicto ya le costó casi USD 2.000 a cada hogar, más de la mitad en energía.
+El factor principal fue el costo de vida. La guerra con Irán, iniciada el 28 de febrero, y el bloqueo del Estrecho de Ormuz llevaron el galón de nafta de USD 2,98 a USD 4,27. Según Moody's Analytics, el conflicto ya le costó casi USD 2.000 a cada hogar, más de la mitad en energía.
 
 ## ¿Voto castigo o voto al centro?
 
