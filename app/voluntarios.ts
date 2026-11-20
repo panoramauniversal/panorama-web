@@ -6,7 +6,6 @@ import type { Integrante } from "./equipo";
 export type Voluntario = Omit<Integrante, "cargo"> & { area: string };
 
 export const voluntarios: Voluntario[] = [
-  { nombre: "Agustina Luc", area: "Comunicación y Diseño" },
   {
     nombre: "Martina Ayelén Rein",
     area: "Asuntos Institucionales y Proyectos",

@@ -33,7 +33,6 @@ Sitio en español rioplatense (voseo) de Panorama Universal. Producción: https:
 
 - Imágenes de notas: todas las notas tienen portada (2024 completado en octubre 2026). Falta la revisión general con el equipo; el usuario pide cambios puntuales. Método para notas nuevas: buscar candidatas en Wikimedia Commons (el usuario prefiere Commons, no Openverse), armar hoja de contactos, elegir una, publicar. Scripts en `scripts/imagenes/` (copiarlos al scratchpad y correrlos con `python3 -I` desde ahí): `candidatas.py` (Wikimedia; limita mucho, 429, tarda), `ov_candidatas.py` (Openverse/Flickr, solo si se pide), `agregar.py` (archivo puntual de Commons), `aplicar.py carpeta repo slug=índice[:altura 0-1][:autor]`. Dominios habilitados: commons/upload/thumb.wikimedia.org, api.openverse.org, live.staticflickr.com. Si el título nombra a dos personas sin foto juntas, se puede componer mitad y mitad (ej. vicepresidentes Vance/Walz).
 - Falta LinkedIn (solo pasaron el nombre, pedir link): Lourdes Torres, Cecile Fabian-Fränkel (voluntarias), Ivo Trošelj, Elvira Zavalía, Máximo Galliani (autores).
-- Voluntaria Agustina Luc: sin foto ni bio.
 
 - Voluntarios: cargados Comunicación y Diseño, Académica, Lucia Sol Martin y Martina Ayelén Rein (Asuntos Institucionales y Proyectos). Faltan el resto de las secretarías. Si el nombre de firma de notas difiere, usar el campo `autor`.
 
