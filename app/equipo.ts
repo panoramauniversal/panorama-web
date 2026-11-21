@@ -85,6 +85,8 @@ export const areas: Area[] = [
         nombre: "Tomás Vallica",
         cargo: "Subsecretario",
         foto: "/equipo/tomas-vallica.jpg",
+        linkedin: "https://www.linkedin.com/in/tom%C3%A1s-vallica-75612531b/",
+        instagram: "tom.vallica",
         bio: "Licenciado en Estudios Políticos por la Universidad Nacional de General Sarmiento (UNGS) y maestrando en Desarrollo Económico Regional en la Universidad Nacional de José C. Paz (UNPAZ). Becario doctoral, su investigación se centra en la economía política internacional, los recursos estratégicos y la inserción de América Latina en las cadenas globales de valor. Se desempeña asimismo como editor académico.",
       },
     ],

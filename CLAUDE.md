@@ -37,6 +37,6 @@ Sitio en español rioplatense (voseo) de Panorama Universal. Producción: https:
 - Voluntarios: cargados Comunicación y Diseño, Académica, Lucia Sol Martin y Martina Ayelén Rein (Asuntos Institucionales y Proyectos). Faltan el resto de las secretarías. Si el nombre de firma de notas difiere, usar el campo `autor`.
 
 - Vincular el botón "¿Querés escribir en Panorama?" cuando exista el formulario.
-- Autores sin ninguna red: Julián Arce, Karina Herrera, Kevin Bryan, Maximiliano Buteler, Nahuel Nores (planilla "Autores sin redes - Notas Panorama" en el Drive).
+- Autores sin ninguna red: Nahuel Nores (confirmado en la planilla "Autores sin redes - Notas Panorama"). Kevin Bryan no tiene LinkedIn. Para cuentas institucionales (geograficahistoria1, internacionalizarse) se usa la personal del autor. Karina Herrera no figura en la planilla y sigue sin redes (preguntar).
 - Notas para revisar por tener versión extensa o borradores en el documento: Motosierra en Vietnam, Caos en Nepal, Alianza China–Corea–Japón, Reunión OCS, Tercera Era Nuclear, Artemis II, Acuerdo Argentina–EEUU.
 - Fuente de las notas: hoja "Cronograma y temáticas abordadas" en el Drive (cada fila enlaza al documento de la publicación).
