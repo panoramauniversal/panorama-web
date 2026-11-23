@@ -4,8 +4,8 @@ fecha: 2026-11-23
 autores: Daniela Araque
 resumen: El MERCOSUR amplía su agenda externa con acuerdos y negociaciones que involucran a Europa, América del Norte, Asia y el Golfo. Qué busca con cada socio, en qué estado están los procesos y qué desafíos plantean para la integración regional.
 imagen: /notas/cuatro-rutas-una-agenda-que-busca-el-mercosur-con-sus-acuerdos-comerciales.webp
-credito: Foto: Palácio do Planalto / Wikimedia Commons (CC BY 2.0)
-creditoUrl: https://commons.wikimedia.org/wiki/File:04.07.2023_-_Fotografia_oficial_dos_chefes_de_delega%C3%A7%C3%A3o_dos_pa%C3%ADses_membros,_Bol%C3%ADvia,_Estados_Associados_e_Convidados_Especiais_(53022344737).jpg
+credito: Foto: Lula Oficial / Wikimedia Commons (CC BY-SA 4.0)
+creditoUrl: https://commons.wikimedia.org/wiki/File:30.06.2026_-_Sess%C3%A3o_Plen%C3%A1ria_da_68%C2%AA_C%C3%BApula_de_Presidentes_do_Mercosul,_Pa%C3%ADses_Associados_e_Convidados_Especiais_-_55366686454.jpg
 ---
 
 ## Contexto
