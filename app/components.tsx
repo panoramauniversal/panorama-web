@@ -23,24 +23,27 @@ export function Eyebrow({
   );
 }
 
-// Título de sección con la última palabra en cursiva serif, como "Índice de *notas*".
+// Título de sección que arranca con una o más palabras en cursiva serif, como "*Quiénes* somos".
 export function Titulo({
   children,
   cursiva,
   light = false,
+  sobreOro = false,
   className = "",
 }: {
   children: React.ReactNode;
   cursiva: string;
   light?: boolean;
+  // Sobre fondo dorado la cursiva va en marrón para que se lea.
+  sobreOro?: boolean;
   className?: string;
 }) {
   return (
     <h2
-      className={`text-3xl font-bold tracking-tight sm:text-4xl ${light ? "text-crema" : ""} ${className}`}
+      className={`text-3xl font-bold leading-tight tracking-tight sm:text-4xl ${light ? "text-crema" : ""} ${className}`}
     >
-      {children}{" "}
-      <span className={`font-serif font-medium italic ${light ? "text-oro" : ""}`}>{cursiva}</span>
+      <span className={`font-serif font-medium italic ${sobreOro ? "" : "text-oro"}`}>{cursiva}</span>{" "}
+      {children}
     </h2>
   );
 }

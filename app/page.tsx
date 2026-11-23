@@ -1,6 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
-import { BotonEscribir, Footer, Header, Titulo } from "./components";
+import { BotonEscribir, Eyebrow, Footer, Header, Titulo } from "./components";
 import { areas } from "./equipo";
 import { getNotas } from "./notas/datos";
 import {
@@ -33,6 +33,14 @@ function Hero() {
   return (
     <section id="inicio" className="relative overflow-hidden bg-tierra text-crema">
       <div aria-hidden className="pointer-events-none absolute inset-0" style={lineasHero} />
+      <div
+        aria-hidden
+        className="pointer-events-none absolute -right-40 -top-40 h-[34rem] w-[34rem] rounded-full border-[3rem] border-oro/10"
+      />
+      <div
+        aria-hidden
+        className="pointer-events-none absolute -bottom-52 -left-32 h-[28rem] w-[28rem] rounded-full border-[2rem] border-oro/10"
+      />
       <div className="relative mx-auto max-w-6xl px-4 pb-14 pt-12 sm:px-6 md:pb-20 md:pt-16">
         <ul className="flex flex-wrap gap-x-10 gap-y-2 text-[0.65rem] font-semibold uppercase tracking-[0.22em] text-oro">
           {hero.etiquetas.map((e) => (
@@ -83,11 +91,11 @@ function Hero() {
 function QuienesSomos() {
   return (
     <section id="quienes-somos" className="mx-auto max-w-6xl px-4 py-20 sm:px-6 md:py-28">
-      <Titulo cursiva="somos">Quiénes</Titulo>
-      <div className="mt-10 grid gap-10 border-t border-tierra pt-10 md:grid-cols-[1fr_1.4fr]">
-        <p className="font-serif text-3xl leading-tight sm:text-4xl">
-          Pensar el mundo con rigor, <span className="italic text-oro">para todos.</span>
-        </p>
+      <div className="grid gap-12 md:grid-cols-[1fr_1.4fr]">
+        <div>
+          <Eyebrow>Quiénes somos</Eyebrow>
+          <Titulo cursiva="Pensar el mundo">con rigor, para todos</Titulo>
+        </div>
         <div className="space-y-5 text-lg leading-relaxed text-tierra-suave">
           {quienesSomos.map((p) => (
             <p key={p}>{p}</p>
@@ -95,11 +103,11 @@ function QuienesSomos() {
         </div>
       </div>
 
-      <div className="mt-16 grid gap-6 bg-oro-claro p-8 sm:p-12 md:grid-cols-[12rem_1fr]">
-        <p className="text-[0.7rem] font-semibold uppercase tracking-[0.22em] text-tierra-suave">
+      <div className="mt-16 rounded-3xl bg-oro-claro p-8 sm:p-12">
+        <p className="text-xs font-semibold uppercase tracking-[0.25em] text-tierra-suave">
           Nuestra misión
         </p>
-        <p className="font-serif text-2xl leading-snug sm:text-3xl">{mision}</p>
+        <p className="mt-4 font-serif text-2xl leading-snug sm:text-3xl">{mision}</p>
       </div>
     </section>
   );
@@ -107,23 +115,27 @@ function QuienesSomos() {
 
 function PorQue() {
   return (
-    <section className="border-y border-tierra/15 bg-white">
+    <section className="bg-white">
       <div className="mx-auto max-w-6xl px-4 py-20 sm:px-6 md:py-28">
-        <Titulo cursiva="Panorama Universal?">¿Por qué</Titulo>
-        <div className="mt-10 grid gap-12 border-t border-tierra pt-10 md:grid-cols-2">
-          <div className="space-y-5 text-lg leading-relaxed text-tierra-suave">
-            {porQue.map((p) => (
-              <p key={p}>{p}</p>
-            ))}
+        <div className="grid gap-12 md:grid-cols-2">
+          <div>
+            <Eyebrow>¿Por qué Panorama Universal?</Eyebrow>
+            <Titulo cursiva="Más allá">de los medios tradicionales</Titulo>
+            <div className="mt-6 space-y-5 text-lg leading-relaxed text-tierra-suave">
+              {porQue.map((p) => (
+                <p key={p}>{p}</p>
+              ))}
+            </div>
           </div>
           <div>
+            <Eyebrow>Cómo entendemos el mundo</Eyebrow>
             <p className="text-lg leading-relaxed text-tierra-suave">
               Para nosotros, la diversidad de enfoques no es un obstáculo: es lo que enriquece el
               análisis y fortalece el debate. Por eso Panorama es:
             </p>
-            <ul className="mt-6 grid border-l border-t border-tierra sm:grid-cols-2">
+            <ul className="mt-6 grid gap-4 sm:grid-cols-2">
               {principios.map((p) => (
-                <li key={p.titulo} className="border-b border-r border-tierra p-5">
+                <li key={p.titulo} className="rounded-2xl border border-tierra/10 p-5">
                   <p className="text-sm font-bold uppercase tracking-widest text-oro">{p.titulo}</p>
                   <p className="mt-2 text-tierra-suave">{p.texto}</p>
                 </li>
@@ -138,81 +150,64 @@ function PorQue() {
 
 function QueHacemos() {
   return (
-    <section id="que-hacemos" className="mx-auto max-w-6xl px-4 py-20 sm:px-6 md:py-28">
-      <Titulo cursiva="hacemos">Qué</Titulo>
-      <p className="mt-4 max-w-2xl text-lg text-tierra-suave">
-        Análisis, diálogo y comunidad: así llevamos los asuntos internacionales a las nuevas
-        generaciones.
-      </p>
-      <ol className="mt-10 grid border-l border-t border-tierra sm:grid-cols-2 lg:grid-cols-3">
-        {queHacemos.map((item, i) => (
-          <li
-            key={item.titulo}
-            className="flex min-h-56 flex-col justify-between gap-8 border-b border-r border-tierra p-6 sm:p-7"
-          >
-            <span className="font-serif text-3xl text-tierra-suave">
-              {String(i + 1).padStart(2, "0")}
-            </span>
+    <section id="que-hacemos" className="bg-tierra text-crema">
+      <div className="mx-auto max-w-6xl px-4 py-20 sm:px-6 md:py-28">
+        <Eyebrow light>Qué hacemos</Eyebrow>
+        <Titulo light cursiva="Análisis, diálogo">y comunidad</Titulo>
+        <ol className="mt-12 grid gap-px overflow-hidden rounded-3xl bg-crema/10 sm:grid-cols-2 lg:grid-cols-3">
+          {queHacemos.map((item, i) => (
+            <li key={item.titulo} className="flex min-h-56 flex-col justify-between gap-8 bg-tierra p-7">
+              <span className="font-serif text-3xl italic text-oro">
+                {String(i + 1).padStart(2, "0")}
+              </span>
+              <div>
+                <h3 className="text-xl font-semibold">{item.titulo}</h3>
+                <p className="mt-2 text-crema/75">{item.texto}</p>
+              </div>
+            </li>
+          ))}
+          <li className="flex min-h-56 flex-col justify-between gap-8 bg-oro p-7 text-tierra">
+            <span className="font-serif text-3xl italic">06</span>
             <div>
-              <h3 className="text-lg font-semibold">{item.titulo}</h3>
-              <p className="mt-2 text-sm leading-relaxed text-tierra-suave">{item.texto}</p>
+              <h3 className="text-xl font-semibold">Seguinos</h3>
+              <p className="mt-2">Enterate de cada nueva publicación y actividad.</p>
+              <div className="mt-4 flex flex-wrap gap-2">
+                {redes.map((r) => (
+                  <a
+                    key={r.nombre}
+                    href={r.url}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="rounded-full bg-tierra px-4 py-2 text-sm font-semibold text-crema transition hover:bg-crema hover:text-tierra"
+                  >
+                    {r.nombre}
+                  </a>
+                ))}
+              </div>
             </div>
           </li>
-        ))}
-        <li className="flex min-h-56 flex-col justify-between gap-8 border-b border-r border-tierra bg-oro p-6 sm:p-7">
-          <span className="font-serif text-3xl">06</span>
-          <div>
-            <h3 className="text-lg font-semibold">Seguinos</h3>
-            <p className="mt-2 text-sm">Enterate de cada nueva publicación y actividad.</p>
-            <div className="mt-4 flex flex-wrap gap-2">
-              {redes.map((r) => (
-                <a
-                  key={r.nombre}
-                  href={r.url}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="rounded-full bg-tierra px-4 py-2 text-sm font-semibold text-crema transition hover:bg-crema hover:text-tierra"
-                >
-                  {r.nombre}
-                </a>
-              ))}
-            </div>
-          </div>
-        </li>
-      </ol>
+        </ol>
+      </div>
     </section>
   );
 }
-
-// Colores del punto de cada región en el índice.
-const colorRegion: Record<string, string> = {
-  "América del Sur": "bg-oro",
-  Argentina: "bg-oro",
-  "América del Norte": "bg-tierra-suave",
-  Europa: "bg-tierra",
-  Asia: "bg-tierra-suave",
-  África: "bg-oro",
-  "Medio Oriente": "bg-tierra",
-  Global: "border border-tierra",
-};
 
 function fechaCorta(fecha: string) {
   const [a, m, d] = fecha.split("-");
   return `${d}.${m}.${a}`;
 }
 
-// Primera oración del resumen, para la bajada corta del índice.
-function bajada(resumen: string) {
-  return resumen.match(/^.+?[.?!](?=\s|$)/)?.[0] ?? resumen;
-}
-
-function IndiceNotas() {
+// Las últimas notas como tarjetas con foto, con la fecha y la región arriba.
+function UltimasNotas() {
   const notas = getNotas().slice(0, 3);
   if (notas.length === 0) return null;
   return (
-    <section id="notas" className="mx-auto max-w-6xl px-4 pb-6 pt-16 sm:px-6 md:pb-8 md:pt-24">
-      <div className="flex flex-wrap items-end justify-between gap-4">
-        <Titulo cursiva="notas">Índice de</Titulo>
+    <section id="notas" className="mx-auto max-w-6xl px-4 py-20 sm:px-6 md:py-24">
+      <div className="flex flex-wrap items-end justify-between gap-4 border-b border-tierra pb-5">
+        <div>
+          <Eyebrow>Últimas notas</Eyebrow>
+          <Titulo cursiva="Lo último">que analizamos</Titulo>
+        </div>
         <Link
           href="/notas"
           className="text-sm font-semibold underline underline-offset-4 transition hover:text-oro"
@@ -220,124 +215,100 @@ function IndiceNotas() {
           Ver archivo completo →
         </Link>
       </div>
-      <div className="mt-8 border-t border-tierra">
-        <div className="hidden grid-cols-[6.5rem_1fr_9rem_10rem] gap-6 border-b border-tierra py-3 text-[0.65rem] font-semibold uppercase tracking-[0.2em] text-tierra-suave md:grid">
-          <span>Fecha</span>
-          <span>Título</span>
-          <span>Región</span>
-          <span>Autoría</span>
-        </div>
-        <ul>
-          {notas.map((n) => (
-            <li key={n.slug} className="border-b border-tierra/40">
-              <Link
-                href={`/notas/${n.slug}`}
-                className="group grid gap-3 py-6 md:grid-cols-[6.5rem_1fr_9rem_10rem] md:gap-6"
-              >
-                <span className="text-sm font-semibold">{fechaCorta(n.fecha)}</span>
-                <span className="flex flex-col gap-4 sm:flex-row sm:items-start">
-                  {n.imagen && (
-                    <span className="relative block aspect-video w-full shrink-0 overflow-hidden sm:w-44">
-                      <Image
-                        src={n.imagen}
-                        alt=""
-                        fill
-                        sizes="(min-width: 640px) 176px, 100vw"
-                        className="object-cover transition duration-300 group-hover:scale-105"
-                      />
-                    </span>
-                  )}
-                  <span>
-                    <span className="block text-xl font-bold leading-snug transition group-hover:text-oro">
-                      {n.titulo}
-                    </span>
-                    <span className="mt-2 line-clamp-2 text-sm text-tierra-suave">
-                      {bajada(n.resumen)}
-                    </span>
+      <ul className="mt-10 grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
+        {notas.map((n) => (
+          <li key={n.slug}>
+            <Link
+              href={`/notas/${n.slug}`}
+              className="group flex h-full flex-col overflow-hidden rounded-3xl border border-tierra/10 bg-white transition hover:-translate-y-1 hover:border-oro hover:shadow-lg"
+            >
+              {n.imagen && (
+                <Image
+                  src={n.imagen}
+                  alt=""
+                  width={800}
+                  height={450}
+                  sizes="(min-width: 1024px) 360px, (min-width: 640px) 50vw, 100vw"
+                  className="aspect-video w-full object-cover"
+                />
+              )}
+              <div className="flex flex-1 flex-col p-7">
+                <p className="flex flex-wrap items-center justify-between gap-2 text-xs font-semibold uppercase tracking-widest">
+                  <span>{fechaCorta(n.fecha)}</span>
+                  {n.region && <span className="text-oro">{n.region}</span>}
+                </p>
+                <h3 className="mt-3 text-xl font-bold leading-snug">{n.titulo}</h3>
+                <p className="mt-3 line-clamp-3 text-tierra-suave">{n.resumen}</p>
+                <div className="mt-auto flex items-end justify-between gap-4 pt-6 text-sm">
+                  <span className="text-tierra-suave">Por {n.autores}</span>
+                  <span className="shrink-0 font-semibold text-oro transition group-hover:translate-x-1">
+                    Leer →
                   </span>
-                </span>
-                {n.region ? (
-                  <span className="flex items-center gap-2 text-sm md:items-start md:pt-1">
-                    <span
-                      className={`h-2 w-2 shrink-0 rounded-full md:mt-1.5 ${colorRegion[n.region] ?? "bg-oro"}`}
-                    />
-                    {n.region}
-                  </span>
-                ) : (
-                  <span className="hidden md:block" />
-                )}
-                <span className="text-sm text-tierra-suave md:pt-1">{n.autores}</span>
-              </Link>
-            </li>
-          ))}
-        </ul>
-      </div>
+                </div>
+              </div>
+            </Link>
+          </li>
+        ))}
+      </ul>
     </section>
   );
 }
 
 function Comunidad() {
   return (
-    <section id="comunidad" className="border-t border-tierra/15 bg-white">
-      <div className="mx-auto max-w-6xl px-4 py-20 sm:px-6 md:py-28">
-        <Titulo cursiva="comunidad">Nuestra</Titulo>
-        <div className="mt-10 grid gap-16 border-t border-tierra pt-10 md:grid-cols-2">
-          <div>
-            <p className="text-lg text-tierra-suave">{comunidad.intro}</p>
-            <ul className="mt-6 space-y-4">
-              {comunidad.grupos.map((g) => (
-                <li key={g} className="flex gap-3 text-tierra-suave">
-                  <span className="mt-2 h-2 w-2 shrink-0 rounded-full bg-oro" />
-                  <span>{g}</span>
-                </li>
-              ))}
-            </ul>
-          </div>
-          <div>
-            <p className="text-[0.7rem] font-semibold uppercase tracking-[0.22em] text-tierra-suave">
-              Cómo nos organizamos
-            </p>
-            <p className="mt-3 text-lg text-tierra-suave">
-              Panorama funciona a través de un equipo directivo y secretarías, con el apoyo de un
-              equipo de voluntarios. Tocá cada área para conocer qué hace y quiénes la integran.
-            </p>
-            <ul className="mt-6 border-t border-tierra">
-              {areas.map((a) => (
-                <li key={a.slug} className="border-b border-tierra/40">
-                  <Link
-                    href={`/equipo/${a.slug}`}
-                    className="group flex items-center justify-between gap-4 py-4 transition hover:text-oro"
-                  >
-                    <span className="font-medium">{a.nombre}</span>
-                    <span className="text-oro transition group-hover:translate-x-1" aria-hidden>
-                      →
-                    </span>
-                  </Link>
-                </li>
-              ))}
-              <li className="border-b border-tierra/40">
+    <section id="comunidad" className="mx-auto max-w-6xl px-4 py-20 sm:px-6 md:py-28">
+      <div className="grid gap-16 md:grid-cols-2">
+        <div>
+          <Eyebrow>Nuestra comunidad</Eyebrow>
+          <Titulo cursiva="Una red">de intercambio y construcción conjunta</Titulo>
+          <p className="mt-6 text-lg text-tierra-suave">{comunidad.intro}</p>
+          <ul className="mt-6 space-y-4">
+            {comunidad.grupos.map((g) => (
+              <li key={g} className="flex gap-3 text-tierra-suave">
+                <span className="mt-2 h-2 w-2 shrink-0 rounded-full bg-oro" />
+                <span>{g}</span>
+              </li>
+            ))}
+          </ul>
+        </div>
+        <div>
+          <Eyebrow>Cómo nos organizamos</Eyebrow>
+          <p className="text-lg text-tierra-suave">
+            Panorama funciona a través de un equipo directivo y secretarías, con el apoyo de un
+            equipo de voluntarios. Tocá cada área para conocer qué hace y quiénes la integran.
+          </p>
+          <ul className="mt-6 space-y-3">
+            {areas.map((a) => (
+              <li key={a.slug}>
                 <Link
-                  href="/equipo/voluntariado"
-                  className="group flex items-center justify-between gap-4 py-4 font-semibold transition hover:text-oro"
+                  href={`/equipo/${a.slug}`}
+                  className="group flex items-center justify-between gap-4 rounded-2xl border border-tierra/10 bg-white px-5 py-4 transition hover:border-oro hover:shadow-md"
                 >
-                  <span>Voluntariado</span>
+                  <span className="font-medium">{a.nombre}</span>
                   <span className="text-oro transition group-hover:translate-x-1" aria-hidden>
                     →
                   </span>
                 </Link>
               </li>
-            </ul>
-          </div>
+            ))}
+            <li>
+              <Link
+                href="/equipo/voluntariado"
+                className="group flex items-center justify-between gap-4 rounded-2xl bg-oro px-5 py-4 transition hover:shadow-md"
+              >
+                <span className="font-semibold">Voluntariado</span>
+                <span className="transition group-hover:translate-x-1" aria-hidden>
+                  →
+                </span>
+              </Link>
+            </li>
+          </ul>
         </div>
+      </div>
 
-        <div className="mt-20 border-t border-tierra pt-14 text-center">
-          <p className="text-[0.7rem] font-semibold uppercase tracking-[0.22em] text-tierra-suave">
-            ¿Hacia dónde vamos?
-          </p>
-          <p className="mx-auto mt-5 max-w-3xl font-serif text-2xl leading-snug sm:text-3xl">
-            {vision}
-          </p>
-        </div>
+      <div className="mt-20 border-t border-tierra/10 pt-16 text-center">
+        <p className="mb-3 text-xs font-semibold uppercase tracking-[0.25em] text-oro">¿Hacia dónde vamos?</p>
+        <p className="mx-auto max-w-3xl font-serif text-2xl leading-snug sm:text-3xl">{vision}</p>
       </div>
     </section>
   );
@@ -345,29 +316,25 @@ function Comunidad() {
 
 function Sumate() {
   return (
-    <section id="sumate" className="bg-oro">
-      <div className="mx-auto grid max-w-6xl items-end gap-10 px-4 py-16 sm:px-6 md:grid-cols-[1.3fr_1fr] md:py-20">
-        <div>
-          <h2 className="text-4xl font-bold tracking-tight sm:text-5xl">
-            Sumate a <span className="font-serif font-medium italic">Panorama</span>
-          </h2>
-          <p className="mt-5 max-w-2xl text-lg">{sumate}</p>
-        </div>
-        <div className="flex flex-col items-start gap-4 md:items-end">
-          <a
-            href={links.formularioVoluntariado}
-            target="_blank"
-            rel="noopener noreferrer"
-            className="rounded-full bg-tierra px-7 py-3 font-semibold text-crema transition hover:bg-crema hover:text-tierra"
-          >
-            Dejanos tus datos
-          </a>
-          <Link
-            href="/equipo/voluntariado"
-            className="font-semibold underline underline-offset-4 hover:no-underline"
-          >
-            Conocé el voluntariado →
-          </Link>
+    <section id="sumate" className="px-4 pb-20 sm:px-6 md:pb-28">
+      <div className="mx-auto max-w-6xl overflow-hidden rounded-3xl bg-oro px-8 py-14 text-center sm:px-16">
+        <Titulo sobreOro cursiva="Sumate">a Panorama</Titulo>
+        <p className="mx-auto mt-4 max-w-2xl text-lg">{sumate}</p>
+        <a
+          href={links.formularioVoluntariado}
+          target="_blank"
+          rel="noopener noreferrer"
+          className="mt-8 inline-block rounded-full bg-tierra px-7 py-3 font-semibold text-crema transition hover:bg-crema hover:text-tierra"
+        >
+          Dejanos tus datos
+        </a>
+        <Link
+          href="/equipo/voluntariado"
+          className="mt-4 block font-semibold underline-offset-4 hover:underline sm:ml-6 sm:mt-0 sm:inline-block"
+        >
+          Conocé el voluntariado →
+        </Link>
+        <div className="mt-6">
           <BotonEscribir />
         </div>
       </div>
@@ -375,13 +342,14 @@ function Sumate() {
   );
 }
 
+
 export default function Home() {
   return (
     <>
       <Header />
       <main>
         <Hero />
-        <IndiceNotas />
+        <UltimasNotas />
         <QuienesSomos />
         <PorQue />
         <QueHacemos />
