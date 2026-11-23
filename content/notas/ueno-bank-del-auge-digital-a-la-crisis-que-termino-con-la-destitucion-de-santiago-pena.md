@@ -1,12 +1,12 @@
 ---
 titulo: Ueno Bank: del auge digital a la crisis que terminó con la destitución de Santiago Peña
 fecha: 2026-11-17
-autores: Milagros Portilla, Milagros Larsen, Donatella Bressan y Angelina Delle Chiaie
+autores: Donatella Bressan, Milagros Portilla y Angelina Delle Chiaie
 colaboracion: IPRI
 resumen: El colapso de Ueno Bank desencadenó en pocos días una crisis financiera, judicial y política que modificó el escenario paraguayo: dejó a millones de clientes sin acceso a sus cuentas, abrió una investigación sobre presuntas irregularidades y terminó con la destitución del presidente Santiago Peña mediante juicio político.
 imagen: /notas/ueno-bank-del-auge-digital-a-la-crisis-que-termino-con-la-destitucion-de-santiago-pena.webp
-credito: Foto: Dati Bendo / Comisión Europea / Wikimedia Commons (CC BY 4.0)
-creditoUrl: https://commons.wikimedia.org/wiki/File:Ursula_von_der_Leyen_with_Santiago_Pe%C3%B1a_-_2024_(P064449-806441).jpg
+credito: Foto: U.S. Air Force / Wikimedia Commons (dominio público)
+creditoUrl: https://commons.wikimedia.org/wiki/File:Paraguayuan_President_awards_Order_of_Merit_to_The_Adjutant_General,_Massachusetts_National_Guard_(9002490).jpg
 ---
 
 El colapso de Ueno Bank desencadenó en pocos días una crisis financiera, judicial y política que modificó el escenario paraguayo. La decisión del Banco Central del Paraguay (BCP) de iniciar el procedimiento de resolución de la entidad dejó inicialmente a millones de clientes sin acceso a sus cuentas, abrió una investigación sobre presuntas irregularidades financieras y terminó alcanzando a la máxima autoridad política del país, el entonces presidente Santiago Peña, quien fue destituido mediante juicio político el 6 de noviembre.

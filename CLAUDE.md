@@ -39,4 +39,5 @@ Sitio en español rioplatense (voseo) de Panorama Universal. Producción: https:
 - Vincular el botón "¿Querés escribir en Panorama?" cuando exista el formulario.
 - Autores sin ninguna red: Nahuel Nores (confirmado en la planilla "Autores sin redes - Notas Panorama"). Kevin Bryan no tiene LinkedIn. Para cuentas institucionales (geograficahistoria1, internacionalizarse) se usa la personal del autor. Karina Herrera no figura en la planilla y sigue sin redes (preguntar).
 - Notas para revisar por tener versión extensa o borradores en el documento: Motosierra en Vietnam, Caos en Nepal, Alianza China–Corea–Japón, Reunión OCS, Tercera Era Nuclear, Artemis II, Acuerdo Argentina–EEUU.
+- Mapas mensuales ("Mapa de Enero…" en el cronograma, sin documento): todavía no están en el sitio; el equipo quiere sumarlos (próximo trabajo). Del resto de lo marcado "Publicado" y no subido (Substack/Politicly, Argentina vs Suiza) no interesa nada.
 - Fuente de las notas: hoja "Cronograma y temáticas abordadas" en el Drive (cada fila enlaza al documento de la publicación).
