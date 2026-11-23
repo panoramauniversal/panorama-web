@@ -1,6 +1,7 @@
 ---
 titulo: Ueno Bank: del auge digital a la crisis que terminó con la destitución de Santiago Peña
 fecha: 2026-11-17
+region: América del Sur
 autores: Donatella Bressan, Milagros Portilla y Angelina Delle Chiaie
 colaboracion: IPRI
 resumen: El colapso de Ueno Bank desencadenó en pocos días una crisis financiera, judicial y política que modificó el escenario paraguayo: dejó a millones de clientes sin acceso a sus cuentas, abrió una investigación sobre presuntas irregularidades y terminó con la destitución del presidente Santiago Peña mediante juicio político.

@@ -1,6 +1,7 @@
 ---
 titulo: Más allá del fútbol: conociendo a Burkina Faso y Benín, los próximos rivales de Argentina
 fecha: 2026-10-12
+region: África
 autores: Guillermo Dellatorre y Matías Moretti
 resumen: A pesar de que fueron dos de nuestros rivales en estos últimos encuentros amistosos durante la fecha FIFA, ambos países africanos poseen una historia y contextos socioeconómicos y geopolíticos particulares.
 imagen: /notas/mas-alla-del-futbol-conociendo-a-burkina-faso-y-benin-los.webp

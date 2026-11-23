@@ -1,6 +1,7 @@
 ---
 titulo: La visita del Papa León XIV a Sudamérica: ¿qué mensaje deja esta visita papal?
 fecha: 2026-11-02
+region: América del Sur
 autores: Felipe Barrientos
 colaboracion: Internacionalizarse
 resumen: La proyectada visita del Papa León XIV por Argentina, Uruguay y Perú trasciende el plano pastoral y se perfila como un movimiento estratégico de la Santa Sede en el tablero sudamericano. En un escenario marcado por la polarización, los desafíos institucionales y las tensiones socioeconómicas, la visita busca redefinir el rol de la diplomacia vaticana en el Sur Global.

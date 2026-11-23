@@ -23,6 +23,28 @@ export function Eyebrow({
   );
 }
 
+// Título de sección con la última palabra en cursiva serif, como "Índice de *notas*".
+export function Titulo({
+  children,
+  cursiva,
+  light = false,
+  className = "",
+}: {
+  children: React.ReactNode;
+  cursiva: string;
+  light?: boolean;
+  className?: string;
+}) {
+  return (
+    <h2
+      className={`text-3xl font-bold tracking-tight sm:text-4xl ${light ? "text-crema" : ""} ${className}`}
+    >
+      {children}{" "}
+      <span className={`font-serif font-medium italic ${light ? "text-oro" : ""}`}>{cursiva}</span>
+    </h2>
+  );
+}
+
 function RedesHeader() {
   return (
     <ul className="flex items-center gap-3">
@@ -109,35 +131,32 @@ export function Header() {
 export function Footer() {
   return (
     <footer className="bg-tierra text-crema/70">
-      <div className="mx-auto flex max-w-6xl flex-col items-center justify-between gap-6 px-4 py-10 text-sm sm:px-6 md:flex-row">
-        <div className="flex items-center gap-3">
-          <Image
-            src="/logo.png"
-            alt=""
-            width={36}
-            height={37}
-            className="h-9 w-auto rounded-full bg-crema p-0.5"
-          />
-          <span>
-            <span className="font-semibold text-crema">Panorama Universal</span> · Entendé el mundo
-            que viene
-          </span>
-        </div>
-        <div className="flex items-center gap-6">
-          {redes.map((r) => (
-            <a
-              key={r.nombre}
-              href={r.url}
-              target="_blank"
-              rel="noopener noreferrer"
-              aria-label={r.nombre}
-              title={r.nombre}
-              className="transition hover:text-oro"
-            >
-              <IconoRed nombre={r.nombre} />
-            </a>
-          ))}
-          <span>© {new Date().getFullYear()}</span>
+      <div className="mx-auto max-w-6xl px-4 pb-10 pt-16 sm:px-6 md:pt-20">
+        <p
+          aria-hidden
+          className="text-6xl leading-[0.9] tracking-tight sm:text-8xl lg:text-[8.5rem]"
+        >
+          <span className="block font-bold text-crema">Panorama</span>
+          <span className="block font-serif font-medium italic text-oro">Universal</span>
+        </p>
+        <div className="mt-14 flex flex-col items-center justify-between gap-5 text-sm sm:flex-row">
+          <span>Entendé el mundo que viene</span>
+          <div className="flex items-center gap-6">
+            {redes.map((r) => (
+              <a
+                key={r.nombre}
+                href={r.url}
+                target="_blank"
+                rel="noopener noreferrer"
+                aria-label={r.nombre}
+                title={r.nombre}
+                className="transition hover:text-oro"
+              >
+                <IconoRed nombre={r.nombre} />
+              </a>
+            ))}
+          </div>
+          <span>© {new Date().getFullYear()} Panorama Universal</span>
         </div>
       </div>
     </footer>

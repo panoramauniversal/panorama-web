@@ -1,6 +1,7 @@
 ---
 titulo: Francia y las protestas: ¿un destino común?
 fecha: 2026-11-09
+region: Europa
 autores: Máximo Galliani
 resumen: Desde el 17 de septiembre, Francia vive protestas masivas que comenzaron con estudiantes y docentes del secundario y hoy movilizan a obreros y partidos de izquierda. ¿Cómo es posible que un país que dedica 6,7 puntos del PBI a la educación atraviese una de sus peores crisis estudiantiles?
 imagen: /notas/francia-y-las-protestas-un-destino-comun.webp

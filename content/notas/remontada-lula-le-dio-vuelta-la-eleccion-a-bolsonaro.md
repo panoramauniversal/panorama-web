@@ -1,6 +1,7 @@
 ---
 titulo: Remontada: Lula le dio vuelta la elección a Bolsonaro y tendrá su cuarto mandato
 fecha: 2026-10-25
+region: América del Sur
 autores: Santiago Simons
 resumen: Lula logra retener el poder y frena el avance de la derecha regional, pero gobernará condicionado por los contrapesos internos. ¿Cómo administrará un Parlamento hostil?
 imagen: /notas/remontada-lula-le-dio-vuelta-la-eleccion-a-bolsonaro.webp

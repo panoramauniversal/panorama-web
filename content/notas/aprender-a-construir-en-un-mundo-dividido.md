@@ -1,6 +1,7 @@
 ---
 titulo: Aprender a construir en un mundo dividido: la importancia de las instituciones + entrevista a OAJNU
 fecha: 2026-10-28
+region: Global
 autores: Iara Bornaz
 colaboracion: OAJNU
 resumen: El multilateralismo, los desafíos de las instituciones internacionales y el papel de las nuevas generaciones en la construcción de una cultura de diálogo y cooperación. Conversamos con Valentina Melone, de OAJNU Córdoba, sobre el valor educativo de los Modelos de Naciones Unidas.

@@ -1,6 +1,7 @@
 ---
 titulo: TNP: el límite del poder nuclear
 fecha: 2026-10-19
+region: Global
 autores: Stefano Boubeta
 colaboracion: OAJNU
 resumen: Durante la Guerra Fría, el mundo construyó una de las principales barreras contra la expansión de las armas nucleares: el Tratado de No Proliferación Nuclear. Desde 1970, el TNP intenta sostener un equilibrio entre tres objetivos: evitar que nuevos Estados desarrollen armas nucleares, avanzar hacia el desarme y garantizar el uso pacífico de la energía nuclear.

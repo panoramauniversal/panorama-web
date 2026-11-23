@@ -1,6 +1,7 @@
 ---
 titulo: Trump perdió el Congreso
 fecha: 2026-11-04
+region: América del Norte
 autores: Elvira Zavalía
 colaboracion: Prisma Internacional
 resumen: Los demócratas recuperaron ambas cámaras en las elecciones de medio término. ¿Por qué perdieron los republicanos y qué cambia realmente en Estados Unidos?

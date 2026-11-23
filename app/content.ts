@@ -14,15 +14,16 @@ export const links = {
 };
 
 export const nav = [
-  { href: "/#quienes-somos", label: "Quiénes somos" },
-  { href: "/#que-hacemos", label: "Qué hacemos" },
   { href: "/notas", label: "Notas" },
+  { href: "/#que-hacemos", label: "Qué hacemos" },
+  { href: "/#quienes-somos", label: "Quiénes somos" },
   { href: "/equipo", label: "Equipo" },
   { href: "/#sumate", label: "Sumate" },
 ];
 
 export const hero = {
   lema: "Entendé el mundo que viene",
+  etiquetas: ["Análisis internacional", "Independiente · Plural · Crítico · Abierto", "Desde 2024"],
   bajada:
     "Un espacio de análisis internacional y pensamiento crítico para las nuevas generaciones.",
 };

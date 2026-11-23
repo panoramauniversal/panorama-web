@@ -1,6 +1,7 @@
 ---
 titulo: Elecciones anticipadas en España: incertidumbre ante un escenario de tensión
 fecha: 2026-11-16
+region: Europa
 autores: Gabriela Alfonzo
 resumen: España vuelve a las urnas el 29 de noviembre. La incapacidad de aprobar las medidas de emergencia habitacional, sumada a la presión en las calles contra el aumento de los alquileres, desencadenó el adelanto electoral anunciado por Pedro Sánchez. Qué pasó en el Congreso, cuáles eran los puntos clave del plan rechazado y qué se juega el país en los próximos meses.
 imagen: /notas/elecciones-anticipadas-en-espana-incertidumbre-ante-un-escenario-de-tension.webp

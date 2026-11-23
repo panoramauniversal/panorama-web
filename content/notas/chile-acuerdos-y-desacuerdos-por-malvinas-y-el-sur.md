@@ -1,6 +1,7 @@
 ---
 titulo: Chile: acuerdos y desacuerdos por Malvinas y el Sur
 fecha: 2026-10-21
+region: América del Sur
 autores: Sofía Burgos
 colaboracion: Fundación Politeia
 resumen: ¿Puede un compromiso diplomático convivir con la habilitación de un corredor logístico hacia un territorio en disputa? La posible reactivación del comercio marítimo entre Punta Arenas y Puerto Argentino reabre el debate sobre los límites de la integración regional y la efectividad del reclamo soberano argentino en el Atlántico Sur.

@@ -1,6 +1,7 @@
 ---
 titulo: Cuatro rutas, una agenda: ¿qué busca el MERCOSUR con sus acuerdos comerciales?
 fecha: 2026-11-23
+region: América del Sur
 autores: Daniela Araque
 resumen: El MERCOSUR amplía su agenda externa con acuerdos y negociaciones que involucran a Europa, América del Norte, Asia y el Golfo. Qué busca con cada socio, en qué estado están los procesos y qué desafíos plantean para la integración regional.
 imagen: /notas/cuatro-rutas-una-agenda-que-busca-el-mercosur-con-sus-acuerdos-comerciales.webp
