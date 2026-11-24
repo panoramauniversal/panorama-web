@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import { Eyebrow, Footer, Header, MailLink } from "../../components";
+import { CabeceraPagina, Eyebrow, Footer, Header, MailLink } from "../../components";
 import { areas, getArea } from "../../equipo";
 import { TarjetaMiembro } from "../miembro";
 
@@ -53,18 +53,14 @@ export default async function AreaPage({ params }: Props) {
     <>
       <Header />
       <main>
-        <section className="bg-tierra text-crema">
-          <div className="mx-auto max-w-6xl px-4 py-16 sm:px-6 md:py-20">
-            <Link
-              href="/equipo"
-              className="text-sm font-medium text-crema/70 transition hover:text-oro"
-            >
-              ← Todo el equipo
-            </Link>
-            <h1 className="mt-6 text-4xl font-bold sm:text-5xl">{area.nombre}</h1>
-            <p className="mt-5 max-w-3xl text-lg text-crema/80">{area.descripcion}</p>
-          </div>
-        </section>
+        <CabeceraPagina
+          volver={{ href: "/equipo", label: "Todo el equipo" }}
+          etiqueta={`Equipo · ${area.integrantes.length} ${area.integrantes.length === 1 ? "integrante" : "integrantes"}`}
+          cursiva={area.nombre.split(" ")[0]}
+          bajada={area.descripcion}
+        >
+          {area.nombre.split(" ").slice(1).join(" ")}
+        </CabeceraPagina>
 
         <section className="mx-auto max-w-6xl px-4 py-16 sm:px-6 md:py-20">
           {area.integrantes.length > 2 ? (
@@ -100,27 +96,31 @@ export default async function AreaPage({ params }: Props) {
         </section>
 
         <section className="border-t border-tierra/10 bg-white">
-          <div className="mx-auto max-w-6xl px-4 py-12 sm:px-6">
-            <p className="mb-4 text-sm font-semibold uppercase tracking-widest text-tierra-suave">
-              Otras áreas
-            </p>
-            <ul className="flex flex-wrap gap-3">
+          <div className="mx-auto max-w-6xl px-4 py-14 sm:px-6">
+            <Eyebrow>Otras áreas</Eyebrow>
+            <ul className="mt-2 grid gap-3 md:grid-cols-2">
               {otras.map((a) => (
                 <li key={a.slug}>
                   <Link
                     href={`/equipo/${a.slug}`}
-                    className="block rounded-full border border-tierra/15 px-4 py-2 text-sm font-medium transition hover:border-oro hover:text-oro"
+                    className="group flex items-center justify-between gap-4 rounded-2xl border border-tierra/10 bg-crema px-5 py-4 transition hover:border-oro hover:shadow-md"
                   >
-                    {a.nombre}
+                    <span className="font-medium">{a.nombre}</span>
+                    <span className="text-oro transition group-hover:translate-x-1" aria-hidden>
+                      →
+                    </span>
                   </Link>
                 </li>
               ))}
               <li>
                 <Link
                   href="/equipo/voluntariado"
-                  className="block rounded-full bg-oro px-4 py-2 text-sm font-semibold transition hover:bg-tierra hover:text-crema"
+                  className="group flex items-center justify-between gap-4 rounded-2xl bg-oro px-5 py-4 transition hover:shadow-md"
                 >
-                  Voluntariado
+                  <span className="font-semibold">Voluntariado</span>
+                  <span className="transition group-hover:translate-x-1" aria-hidden>
+                    →
+                  </span>
                 </Link>
               </li>
             </ul>

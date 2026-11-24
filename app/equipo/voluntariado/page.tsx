@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
-import { Eyebrow, Footer, Header } from "../../components";
+import { CabeceraPagina, Eyebrow, Footer, Header, Titulo } from "../../components";
 import { links } from "../../content";
 import { voluntariado as v } from "../../voluntariado";
 
@@ -27,29 +27,23 @@ export default function VoluntariadoPage() {
     <>
       <Header />
       <main>
-        <section className="bg-tierra text-crema">
-          <div className="mx-auto max-w-6xl px-4 py-16 sm:px-6 md:py-20">
-            <Link
-              href="/equipo"
-              className="text-sm font-medium text-crema/70 transition hover:text-oro"
-            >
-              ← Todo el equipo
-            </Link>
-            <h1 className="mt-6 text-4xl font-bold sm:text-5xl">
-              Voluntariado <span className="font-serif italic text-oro">Panorama</span>
-            </h1>
-            <p className="mt-5 max-w-3xl text-lg text-crema/80">{v.intro}</p>
-            <BotonFormulario className="mt-8 bg-oro text-tierra hover:bg-crema" />
-          </div>
-        </section>
+        <CabeceraPagina
+          volver={{ href: "/equipo", label: "Todo el equipo" }}
+          etiqueta="Equipo · Voluntariado"
+          cursiva="Voluntariado"
+          bajada={v.intro}
+          extra={<BotonFormulario className="mt-8 bg-oro text-tierra hover:bg-crema" />}
+        >
+          Panorama
+        </CabeceraPagina>
 
         <section className="mx-auto max-w-6xl px-4 py-16 sm:px-6 md:py-20">
           <div className="grid gap-12 md:grid-cols-[1fr_1.4fr]">
             <div>
               <Eyebrow>Edición 2026</Eyebrow>
-              <h2 className="text-3xl font-bold leading-tight sm:text-4xl">
-                {v.edicion2026.titulo}
-              </h2>
+              <Titulo cursiva={v.edicion2026.titulo.split(" ")[0]}>
+                {v.edicion2026.titulo.split(" ").slice(1).join(" ")}
+              </Titulo>
               <div className="mt-6 space-y-5 text-lg leading-relaxed text-tierra-suave">
                 {v.edicion2026.texto.map((p) => (
                   <p key={p}>{p}</p>
@@ -79,12 +73,13 @@ export default function VoluntariadoPage() {
         <section className="bg-white">
           <div className="mx-auto max-w-6xl px-4 py-16 sm:px-6 md:py-20">
             <Eyebrow>Qué te ofrecemos</Eyebrow>
-            <h2 className="text-3xl font-bold leading-tight sm:text-4xl">
-              Aprender haciendo, con un equipo
-            </h2>
-            <ul className="mt-10 grid gap-5 sm:grid-cols-2 lg:grid-cols-4">
-              {v.queOfrecemos.map((item) => (
-                <li key={item.titulo} className="rounded-3xl bg-oro-claro p-6">
+            <Titulo cursiva="Aprender haciendo,">con un equipo</Titulo>
+            <ul className="mt-10 grid gap-px overflow-hidden rounded-3xl bg-tierra/10 sm:grid-cols-2 lg:grid-cols-4">
+              {v.queOfrecemos.map((item, i) => (
+                <li key={item.titulo} className="flex flex-col gap-6 bg-oro-claro p-6">
+                  <span className="font-serif text-3xl italic text-oro">
+                    {String(i + 1).padStart(2, "0")}
+                  </span>
                   <h3 className="text-lg font-semibold">{item.titulo}</h3>
                   <p className="mt-2 text-tierra-suave">{item.texto}</p>
                 </li>
@@ -95,6 +90,9 @@ export default function VoluntariadoPage() {
 
         <section className="mx-auto max-w-6xl px-4 py-16 sm:px-6 md:py-20">
           <Eyebrow>Cómo funciona</Eyebrow>
+          <Titulo cursiva="Paso" className="mb-10">
+            a paso
+          </Titulo>
           <ol className="grid gap-5 md:grid-cols-3">
             {v.comoFunciona.map((item, i) => (
               <li key={item.paso} className="rounded-3xl border border-tierra/10 bg-white p-7">
@@ -112,7 +110,9 @@ export default function VoluntariadoPage() {
         <section className="px-4 pb-20 sm:px-6 md:pb-28">
           <div className="mx-auto max-w-6xl rounded-3xl bg-oro px-8 py-14 text-center sm:px-16">
             <p className="text-xs font-semibold uppercase tracking-[0.25em]">Próxima convocatoria</p>
-            <h2 className="mt-3 text-3xl font-bold sm:text-4xl">{v.edicion2027.titulo}</h2>
+            <Titulo sobreOro cursiva={v.edicion2027.titulo.split(" ")[0]} className="mt-3">
+              {v.edicion2027.titulo.split(" ").slice(1).join(" ")}
+            </Titulo>
             <p className="mx-auto mt-4 max-w-2xl text-lg">{v.edicion2027.texto}</p>
             <BotonFormulario className="mt-8 bg-tierra text-crema hover:bg-crema hover:text-tierra" />
           </div>

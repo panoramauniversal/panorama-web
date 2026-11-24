@@ -61,6 +61,12 @@ export function getNota(slug: string) {
   return getNotas().find((n) => n.slug === slug);
 }
 
+// Fecha corta para tarjetas y listados: 23.11.2026.
+export function fechaCorta(fecha: string) {
+  const [a, m, d] = fecha.split("-");
+  return `${d}.${m}.${a}`;
+}
+
 export function formatearFecha(fecha: string) {
   return new Date(`${fecha}T12:00:00`).toLocaleDateString("es-AR", {
     day: "numeric",

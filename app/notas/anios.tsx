@@ -44,7 +44,9 @@ export function NotasPorAnio({ anios }: { anios: Anio[] }) {
       </nav>
       {anios.map((a) => (
         <section key={a.anio} hidden={a.anio !== activo}>
-          <h2 className="mb-6 font-serif text-3xl italic text-oro">{a.anio}</h2>
+          <h2 className="mb-6 border-b border-tierra pb-4 text-3xl font-bold tracking-tight">
+            <span className="font-serif font-medium italic text-oro">Notas</span> de {a.anio}
+          </h2>
           {a.contenido}
         </section>
       ))}

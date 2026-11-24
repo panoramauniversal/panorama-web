@@ -1,9 +1,9 @@
 import type { Metadata } from "next";
-import { BotonEscribir, Eyebrow, Footer, Header } from "../components";
+import { BotonEscribir, CabeceraPagina, Footer, Header } from "../components";
 import { NotasPorAnio } from "./anios";
 import { getNotas } from "./datos";
 import { PestanasNotas } from "./pestanas";
-import { TarjetaNota } from "./tarjeta";
+import { TarjetaDestacada, TarjetaNota } from "./tarjeta";
 
 export const metadata: Metadata = {
   title: "Notas | Panorama Universal",
@@ -18,28 +18,30 @@ export default function NotasPage() {
     <>
       <Header />
       <main>
-        <section className="bg-tierra text-crema">
-          <div className="mx-auto max-w-6xl px-4 py-16 sm:px-6 md:py-20">
-            <PestanasNotas activa="notas" />
-            <Eyebrow>Notas</Eyebrow>
-            <h1 className="text-4xl font-bold sm:text-5xl">
-              Análisis para entender{" "}
-              <span className="font-serif italic text-oro">el mundo que viene</span>
-            </h1>
-            <p className="mt-5 max-w-2xl text-lg text-crema/80">
-              Todas las notas de Panorama Universal sobre geopolítica, conflictos, elecciones,
-              economía y política exterior.
-            </p>
+        <CabeceraPagina
+          arriba={<PestanasNotas activa="notas" />}
+          etiqueta={`Notas · Archivo · ${notas.length} publicaciones`}
+          cursiva="Análisis"
+          bajada="Todas las notas de Panorama Universal sobre geopolítica, conflictos, elecciones, economía y política exterior."
+          extra={
             <div className="mt-8">
               <BotonEscribir light />
             </div>
-          </div>
-        </section>
+          }
+        >
+          para entender el mundo
+        </CabeceraPagina>
 
-        <div className="mx-auto max-w-6xl px-4 py-16 sm:px-6 md:py-20">
+        <div className="mx-auto max-w-6xl px-4 py-14 sm:px-6 md:py-20">
+          {notas[0] && (
+            <div className="mb-16">
+              <TarjetaDestacada nota={notas[0]} />
+            </div>
+          )}
           <NotasPorAnio
             anios={anios.map((anio) => {
-              const delAnio = notas.filter((n) => n.fecha.startsWith(anio));
+              // La destacada ya está arriba, así que no se repite en la grilla.
+              const delAnio = notas.filter((n) => n.fecha.startsWith(anio) && n.slug !== notas[0]?.slug);
               return {
                 anio,
                 contenido: (
