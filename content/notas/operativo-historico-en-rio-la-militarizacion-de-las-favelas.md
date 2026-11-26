@@ -1,6 +1,7 @@
 ---
 titulo: Operativo histórico en Río: la militarización de las favelas y el espejo del caso rosarino
 fecha: 2025-11-17
+region: América del Sur
 autores: Lautaro Badilla Gomez y Stefano Boubeta
 colaboracion: Repensar la Argentina
 resumen: El operativo más grande en la historia reciente de Río de Janeiro dejó más de 120 muertos y reavivó el debate sobre la militarización de las favelas. Con más de 2.500 agentes, helicópteros, blindados y drones, la ofensiva contra el Comando Vermelho paralizó barrios enteros y generó fuertes cuestionamientos por el uso desproporcionado de la fuerza.

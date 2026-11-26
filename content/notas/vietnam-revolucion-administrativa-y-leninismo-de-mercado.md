@@ -1,6 +1,7 @@
 ---
 titulo: Vietnam: revolución administrativa y leninismo de mercado
 fecha: 2025-07-14
+region: Asia
 autores: Valentino Dalla Valle
 resumen: ¿Qué significa una “revolución administrativa” en un régimen socialista? A fines de 2024, el Partido Comunista de Vietnam lanzó la reforma más profunda desde el Đổi Mới de 1986. Reducción de provincias, unificación de ministerios y despidos en la burocracia buscan sostener el crecimiento extraordinario de un modelo que combina planificación leninista con apertura al capital.
 imagen: /notas/vietnam-revolucion-administrativa-y-leninismo-de-mercado.webp

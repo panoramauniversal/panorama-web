@@ -1,6 +1,7 @@
 ---
 titulo: Arabia Saudita vs Emiratos Árabes: la guerra silenciosa que está redefiniendo Medio Oriente, África y el Mar Rojo
 fecha: 2026-02-02
+region: Medio Oriente
 autores: Santiago Simons
 resumen: Lo que comenzó como una alianza inquebrantable entre Mohammed bin Salman (MBS) y Mohammed bin Zayed (MBZ) se ha transformado en la rivalidad geopolítica más peligrosa de 2026. Desde los bombardeos saudíes en Yemen hasta la ruptura diplomática de Somalia con Abu Dhabi, el mapa de poder en Medio Oriente está cambiando drásticamente.
 imagen: /notas/arabia-saudita-vs-emiratos-arabes-la-guerra-silenciosa-que.webp

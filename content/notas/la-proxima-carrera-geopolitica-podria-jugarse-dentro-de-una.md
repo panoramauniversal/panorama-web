@@ -1,6 +1,7 @@
 ---
 titulo: La próxima carrera geopolítica podría jugarse dentro de una célula. Vacunas contra el cáncer, biotecnología y una nueva disputa por el poder
 fecha: 2026-09-16
+region: Global
 autores: Mariano Ratto
 colaboracion: Grupo Joven del CARI
 resumen: La carrera por las vacunas personalizadas contra el cáncer no se juega solamente en los laboratorios. También pone en disputa inversión, datos, capacidad productiva y dominio tecnológico. Mientras las grandes empresas avanzan, la biotecnología se consolida como una nueva fuente de poder económico y estratégico. ¿Qué lugar puede ocupar Argentina?

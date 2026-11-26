@@ -1,6 +1,7 @@
 ---
 titulo: AUKUS y la geopolítica del Indo-Pacífico
 fecha: 2025-04-28
+region: Asia
 autores: Joaquín Campoy
 resumen: La zona del indo-pacífico es el corazón del comercio mundial. Siendo uno de los puntos comerciales más transitados del mundo que permite conectar a distintos socios, por está razón es que también es una zona altamente disputada entre las grandes potencias mundiales. En base a lo anterior se formó AUKUS, una alianza entre Estados Unidos, Reino Unido y Australia que se centra principalmente en objetivos relacionados a la defensa y la tecnología.
 imagen: /notas/aukus-y-la-geopolitica-del-indo-pacifico.webp

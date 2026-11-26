@@ -1,6 +1,7 @@
 ---
 titulo: Malvinas también se juega en la cancha
 fecha: 2026-07-14
+region: Argentina
 autores: Santiago Simons
 resumen: Cada vez que Argentina e Inglaterra se enfrentan, el partido deja de ser solo fútbol. Detrás de esos noventa minutos existe un conflicto que comenzó en 1833 con la ocupación británica de las Islas Malvinas, tuvo su momento más dramático en la guerra de 1982 y continúa hasta hoy con una disputa de…
 imagen: /notas/malvinas-tambien-se-juega-en-la-cancha.webp

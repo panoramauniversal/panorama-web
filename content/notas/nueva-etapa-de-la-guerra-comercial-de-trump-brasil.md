@@ -1,6 +1,7 @@
 ---
 titulo: Nueva etapa de la guerra comercial de Trump: Brasil
 fecha: 2025-08-11
+region: América del Sur
 autores: Santiago Soratti
 resumen: El regreso de Donald Trump a la Casa Blanca reactivó el “America First” y con él, un nuevo capítulo de la guerra comercial. En enero, su administración anunció aranceles generalizados que no distinguen entre aliados y rivales, apuntando especialmente a frenar la influencia china y presionando a países alineados con los BRICS.
 imagen: /notas/nueva-etapa-de-la-guerra-comercial-de-trump-brasil.webp

@@ -1,6 +1,7 @@
 ---
 titulo: El Nacer del Nuevo Imperio Digital
 fecha: 2026-07-29
+region: Global
 autores: Luca Nava y Florencia Castelli
 colaboracion: Girly Politics
 resumen: Hoy en día, las fronteras se construyen con algoritmos y modelos de lenguaje y no con una pared de cemento. China busca convertir la IA en un bien público global para fracturar el monopolio de la innovación estadounidense. Este escenario invita a observar la reconfiguración del poder multipolar. Pekín despliega una “diplomacia de código abierto” hacia el Sur Global y, en simultáneo, refuerza su estricto control estatal interno.

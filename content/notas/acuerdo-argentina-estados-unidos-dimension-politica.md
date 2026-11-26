@@ -1,6 +1,7 @@
 ---
 titulo: Acuerdo Argentina-Estados Unidos: Dimensión política, económica y geopolítica
 fecha: 2026-02-17
+region: Argentina
 autores: Stefano Boubeta y Maximiliano Buteler
 colaboracion: Internacionalizarse
 resumen: Leímos el “Acuerdo de Comercio e Inversión Recíprocos” firmado entre Argentina y Estados Unidos el 5 de febrero. Más allá de titulares y declaraciones oficiales, el documento combina dimensiones comerciales, regulatorias, tecnológicas y geopolíticas que merecen una lectura integral.

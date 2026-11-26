@@ -1,6 +1,7 @@
 ---
 titulo: Declaración de Delhi 2026: el mayor acuerdo de la historia sobre IA
 fecha: 2026-03-06
+region: Asia
 autores: Santiago Simons
 colaboracion: Internacionalizarse
 resumen: Tras cinco días de tensiones y debates en Nueva Delhi, 91 países (incluyendo a EE.UU., China, Rusia y la UE) firmaron un acuerdo sin precedentes para fijar el rumbo de la Inteligencia Artificial. No se trata solo de tecnología; es una reconfiguración total del poder geopolítico, económico y social.

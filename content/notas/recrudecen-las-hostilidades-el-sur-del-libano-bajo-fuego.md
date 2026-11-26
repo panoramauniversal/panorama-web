@@ -1,6 +1,7 @@
 ---
 titulo: Recrudecen las hostilidades: El sur del Líbano bajo fuego israelí
 fecha: 2024-10-14
+region: Medio Oriente
 autores: Julián Arce
 resumen: Medio Oriente se ha caracterizado por sus enfrentamientos políticos y religiosos permanentes, donde se ponen en juego intereses de diversos tipos, que debilitan la posibilidad de construir la pacificación de la región. En estas últimas semanas, sumado a la guerra entre Israel y Hamás, se ha recrudecido el histórico conflicto entre Hezbollah y el pueblo israelí.
 imagen: /notas/recrudecen-las-hostilidades-el-sur-del-libano-bajo-fuego.webp

@@ -1,6 +1,7 @@
 ---
 titulo: Rizhao y la estrategia hídrica china
 fecha: 2026-01-26
+region: Asia
 autores: Tomás Vallica
 resumen: China avanza en una nueva fase de su política hídrica con la planta desalinizadora de Rizhao, un proyecto que combina innovación tecnológica, reducción de costos energéticos y planificación estatal de largo plazo en un contexto de creciente estrés hídrico.
 imagen: /notas/rizhao-y-la-estrategia-hidrica-china.webp

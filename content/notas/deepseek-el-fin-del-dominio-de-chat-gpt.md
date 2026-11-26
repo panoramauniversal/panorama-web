@@ -1,6 +1,7 @@
 ---
 titulo: Deepseek, ¿el fin del dominio de Chat GPT?
 fecha: 2025-02-10
+region: Asia
 autores: Santiago Soratti
 resumen: El lanzamiento de Deepseek, la nueva inteligencia artificial china de código abierto, desató un terremoto en Silicon Valley y Wall Street estas últimas semanas. Con una serie de ventajas en comparación a las apps estadounidenses, amenaza el dominio de OpenAI y Google, entre otras.
 imagen: /notas/deepseek-el-fin-del-dominio-de-chat-gpt.webp

@@ -1,6 +1,7 @@
 ---
 titulo: El Tratado BBNJ: un nuevo marco jurídico vinculante para la protección de la biodiversidad en el alta mar
 fecha: 2026-02-11
+region: Global
 autores: Milagros Portilla
 colaboracion: Internacionalizarse
 resumen: El pasado 17 de enero de 2026, entró en vigor el Tratado BBNJ en el marco de la Convención de las Naciones Unidas sobre el Derecho del Mar (UNCLOS/CONVEMAR) para conservar y usar de forma sostenible la biodiversidad marina más allá de las jurisdicciones nacionales. Este es el tercero en su tipo bajo la CONVEMAR, resultado de casi dos décadas de negociaciones en el seno de la Conferencia Intergubernamental de las Naciones Unidas.

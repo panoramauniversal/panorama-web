@@ -1,6 +1,7 @@
 ---
 titulo: El ajedrez de la paciencia: El nuevo curso diplomático entre China y Taiwán
 fecha: 2026-04-13
+region: Asia
 autores: Máximo González Cabañas
 resumen: En la anarquía del sistema internacional, China avanza en su objetivo de consolidarse como potencia dominante en su entorno inmediato, desplegando una estrategia que combina pragmatismo económico y presión política sobre Taiwán.
 imagen: /notas/el-ajedrez-de-la-paciencia-el-nuevo-curso-diplomatico-entre.webp

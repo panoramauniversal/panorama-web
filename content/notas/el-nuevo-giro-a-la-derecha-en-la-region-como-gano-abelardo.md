@@ -1,6 +1,7 @@
 ---
 titulo: El nuevo giro a la derecha en la región: ¿cómo ganó Abelardo de la Espriella?
 fecha: 2026-07-13
+region: América del Sur
 autores: Felipe Barrientos
 resumen: ¿Un país dividido o una democracia vibrante? Las elecciones en Colombia se definieron por medio de dos capítulos históricos. El camino hacia la presidencia se transformó en una carrera milimétrica que mantuvo en vilo a todo el continente por casi un mes.
 imagen: /notas/el-nuevo-giro-a-la-derecha-en-la-region-como-gano-abelardo.webp

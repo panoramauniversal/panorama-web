@@ -1,6 +1,7 @@
 ---
 titulo: Acercamiento de China, Corea del Sur y Japón: ¿nueva alianza o cooperación circunstancial?
 fecha: 2025-05-19
+region: Asia
 autores: Agustín Dal Ri
 resumen: A fines de marzo una reunión entre China, Corea del Sur y Japón sorprendió a muchos. A pesar de que se dió en el marco de discusiones comerciales, el contexto internacional puede dar a pensar que hay algo más allá de eso. ¿Acaso Trump logró que rivales históricos dejen de lado sus diferencias para confrontarlo?
 imagen: /notas/acercamiento-de-china-corea-del-sur-y-japon-nueva-alianza-o.webp

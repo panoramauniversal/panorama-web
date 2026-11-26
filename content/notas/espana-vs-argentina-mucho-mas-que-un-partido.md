@@ -1,6 +1,7 @@
 ---
 titulo: España vs. Argentina: mucho más que un partido
 fecha: 2026-07-18
+region: Argentina
 autores: Stefano Boubeta
 resumen: Cada vez que Argentina y España se enfrentan, también se cruzan más de 500 años de historia compartida. Desde la llegada de la Corona española al Río de la Plata y la independencia argentina, hasta las grandes olas migratorias que moldearon nuestra identidad y los vínculos políticos, económicos, culturales y deportivos que continúan hasta la actualidad.
 imagen: /notas/espana-vs-argentina-mucho-mas-que-un-partido.webp

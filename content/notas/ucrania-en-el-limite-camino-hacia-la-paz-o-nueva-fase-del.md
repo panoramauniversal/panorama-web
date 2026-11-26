@@ -1,6 +1,7 @@
 ---
 titulo: Ucrania en el límite: ¿Camino hacia la paz o nueva fase del conflicto?
 fecha: 2025-06-30
+region: Europa
 autores: Eva Morales
 resumen: Tras meses de estancamiento, la guerra en Ucrania entra en una nueva fase. Las negociaciones directas se han reanudado, pero lejos de frenar la violencia los ataques se han intensificado, especialmente por parte de Moscú. Mientras que las negociaciones entre Putin y Zelensky no encuentran puntos de convergencia.
 imagen: /notas/ucrania-en-el-limite-camino-hacia-la-paz-o-nueva-fase-del.webp

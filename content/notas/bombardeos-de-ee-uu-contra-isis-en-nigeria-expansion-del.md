@@ -1,6 +1,7 @@
 ---
 titulo: Bombardeos de EE.UU. contra ISIS en Nigeria: expansión del conflicto en África Occidental
 fecha: 2025-12-29
+region: África
 autores: Matías Moretti
 resumen: El reciente ataque aéreo de Estados Unidos contra posiciones del Estado Islámico en Nigeria vuelve a poner en primer plano la compleja dinámica de seguridad en África Occidental. En una región atravesada por violencia estructural, pobreza, disputas por recursos y avance del yihadismo, la intervención de una potencia externa reabre el debate sobre los límites y consecuencias de las respuestas militares.
 imagen: /notas/bombardeos-de-ee-uu-contra-isis-en-nigeria-expansion-del.webp

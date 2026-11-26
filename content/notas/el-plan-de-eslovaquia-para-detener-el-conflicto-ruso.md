@@ -1,6 +1,7 @@
 ---
 titulo: El Plan de Eslovaquia para Detener el Conflicto Ruso-Ucraniano
 fecha: 2025-01-20
+region: Europa
 autores: Jerónimo Zarlenga
 resumen: En el marco del conflicto entre Rusia y Ucrania encontramos ciertos países posicionados en situaciones sumamente complejas, como es el caso de Eslovaquia. La nación se encuentra dentro de la UE y OTAN pero es dependiente del gas y otros recursos energéticos rusos, por lo cual debe estar en una agotadora negociación constante con ambas partes de la guerra.
 imagen: /notas/el-plan-de-eslovaquia-para-detener-el-conflicto-ruso.webp

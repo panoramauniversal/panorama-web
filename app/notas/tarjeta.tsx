@@ -63,9 +63,6 @@ export function TarjetaDestacada({ nota }: { nota: Nota }) {
         </span>
       )}
       <div className="flex flex-col p-7 sm:p-9">
-        <p className="mb-4 text-[0.65rem] font-semibold uppercase tracking-[0.22em] text-oro">
-          Última nota
-        </p>
         <Datos nota={nota} />
         <h2 className="mt-3 text-2xl font-bold leading-snug sm:text-3xl">{nota.titulo}</h2>
         <p className="mt-4 line-clamp-4 text-tierra-suave">{nota.resumen}</p>

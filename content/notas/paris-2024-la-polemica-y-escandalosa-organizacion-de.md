@@ -1,6 +1,7 @@
 ---
 titulo: París 2024: La polémica y escandalosa organización de Francia en los JJ.OO
 fecha: 2024-08-05
+region: Europa
 autores: Franco de Reyes
 resumen: Desde el 24 de Julio hasta el 11 de Agosto se están disputando los JJ.OO de verano, edición N33. Este es uno de los eventos con mayor magnitud a nivel global, que se celebran cada 4 años y nos permite observar deportes que no son tan vistosos desde una visión marketinera. Pero no todo se basa en los deportes y en las ceremonias de entrega de medallas….
 imagen: /notas/paris-2024-la-polemica-y-escandalosa-organizacion-de.webp

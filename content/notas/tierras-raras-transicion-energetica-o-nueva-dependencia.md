@@ -1,6 +1,7 @@
 ---
 titulo: Tierras raras: ¿transición energética o nueva dependencia global?
 fecha: 2026-03-04
+region: Global
 autores: Agostina Granero
 colaboracion: Chicas en RRII
 resumen: Tu celular, los autos eléctricos, los aerogeneradores y hasta el avión de combate F-35 dependen de un grupo de 17 elementos casi desconocidos: las tierras raras. No son tan “raras” por su escasez, sino por lo complejo y costoso de extraerlas y procesarlas. China concentra cerca del 70% de la extracción mundial y alrededor del 90% del procesamiento global, lo que le otorga una ventaja estratégica clave en plena guerra comercial con Estados Unidos.

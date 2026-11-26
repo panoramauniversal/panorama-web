@@ -1,6 +1,7 @@
 ---
 titulo: Star Wars reeditado: La militarización del espacio ultraterrestre
 fecha: 2025-08-04
+region: Global
 autores: Pablo Azcurra Arndt
 resumen: En la actualidad, la agenda internacional y los intereses de los grandes actores alcanzan diferentes agendas de manera transversal a las mismas. En este contexto, la tecnología, el medio ambiente, el comercio, entre otros, son aspectos más notorios de los intereses políticos y la distribución del poder en el mundo. Sin embargo, aparecen también aspectos más contraintuitivos dentro de la agenda tal como lo es el caso del espacio ultraterrestre.
 imagen: /notas/star-wars-reeditado-la-militarizacion-del-espacio.webp

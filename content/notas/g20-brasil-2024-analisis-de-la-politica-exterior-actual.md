@@ -1,6 +1,7 @@
 ---
 titulo: G20 Brasil 2024: Análisis de la Política Exterior actual entre Brasil y Argentina
 fecha: 2024-11-11
+region: América del Sur
 autores: Franco de Reyes
 resumen: Esta semana comienza el G20 2024 en Brasil, el cuál tendrá una agenda orientada a lo social, primando aspectos como la lucha contra la desigualdad, la pobreza y el hambre. En línea con la agenda temática, se ha presentado una discrepancia entre Argentina y Brasil con respecto a las miradas ideológicas de sus líderes políticos.
 imagen: /notas/g20-brasil-2024-analisis-de-la-politica-exterior-actual.webp

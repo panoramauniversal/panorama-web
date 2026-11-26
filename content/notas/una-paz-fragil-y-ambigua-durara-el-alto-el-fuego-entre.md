@@ -1,6 +1,7 @@
 ---
 titulo: Una paz frágil y ambigua: ¿Durará el alto el fuego entre Israel y Hamas?
 fecha: 2025-01-27
+region: Medio Oriente
 autores: Ignacio Milman
 resumen: El domingo 19 comenzó el alto al fuego entre Israel y Hamas, luego de más de un año de guerra en Gaza. Este acuerdo, que constará de 3 fases, buscará la liberación de rehenes y presos políticos desde ambas partes, la pacificación de los territorios y la reconstrucción de la Franja. Sin embargo, una serie de contratiempos y desacuerdos hacen peligrar el cese del conflicto.
 imagen: /notas/una-paz-fragil-y-ambigua-durara-el-alto-el-fuego-entre.webp

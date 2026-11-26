@@ -1,6 +1,7 @@
 ---
 titulo: ¿Qué se define en la reforma de la Ley de Glaciares?
 fecha: 2026-03-02
+region: Argentina
 autores: Lucia Brizuela
 resumen: El pasado jueves 26 de febrero, el Senado dio media sanción al proyecto de ley remitido por el Poder Ejecutivo que introduce modificaciones a la Ley de Glaciares. El proyecto de ley que modifica el Régimen de Presupuestos Mínimos para la Preservación de los Glaciares y del Ambiente Periglacial fue aprobado con 40 votos afirmativos, 31 negativos y 1 abstención. Sin embargo, aún resta el tratamiento por parte de la Cámara baja.
 imagen: /notas/que-se-define-en-la-reforma-de-la-ley-de-glaciares.webp

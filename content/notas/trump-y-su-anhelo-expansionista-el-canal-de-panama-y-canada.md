@@ -1,6 +1,7 @@
 ---
 titulo: Trump y su anhelo expansionista: El Canal de Panamá y Canadá en la mira
 fecha: 2025-01-13
+region: América del Norte
 autores: Stefano Boubeta
 resumen: Con la llegada de Donald Trump a la presidencia de Estados Unidos el mundo se encuentra expectante de cara a su proyecto de país para los próximos años. Bajo el lema de Make América Great Again (MAGA) el presidente electo sigue una agenda de caracter nacionalista, proteccionista y expansionista.
 imagen: /notas/trump-y-su-anhelo-expansionista-el-canal-de-panama-y-canada.webp

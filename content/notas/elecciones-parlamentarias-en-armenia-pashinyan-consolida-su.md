@@ -1,6 +1,7 @@
 ---
 titulo: Elecciones parlamentarias en Armenia: Pashinyan consolida su poder y profundiza el giro geopolítico del país
 fecha: 2026-06-15
+region: Europa
 autores: Juan Pablo Murray
 resumen: Armenia votó y ratificó el rumbo impulsado por Nikol Pashinyan. Con una amplia victoria, el oficialismo logró los apoyos necesarios para formar gobierno y continuar una agenda marcada por el acercamiento a Occidente, las tensiones con Rusia y la búsqueda de un acuerdo de paz con Azerbaiyán.
 imagen: /notas/elecciones-parlamentarias-en-armenia-pashinyan-consolida-su.webp

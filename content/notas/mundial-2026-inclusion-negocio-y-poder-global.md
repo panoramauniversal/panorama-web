@@ -1,6 +1,7 @@
 ---
 titulo: Mundial 2026: inclusión, negocio y poder global
 fecha: 2026-08-20
+region: América del Norte
 autores: Luciana Navarro
 colaboracion: Soft Power Argentina
 resumen: El Mundial ha sido el más grande de la historia, pero su expansión no se explica solo por el fútbol. Más representación, nuevos mercados, legitimidad institucional y soft power convergen en un torneo que funcionó también como plataforma de poder global.

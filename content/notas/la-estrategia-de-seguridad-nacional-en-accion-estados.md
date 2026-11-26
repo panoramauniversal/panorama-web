@@ -1,6 +1,7 @@
 ---
 titulo: La Estrategia de Seguridad Nacional en acción: Estados Unidos en Venezuela
 fecha: 2026-01-12
+region: América del Sur
 autores: Camila Turner
 resumen: La política exterior de Estados Unidos atraviesa un punto de inflexión: la Estrategia de Seguridad Nacional empieza a reflejarse en decisiones concretas. En esta publicación analizamos cómo Washington traduce su doctrina en acciones, con Venezuela y el Hemisferio Occidental como ejes centrales.
 imagen: /notas/la-estrategia-de-seguridad-nacional-en-accion-estados.webp

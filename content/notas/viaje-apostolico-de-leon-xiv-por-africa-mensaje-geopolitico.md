@@ -1,6 +1,7 @@
 ---
 titulo: Viaje Apostólico de León XIV por África: Mensaje Geopolítico por la Paz
 fecha: 2026-05-20
+region: África
 autores: Felipe Barrientos
 colaboracion: Soft Power Argentina
 resumen: El Papa León XIV realizó una gira por el continente africano durante 11 días, recorrido que aprovechó para pronunciarse una vez más a favor de la paz y manifestándose en contra de la guerra y la corrupción, pidiendo por los derechos humanos, el buen uso de los recursos naturales y los derechos de los migrantes.

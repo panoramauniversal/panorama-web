@@ -1,6 +1,7 @@
 ---
 titulo: Inversiones chinas en Latam durante el siglo XXI
 fecha: 2026-06-18
+region: América del Sur
 autores: Guillermo Dellatorre
 resumen: Hace más de 30 años que la República Popular China presenta un crecimiento económico, social, político y una expansión geopolítica única y sin precedentes en su tipo. A través de distintas estrategias y pragmatismo frente a cada caso o desafío, ha logrado impactar en el mercado y el concierto internacional de naciones, encendiendo las alarmas de EEUU como gran potencia mundial.
 imagen: /notas/inversiones-chinas-en-latam-durante-el-siglo-xxi.webp

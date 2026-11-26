@@ -1,6 +1,7 @@
 ---
 titulo: Somalilandia: entre la autonomía consolidada y la soberanía disputada
 fecha: 2026-02-09
+region: África
 autores: Matías Moretti y Kevin Bryan
 colaboracion: Geográfica Historia
 resumen: Desde 1991, Somalilandia funciona como un Estado de facto: tiene gobierno propio, elecciones, fuerzas armadas y estabilidad relativa, en fuerte contraste con la crisis persistente de Somalia. Sin embargo, carece de reconocimiento internacional, lo que la ubica en una zona gris entre el control efectivo y la legalidad diplomática.

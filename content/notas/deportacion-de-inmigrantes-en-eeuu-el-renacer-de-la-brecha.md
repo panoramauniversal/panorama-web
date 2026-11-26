@@ -1,6 +1,7 @@
 ---
 titulo: Deportación de inmigrantes en EEUU: el renacer de la brecha entre Maduro y Trump
 fecha: 2025-05-05
+region: América del Norte
 autores: Williams Rodriguez
 resumen: En las últimas semanas, el gobierno de Donald Trump ordenó la deportación de migrantes venezolanos, alegando vínculos con el Tren de Aragua. Desde Caracas, el gobierno de Maduro respondió con críticas y repatriaciones. En esta publicación te contamos qué pasó, quiénes están involucrados y qué se juega detrás de esta medida.
 imagen: /notas/deportacion-de-inmigrantes-en-eeuu-el-renacer-de-la-brecha.webp

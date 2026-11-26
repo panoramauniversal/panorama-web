@@ -1,6 +1,7 @@
 ---
 titulo: Cumbre de la Organización de Cooperación de Shangai: nuevos movimientos de la multipolaridad
 fecha: 2025-09-15
+region: Asia
 autores: Agustín Dal Ri
 resumen: Iniciado septiembre se llevó adelante una reunión de líderes asiáticos en Tianjin, China, de la Organización de Cooperación de Shanghái (OCS). Este foro para debatir amplios temas, desde seguridad hasta temas nucleares y de IA, tuvo una convocatoria récord, destacándose las asistencias del presidente ruso Vladimir Putin y del primer ministro indio Narendra Modi.
 imagen: /notas/cumbre-de-la-organizacion-de-cooperacion-de-shangai-nuevos.webp

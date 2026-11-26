@@ -1,6 +1,7 @@
 ---
 titulo: De los imperios al mundo global: los ideales que construyeron y cuestionaron el orden internacional contemporáneo
 fecha: 2026-08-24
+region: Global
 autores: Lourdes Torres
 resumen: Del poder imperial del siglo XIX al sistema internacional actual, conceptos como progreso, libre comercio, libertad, democracia y soberanía fueron moldeando el orden mundial. Pero detrás de esos ideales persistió una constante: la disputa por el poder, los mercados y la influencia. ¿Cómo cambiaron las formas de dominación y qué queda hoy de aquella lógica imperial?
 imagen: /notas/de-los-imperios-al-mundo-global-los-ideales-que.webp

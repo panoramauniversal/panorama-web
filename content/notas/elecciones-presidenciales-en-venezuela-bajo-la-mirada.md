@@ -1,6 +1,7 @@
 ---
 titulo: Elecciones presidenciales en Venezuela bajo la mirada internacional
 fecha: 2024-08-26
+region: América del Sur
 autores: Williams Rodriguez
 resumen: El pasado 28 de julio, se llevaron a cabo las controversiales elecciones presidenciales en Venezuela bajo un clima de incertidumbre sobre quién es el verdadero ganador, y sobretodo abriendo de nuevo el debate acerca de si en Venezuela aún se respeta la democracia bajo la cual ha estado más de 60 años aproximadamente.
 imagen: /notas/elecciones-presidenciales-en-venezuela-bajo-la-mirada.webp

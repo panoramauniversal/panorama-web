@@ -1,6 +1,7 @@
 ---
 titulo: Cómo la guerra reconfigura las cadenas energéticas globales: petróleo, gas, exportaciones y efectos económicos
 fecha: 2026-03-28
+region: Global
 autores: Maximiliano Buteler y Stefano Boubeta
 colaboracion: Internacionalizarse
 resumen: La guerra entre Estados Unidos, Israel e Irán no impacta solo en Medio Oriente. También afecta infraestructuras clave del sistema energético internacional. Cuando aumenta el riesgo sobre producción y tránsito, aumenta también la presión sobre la economía global.

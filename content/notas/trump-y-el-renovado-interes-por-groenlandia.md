@@ -1,6 +1,7 @@
 ---
 titulo: Trump y el renovado interés por Groenlandia
 fecha: 2026-02-16
+region: América del Norte
 autores: Santiago Soratti
 resumen: El regreso de Donald Trump a la Casa Blanca reactivó una vieja ambición estratégica: la posibilidad de adquirir Groenlandia. Más allá de la polémica diplomática con Dinamarca y las tensiones dentro de la OTAN, el interés estadounidense se explica por tres factores centrales: recursos críticos, ubicación geopolítica en el Ártico y el impacto del cambio climático en las nuevas rutas marítimas.
 imagen: /notas/trump-y-el-renovado-interes-por-groenlandia.webp

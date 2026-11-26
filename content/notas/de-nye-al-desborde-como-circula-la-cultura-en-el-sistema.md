@@ -1,6 +1,7 @@
 ---
 titulo: De Nye al desborde: ¿cómo circula la cultura en el sistema internacional?
 fecha: 2026-05-11
+region: Global
 autores: Lucía Cobían
 resumen: Usar la cultura para proyectarse hacia afuera es tan antiguo como las relaciones entre comunidades. Lo que hizo el siglo XX fue institucionalizarlo en organismos, presupuestos, teoría. En 1990, Joseph Nye le puso nombre —soft power— a esa capacidad de generar influencia sin coerción. De ahí viene lo que entendemos por diplomacia cultural. El concepto tiene un problema. Asume que el Estado puede controlar siempre qué cultura se proyecta.
 imagen: /notas/de-nye-al-desborde-como-circula-la-cultura-en-el-sistema.webp

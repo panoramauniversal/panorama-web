@@ -1,6 +1,7 @@
 ---
 titulo: Alemania 2025: Elecciones en Tiempos de Crisis
 fecha: 2025-02-17
+region: Europa
 autores: Joaquín Campoy
 resumen: El presidente alemán, Frank-Walter Steinmeier, disolvió el Bundestag y convocó elecciones anticipadas para el 23 de febrero, luego de que el canciller Olaf Scholz perdiera su votación de confianza. El gobierno de coalición, formado por el SPD, Los Verdes y el FDP, se fracturó en medio de disputas internas y dificultades económicas, dejando al país en una situación de incertidumbre política.
 imagen: /notas/alemania-2025-elecciones-en-tiempos-de-crisis.webp

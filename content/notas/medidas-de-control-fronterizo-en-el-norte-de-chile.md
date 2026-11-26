@@ -1,6 +1,7 @@
 ---
 titulo: Medidas de control fronterizo en el norte de Chile
 fecha: 2026-04-20
+region: América del Sur
 autores: Felipe Barrientos
 resumen: A lo largo de 2025 y lo que va de 2026, la infraestructura en la frontera norte de Chile ha experimentado una transformación sin precedentes, sobre todo en los puntos críticos de las regiones de Arica, Parinacota y Tarapacá (Sectores de Chacalluta y Colchane). El objetivo central de estas obras es centralizar el flujo migratorio exclusivamente a través de pasos habilitados y combatir el crimen organizado trasnacional.
 imagen: /notas/medidas-de-control-fronterizo-en-el-norte-de-chile.webp

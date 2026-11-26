@@ -1,6 +1,7 @@
 ---
 titulo: El fútbol como herramienta de poder: Geopolítica y narrativa en la Copa Mundial de la FIFA 2026
 fecha: 2026-06-22
+region: Global
 autores: Adrián Tuninetti
 colaboracion: CoFEI
 resumen: La Copa del Mundo no es solo una competencia deportiva: también funciona como una plataforma de poder, visibilidad internacional y disputa política. El Mundial organizado por Estados Unidos, México y Canadá refleja varias tensiones del escenario global actual: diplomacia deportiva, soft power, seguridad, migración, intereses comerciales y narrativas de liderazgo.

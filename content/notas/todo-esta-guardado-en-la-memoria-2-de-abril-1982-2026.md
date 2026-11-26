@@ -1,6 +1,7 @@
 ---
 titulo: Todo está guardado en la memoria - 2 de abril (1982-2026)
 fecha: 2026-04-02
+region: Argentina
 autores: Karina Herrera
 resumen: Cada 2 de abril, Argentina recuerda a quienes lucharon y dieron su vida por la soberanía en las Islas Malvinas. A más de cuatro décadas del conflicto, la causa sigue vigente, atravesada por historia, memoria y una herida aún abierta en la identidad nacional. Más allá de los hechos bélicos, Malvinas también es una historia de jóvenes soldados, de solidaridad colectiva y de recuerdos que perduran en el tiempo.
 imagen: /notas/todo-esta-guardado-en-la-memoria-2-de-abril-1982-2026.webp

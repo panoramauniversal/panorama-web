@@ -1,6 +1,7 @@
 ---
 titulo: El motor europeo: Alemania, Francia y el proyecto E6
 fecha: 2026-03-23
+region: Europa
 autores: Joaquín Campoy y Alexis Sanchez
 resumen: En un contexto global cada vez más competitivo, seis potencias europeas impulsan el E6 para coordinar inversiones estratégicas y reforzar la autonomía del continente. La iniciativa busca fortalecer el rol del euro, mejorar la competitividad y reducir la dependencia externa, en medio del repliegue de Estados Unidos y el avance de China.
 imagen: /notas/el-motor-europeo-alemania-francia-y-el-proyecto-e6.webp

@@ -1,6 +1,7 @@
 ---
 titulo: La elección de los vicepresidentes, una estrategia de campaña
 fecha: 2024-09-02
+region: América del Norte
 autores: Camila Turner
 resumen: De cara a las próximas elecciones norteamericanas, los candidatos presidenciales buscan captar aquellos votos todavía indecisos. Una parte central de aquella estrategia es la elección de sus vicepresidentes. Esta publicación presenta cuál es la trayectoria de los candidatos y cómo esto puede aportar a la campaña de sus respectivos partidos.
 imagen: /notas/la-eleccion-de-los-vicepresidentes-una-estrategia-de-campana.webp

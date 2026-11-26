@@ -1,6 +1,7 @@
 ---
 titulo: El diálogo secreto entre Argentina y Reino Unido: el Atlántico Sur en disputa
 fecha: 2025-07-21
+region: Argentina
 autores: Luca Nava
 resumen: Argentina y Reino Unido han abierto un canal de diálogo militar secreto, que incluye cooperación técnica y revisión del embargo británico impuesto desde Malvinas. Este proceso se ve envuelto en una trama geopolítica compleja que incluye el apoyo estratégico de EEUU para contener a China y las disputas por el control de los recursos en la plataforma continental.
 imagen: /notas/el-dialogo-secreto-entre-argentina-y-reino-unido-el.webp

@@ -1,6 +1,7 @@
 ---
 titulo: Operación Resolve: El inicio del fin de una era en Venezuela
 fecha: 2026-01-05
+region: América del Sur
 autores: Williams Rodriguez
 resumen: La madrugada del 3 de enero de 2026 marca un antes y un después en la historia latinoamericana. Tras la ejecución de la "Operación Absolute Resolve", Estados Unidos ha capturado a Nicolás Maduro en Caracas, trasladándolo a Nueva York para enfrentar a la justicia. En esta publicación analizamos los puntos clave: Los detalles del operativo militar. La reacción internacional y el vacío de poder.
 imagen: /notas/operacion-resolve-el-inicio-del-fin-de-una-era-en-venezuela.webp

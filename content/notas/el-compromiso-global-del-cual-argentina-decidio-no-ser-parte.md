@@ -1,6 +1,7 @@
 ---
 titulo: El compromiso global del cuál Argentina decidió no ser parte
 fecha: 2024-11-04
+region: Argentina
 autores: Camila Turner
 resumen: El Pacto del Futuro establece la cooperación internacional hacia diversos objetivos de la Agenda 2030. El rechazo de Argentina despertó diversos debates respecto a la necesidad de acompañar el pacto. Esta publicación explica qué es el Pacto del Futuro y cuáles fueron los argumentos del gobierno argentino.
 imagen: /notas/el-compromiso-global-del-cual-argentina-decidio-no-ser-parte.webp

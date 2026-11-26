@@ -1,6 +1,7 @@
 ---
 titulo: Perú vs. Colombia: la disputa por Santa Rosa
 fecha: 2025-08-25
+region: América del Sur
 autores: Katia Gavric
 resumen: Una formación natural reciente reaviva una vieja tensión entre Perú y Colombia. Mientras el cauce del Amazonas sigue moviéndose, también lo hace la frontera. ¿Quién tiene soberanía sobre la isla Santa Rosa en el río Amazonas? La disputa por esta pequeña isla frente a Leticia (Colombia) y Tabatinga (Brasil) plantea un dilema entre derecho, geografía y política. ¿Alcanza con aplicar los tratados vigentes o se necesita un nuevo acuerdo?
 imagen: /notas/peru-vs-colombia-la-disputa-por-santa-rosa.webp

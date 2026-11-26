@@ -1,6 +1,7 @@
 ---
 titulo: República Democrática del Congo: un territorio geoestratégico y un grupo rebelde que avanza desenfrenadamente
 fecha: 2025-02-24
+region: África
 autores: Agostina Granero
 resumen: En lo que va del año, el grupo rebelde M23 ha tomado el control de las dos principales ciudades del este de la República Democrática del Congo, Goma y Bukavu. Consecuentemente, el grupo M23, respaldado por Ruanda, ha obtenido el total dominio de dos de los principales centros comerciales del país.
 imagen: /notas/republica-democratica-del-congo-un-territorio.webp

@@ -1,6 +1,7 @@
 ---
 titulo: Cambio climático y desertificación: la estrategia de China en su territorio
 fecha: 2024-09-23
+region: Asia
 autores: Tomás Vallica
 resumen: La crisis del cambio climático ha traído aparejadas diversas problemáticas ambientales, una de las principales es la desertificación, que avanza de gran manera en Asia Central desde hace décadas. Ante esto, desde finales de los 70, el gobierno chino ha llevado adelante un plan de mitigación para contrarrestar el avance y los efectos de los desiertos en su territorio, basándose en la forestación de las áreas vinculadas al Desierto de Gobi.
 imagen: /notas/cambio-climatico-y-desertificacion-la-estrategia-de-china.webp

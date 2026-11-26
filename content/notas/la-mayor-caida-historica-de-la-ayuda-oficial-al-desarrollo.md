@@ -1,6 +1,7 @@
 ---
 titulo: La mayor caída histórica de la Ayuda Oficial al Desarrollo (AOD)
 fecha: 2026-06-01
+region: Global
 autores: Martina Yannone
 colaboracion: Internacionalizarse
 resumen: “En un contexto global cada vez más fragmentado y competitivo, marcado por tensiones geopolíticas y una creciente reorientación de recursos hacia seguridad y defensa, los datos preliminares de la OCDE 2025 muestran una caída histórica de los flujos de Ayuda Oficial al Desarrollo (AOD).”

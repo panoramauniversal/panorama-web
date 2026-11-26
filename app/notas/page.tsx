@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import { BotonEscribir, CabeceraPagina, Footer, Header } from "../components";
-import { NotasPorAnio } from "./anios";
+import { NotasFiltradas } from "./anios";
 import { getNotas } from "./datos";
 import { PestanasNotas } from "./pestanas";
 import { TarjetaDestacada, TarjetaNota } from "./tarjeta";
@@ -20,7 +20,7 @@ export default function NotasPage() {
       <main>
         <CabeceraPagina
           arriba={<PestanasNotas activa="notas" />}
-          etiqueta={`Notas · Archivo · ${notas.length} publicaciones`}
+          etiqueta="Notas · Archivo"
           cursiva="Análisis"
           bajada="Todas las notas de Panorama Universal sobre geopolítica, conflictos, elecciones, economía y política exterior."
           extra={
@@ -35,26 +35,23 @@ export default function NotasPage() {
         <div className="mx-auto max-w-6xl px-4 py-14 sm:px-6 md:py-20">
           {notas[0] && (
             <div className="mb-16">
+              <p className="mb-3 text-xs font-semibold uppercase tracking-[0.25em] text-oro">
+                Última nota
+              </p>
               <TarjetaDestacada nota={notas[0]} />
             </div>
           )}
-          <NotasPorAnio
-            anios={anios.map((anio) => {
+          <NotasFiltradas
+            anios={anios}
+            items={notas
               // La destacada ya está arriba, así que no se repite en la grilla.
-              const delAnio = notas.filter((n) => n.fecha.startsWith(anio) && n.slug !== notas[0]?.slug);
-              return {
-                anio,
-                contenido: (
-                  <ul className="grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
-                    {delAnio.map((n) => (
-                      <li key={n.slug}>
-                        <TarjetaNota nota={n} />
-                      </li>
-                    ))}
-                  </ul>
-                ),
-              };
-            })}
+              .filter((n) => n.slug !== notas[0]?.slug)
+              .map((n) => ({
+                slug: n.slug,
+                anio: n.fecha.slice(0, 4),
+                region: n.region,
+                tarjeta: <TarjetaNota nota={n} />,
+              }))}
           />
         </div>
       </main>

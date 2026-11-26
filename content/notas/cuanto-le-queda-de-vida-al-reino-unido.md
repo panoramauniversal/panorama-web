@@ -1,6 +1,7 @@
 ---
 titulo: ¿Cuánto le queda de vida al Reino Unido?
 fecha: 2026-05-18
+region: Europa
 autores: Stefano Boubeta
 resumen: En un sistema internacional en constante mutación, la capacidad de resiliencia de las potencias tradicionales se encuentra diezmada por influjos tanto externos como internos. Las tensiones políticas, el rechazo a la centralización y los desafíos socioeconómicos ponen a prueba la integridad del Reino Unido, analizando si su estructura política y su proyección global podrán sostenerse frente a las fuerzas centrífugas del siglo XXI.
 imagen: /notas/cuanto-le-queda-de-vida-al-reino-unido.webp

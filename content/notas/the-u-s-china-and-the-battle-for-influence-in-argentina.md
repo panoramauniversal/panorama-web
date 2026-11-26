@@ -1,6 +1,7 @@
 ---
 titulo: The U.S., China, and the Battle for Influence in Argentina
 fecha: 2026-09-21
+region: Argentina
 autores: Ian Birnie
 resumen: Argentina is becoming a battleground between the U.S. and China, especially for technology, infrastructure, critical minerals, and investment. This carousel looks at how Argentina is working with both powers, and why that balance is becoming increasingly difficult to maintain.
 imagen: /notas/the-u-s-china-and-the-battle-for-influence-in-argentina.webp

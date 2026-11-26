@@ -1,6 +1,7 @@
 ---
 titulo: Tensiones en el Caribe: el conflicto entre Washington y Caracas
 fecha: 2025-09-08
+region: Centroamérica y Caribe
 autores: Joaquín Campoy
 resumen: Estados Unidos y Venezuela atraviesan uno de sus momentos más críticos en décadas. Washington desplegó fuerzas en el Caribe y designó al Cártel de los Soles y al Tren de Aragua como organizaciones terroristas, acusando a Nicolás Maduro de vínculos directos con estas redes criminales. En respuesta, Caracas movilizó tropas y milicianos, denunciando una amenaza contra su soberanía, llevando al máximo la escalada.
 imagen: /notas/tensiones-en-el-caribe-el-conflicto-entre-washington-y.webp

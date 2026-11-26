@@ -1,6 +1,7 @@
 ---
 titulo: El impacto del Criptogate en la economía argentina
 fecha: 2025-03-03
+region: Argentina
 autores: Sofia Selser
 resumen: Hace unas semanas, el presidente de Argentina, Javier Milei, se vió envuelto en un escándalo en torno al mundo de las criptomonedas. La promoción de Milei a un proyecto que devino en una supuesta estafa trajo un clima de incertidumbre y de desconfianza hacia la figura presidencial. Esto repercutió en los mercados y la cuestión recayó en la justicia.
 imagen: /notas/el-impacto-del-criptogate-en-la-economia-argentina.webp

@@ -1,6 +1,7 @@
 ---
 titulo: Los límites macroeconómicos del RIGI en Argentina
 fecha: 2026-09-23
+region: Argentina
 autores: Tomás Vallica
 colaboracion: Internacionalizarse
 resumen: La llegada de grandes inversiones en litio y otros minerales se encuentra en el centro de la estrategia económica nacional. Con el RIGI, el gobierno busca destrabar proyectos mineros clave ofreciendo estabilidad jurídica y cambiaria por 30 años. Sin embargo, economistas y analistas debaten si la falta de requisitos de transferencia tecnológica y de contratación local podría limitar este derrame, generando dinámicas de enclave a largo plazo.

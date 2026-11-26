@@ -1,6 +1,7 @@
 ---
 titulo: Argentina: Un actor clave contra el genocidio de los rohingya
 fecha: 2024-07-29
+region: Asia
 autores: Sofia Celiz
 resumen: El genocidio rohinyá es una limpieza étnica llevada a cabo por la policia y el ejército de Birmania en contra de la población musulmana, este proceso implicó una serie de masacres, violaciones y fuertes violaciones a la propiedad privada. En el marco de estos eventos Argentina se ha presentado en su política exterior como un actor que busca, a través de las herramientas del derecho internacional, el cese de este conflicto de manera definitiva.
 imagen: /notas/argentina-un-actor-clave-contra-el-genocidio-de-los-rohingya.webp

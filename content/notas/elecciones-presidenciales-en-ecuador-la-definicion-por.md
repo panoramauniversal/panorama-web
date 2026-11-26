@@ -1,6 +1,7 @@
 ---
 titulo: Elecciones presidenciales en Ecuador: la definición por balotaje
 fecha: 2025-04-07
+region: América del Sur
 autores: Luca Nava
 resumen: El pasado 9 de febrero de 2025 Ecuador acudió a las urnas para elegir a su próximo presidente en una contienda marcada por la polarización y la crisis económica y de seguridad que enfrenta el país.
 imagen: /notas/elecciones-presidenciales-en-ecuador-la-definicion-por.webp

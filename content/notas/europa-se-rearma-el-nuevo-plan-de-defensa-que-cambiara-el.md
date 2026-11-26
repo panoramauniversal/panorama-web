@@ -1,6 +1,7 @@
 ---
 titulo: Europa se Rearma: El Nuevo Plan de Defensa que Cambiará el Futuro del Continente
 fecha: 2025-03-31
+region: Europa
 autores: Eva Morales
 resumen: La creciente inestabilidad en el panorama internacional, impulsada por la reelección de Donald Trump y la intensificación de conflictos globales, ha llevado a la Unión Europea a diseñar un enfoque de seguridad más autónomo y resiliente. Este ambicioso plan busca redefinir el papel de Europa en la geopolítica global, reduciendo su dependencia de actores externos y fortaleciendo sus capacidades defensivas.
 imagen: /notas/europa-se-rearma-el-nuevo-plan-de-defensa-que-cambiara-el.webp

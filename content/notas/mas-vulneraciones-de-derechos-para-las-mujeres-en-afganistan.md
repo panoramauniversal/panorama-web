@@ -1,6 +1,7 @@
 ---
 titulo: Más vulneraciones de derechos para las mujeres en Afganistán
 fecha: 2024-09-16
+region: Asia
 autores: Lucia Brizuela
 resumen: Recientemente en Afganistán empezó a avanzar una nueva iniciativa con respecto al comportamiento de las mujeres reglamentado por el Estado, la Ley de Promoción de la Virtud y Prevención del Vicio, que cercena en buena medida las ya reducidas libertades que poseen las mujeres dentro del territorio nacional.
 imagen: /notas/mas-vulneraciones-de-derechos-para-las-mujeres-en-afganistan.webp

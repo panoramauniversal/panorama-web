@@ -1,6 +1,7 @@
 ---
 titulo: De Equinor a Buenos Aires: David Cairns, el embajador que enciende otra chispa en la Cuestión Malvinas
 fecha: 2025-10-06
+region: Argentina
 autores: Agostina Granero
 resumen: La reciente designación de David Cairns como nuevo embajador británico en Argentina encendió polémicas por su pasado en Equinor, compañía petrolera con proyectos en Vaca Muerta y en áreas offshore bajo disputa de soberanía. Su llegada se produce en paralelo al avance del proyecto Sea Lion en Malvinas, lo que refuerza la lectura de que Londres busca consolidar su presencia en el Atlántico Sur a través de la explotación de recursos energéticos.
 imagen: /notas/de-equinor-a-buenos-aires-david-cairns-el-embajador-que.webp

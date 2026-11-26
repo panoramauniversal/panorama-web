@@ -1,6 +1,7 @@
 ---
 titulo: Trump entre Putin y Zelensky: ¿es posible un acuerdo para terminar la guerra en Ucrania?
 fecha: 2025-09-01
+region: Europa
 autores: Stefano Boubeta
 resumen: La iniciativa de Donald Trump de posicionarse como mediador entre Putin y Zelensky busca proyectarlo como actor central en la resolución del conflicto en Ucrania. Sin embargo, las condiciones mínimas exigidas por Rusia y el rechazo ucraniano a ceder soberanía limitan cualquier margen de acuerdo.
 imagen: /notas/trump-entre-putin-y-zelensky-es-posible-un-acuerdo-para.webp

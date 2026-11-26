@@ -1,6 +1,7 @@
 ---
 titulo: ¿Cambio de régimen en Cuba? La nueva realidad de la isla
 fecha: 2026-03-16
+region: Centroamérica y Caribe
 autores: Agustín Dal Ri
 resumen: Las últimas noticias sobre Cuba mostraron que la isla atraviesa su peor momento energético tras el cambio de gobierno que Estados Unidos provocó en Venezuela. Más de la mitad del país se encuentra sin suministro eléctrico tras el bloqueo petrolero, y la retórica de Trump y otros funcionarios no para de pedir un cambio de régimen. En un contexto de economía hundida, migración alta y situación humanitaria preocupante, surge la pregunta.
 imagen: /notas/cambio-de-regimen-en-cuba-la-nueva-realidad-de-la-isla.webp

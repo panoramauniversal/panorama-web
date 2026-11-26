@@ -1,6 +1,7 @@
 ---
 titulo: Acuerdo UE–Mercosur: claves, costos y márgenes de maniobra
 fecha: 2026-01-21
+region: América del Sur
 autores: Maximiliano Buteler y Stefano Boubeta
 colaboracion: Internacionalizarse
 resumen: Tras 26 años de negociaciones, el acuerdo entre la Unión Europea y el Mercosur entra en una fase decisiva. A la discusión política se suma ahora la dimensión jurídica: el Parlamento Europeo remitió el acuerdo al Tribunal de Justicia de la UE para definir su encuadre legal y el procedimiento de ratificación. Esto no implica un rechazo, pero sí extiende los plazos y eleva la incertidumbre sobre su entrada en vigor.

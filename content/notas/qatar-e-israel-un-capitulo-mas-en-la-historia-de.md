@@ -1,6 +1,7 @@
 ---
 titulo: Qatar e Israel: un capítulo más en la historia de dependencias
 fecha: 2025-09-29
+region: Medio Oriente
 autores: Ignacio Milman
 resumen: El pasado 3 de septiembre, Doha fue escenario de un ataque israelí con misiles de precisión contra la cúpula negociadora de Hamas. Aunque los dirigentes sobrevivieron, seis personas murieron, lo que generó una fuerte condena de Qatar y tensiones con Washington, que quedó en una posición incómoda entre dos de sus aliados estratégicos más importantes.
 imagen: /notas/qatar-e-israel-un-capitulo-mas-en-la-historia-de.webp

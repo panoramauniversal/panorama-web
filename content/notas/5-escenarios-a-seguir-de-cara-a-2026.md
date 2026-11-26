@@ -1,6 +1,7 @@
 ---
 titulo: 5 escenarios a seguir de cara a 2026
 fecha: 2025-12-31
+region: Global
 autores: Sofía del Carril
 resumen: El próximo año estará marcado por una combinación de hitos simbólicos, disputas geopolíticas y transformaciones estructurales. Desde los 250 años de la independencia de Estados Unidos y la elección del nuevo Secretario General de la ONU, hasta la persistencia de conflictos abiertos y la creciente competencia tecnológica entre grandes potencias, 2026 se perfila como un año decisivo para el orden internacional.
 imagen: /notas/5-escenarios-a-seguir-de-cara-a-2026.webp

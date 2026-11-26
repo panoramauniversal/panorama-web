@@ -1,6 +1,7 @@
 ---
 titulo: La Revolución Cubana y sus ciclos
 fecha: 2026-08-03
+region: Centroamérica y Caribe
 autores: Guillermo Dellatorre
 resumen: Cuba representa un caso paradigmático y geopolíticamente relevante, en especial desde su revolución, la cual estalló en el año 1959. Desde ese entonces, ha sido escenario de conflictos y pujas entre distintas potencias por el dominio de la región latinoamericana. Su influencia en lo que EEUU llama su “patio trasero”, los conflictos y las tensiones con esta potencia perduran hasta el día de hoy.
 imagen: /notas/la-revolucion-cubana-y-sus-ciclos.webp

@@ -1,6 +1,7 @@
 ---
 titulo: ¿Qué ha pasado en Venezuela luego de las controvertidas elecciones? Una actualización de la cuestión
 fecha: 2024-10-28
+region: América del Sur
 autores: Williams Rodriguez
 resumen: Tras las controvertidas elecciones en Venezuela el pasado 28 de julio, la situación democrática venezolana se deteriora, afectando la legitimidad del gobierno de Nicolás Maduro. Edmundo González Urrutia recibió asilo en España tras ser forzado a abandonar el país. El Parlamento Europeo lo reconoció como presidente, junto a María Corina Machado como líder opositora.
 imagen: /notas/que-ha-pasado-en-venezuela-luego-de-las-controvertidas.webp

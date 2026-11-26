@@ -1,6 +1,7 @@
 ---
 titulo: Energía nuclear: ¿la nueva esperanza para el transporte marítimo?
 fecha: 2025-10-27
+region: Global
 autores: Santiago Soratti
 resumen: Corea del Sur dio un paso histórico al aprobar el primer buque de GNL propulsado por un reactor nuclear. Este avance podría transformar la industria naval mundial: un pequeño reactor modular (SMR) capaz de generar energía limpia, operar con una sola carga de combustible y eliminar las emisiones de gases de efecto invernadero.
 imagen: /notas/energia-nuclear-la-nueva-esperanza-para-el-transporte.webp

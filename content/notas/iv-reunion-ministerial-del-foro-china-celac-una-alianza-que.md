@@ -1,6 +1,7 @@
 ---
 titulo: IV Reunión Ministerial del Foro China-CELAC: ¿una alianza que desafía a Estados Unidos?
 fecha: 2025-06-09
+region: América del Sur
 autores: Agostina Granero
 resumen: China profundiza su presencia en América Latina: en la IV Reunión Ministerial del Foro China-CELAC, celebrada en Beijing, se anunciaron ambiciosas medidas de cooperación, incluyendo financiamiento millonario y la incorporación de Colombia a la Iniciativa de la Franja y la Ruta. Un claro mensaje en un escenario de competencia estratégica con Estados Unidos y una oportunidad clave para el Sur Global.
 imagen: /notas/iv-reunion-ministerial-del-foro-china-celac-una-alianza-que.webp

@@ -1,6 +1,7 @@
 ---
 titulo: Kast, nuevo presidente en Chile: ¿Cómo repercute en la región este nuevo giro a la derecha?
 fecha: 2025-12-22
+region: América del Sur
 autores: Gonzalo Bañez y Stefano Boubeta
 colaboracion: Grupo Joven del CARI
 resumen: La victoria de José Antonio Kast en el balotaje chileno marca un punto de inflexión político en la región. Su triunfo no sólo consolida el avance de gobiernos de derecha en el continente americano, sino que refuerza un eje centrado en seguridad, orden institucional y liberalismo económico. Chile busca ahora un rol estratégico en el escenario regional, con capacidad de influir en los debates políticos y en los próximos procesos electorales.
