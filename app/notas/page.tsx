@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { BotonEscribir, CabeceraPagina, Footer, Header } from "../components";
+import { BotonEscribir, CabeceraPagina, Footer, Header, Titulo } from "../components";
 import { NotasFiltradas } from "./anios";
 import { getNotas } from "./datos";
 import { PestanasNotas } from "./pestanas";
@@ -35,9 +35,9 @@ export default function NotasPage() {
         <div className="mx-auto max-w-6xl px-4 py-14 sm:px-6 md:py-20">
           {notas[0] && (
             <div className="mb-16">
-              <p className="mb-3 text-xs font-semibold uppercase tracking-[0.25em] text-oro">
-                Última nota
-              </p>
+              <Titulo cursiva="Última" className="mb-6">
+                nota
+              </Titulo>
               <TarjetaDestacada nota={notas[0]} />
             </div>
           )}
