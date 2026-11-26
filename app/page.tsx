@@ -1,8 +1,9 @@
 import Image from "next/image";
 import Link from "next/link";
-import { BotonEscribir, Eyebrow, Footer, Header, Titulo } from "./components";
+import { BotonEscribir, Eyebrow, Footer, Header, Titulo, lineasHero } from "./components";
 import { areas } from "./equipo";
 import { getNotas } from "./notas/datos";
+import { TarjetaNota } from "./notas/tarjeta";
 import {
   comunidad,
   hero,
@@ -18,12 +19,6 @@ import {
 } from "./content";
 
 
-
-// Líneas verticales finas de fondo del hero.
-const lineasHero = {
-  backgroundImage: "linear-gradient(to right, rgb(212 172 72 / 0.08) 1px, transparent 1px)",
-  backgroundSize: "calc(100% / 12) 100%",
-};
 
 function Hero() {
   const [primera, segunda] = [
@@ -192,11 +187,6 @@ function QueHacemos() {
   );
 }
 
-function fechaCorta(fecha: string) {
-  const [a, m, d] = fecha.split("-");
-  return `${d}.${m}.${a}`;
-}
-
 // Las últimas notas como tarjetas con foto, con la fecha y la región arriba.
 function UltimasNotas() {
   const notas = getNotas().slice(0, 3);
@@ -218,35 +208,7 @@ function UltimasNotas() {
       <ul className="mt-10 grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
         {notas.map((n) => (
           <li key={n.slug}>
-            <Link
-              href={`/notas/${n.slug}`}
-              className="group flex h-full flex-col overflow-hidden rounded-3xl border border-tierra/10 bg-white transition hover:-translate-y-1 hover:border-oro hover:shadow-lg"
-            >
-              {n.imagen && (
-                <Image
-                  src={n.imagen}
-                  alt=""
-                  width={800}
-                  height={450}
-                  sizes="(min-width: 1024px) 360px, (min-width: 640px) 50vw, 100vw"
-                  className="aspect-video w-full object-cover"
-                />
-              )}
-              <div className="flex flex-1 flex-col p-7">
-                <p className="flex flex-wrap items-center justify-between gap-2 text-xs font-semibold uppercase tracking-widest">
-                  <span>{fechaCorta(n.fecha)}</span>
-                  {n.region && <span className="text-oro">{n.region}</span>}
-                </p>
-                <h3 className="mt-3 text-xl font-bold leading-snug">{n.titulo}</h3>
-                <p className="mt-3 line-clamp-3 text-tierra-suave">{n.resumen}</p>
-                <div className="mt-auto flex items-end justify-between gap-4 pt-6 text-sm">
-                  <span className="text-tierra-suave">Por {n.autores}</span>
-                  <span className="shrink-0 font-semibold text-oro transition group-hover:translate-x-1">
-                    Leer →
-                  </span>
-                </div>
-              </div>
-            </Link>
+            <TarjetaNota nota={n} />
           </li>
         ))}
       </ul>

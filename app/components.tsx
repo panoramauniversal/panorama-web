@@ -23,6 +23,66 @@ export function Eyebrow({
   );
 }
 
+// Líneas verticales finas de fondo de los héroes oscuros.
+export const lineasHero = {
+  backgroundImage: "linear-gradient(to right, rgb(212 172 72 / 0.08) 1px, transparent 1px)",
+  backgroundSize: "calc(100% / 12) 100%",
+};
+
+// Cabecera oscura de las páginas internas: mismo estilo que el inicio de la portada.
+// El título arranca en cursiva dorada (`cursiva`) y sigue en negrita (`children`).
+export function CabeceraPagina({
+  etiqueta,
+  cursiva,
+  children,
+  bajada,
+  volver,
+  arriba,
+  extra,
+  className = "",
+}: {
+  etiqueta?: string;
+  cursiva: string;
+  children?: React.ReactNode;
+  bajada?: React.ReactNode;
+  volver?: { href: string; label: string };
+  arriba?: React.ReactNode;
+  extra?: React.ReactNode;
+  className?: string;
+}) {
+  return (
+    <section className={`relative overflow-hidden bg-tierra text-crema ${className}`}>
+      <div aria-hidden className="pointer-events-none absolute inset-0" style={lineasHero} />
+      <div
+        aria-hidden
+        className="pointer-events-none absolute -right-40 -top-40 h-[30rem] w-[30rem] rounded-full border-[3rem] border-oro/10"
+      />
+      <div className="relative mx-auto max-w-6xl px-4 py-14 sm:px-6 md:py-20">
+        {volver && (
+          <Link
+            href={volver.href}
+            className="mb-6 inline-block text-sm font-medium text-crema/70 transition hover:text-oro"
+          >
+            ← {volver.label}
+          </Link>
+        )}
+        {arriba}
+        {etiqueta && (
+          <p className="mb-5 text-[0.65rem] font-semibold uppercase tracking-[0.22em] text-oro">
+            {etiqueta}
+          </p>
+        )}
+        <h1 className="max-w-4xl text-4xl leading-[1.05] tracking-tight sm:text-6xl">
+          <span className="font-serif font-medium italic text-oro">{cursiva}</span>
+          {children && <span className="font-bold"> {children}</span>}
+        </h1>
+        {bajada && <div className="mt-6 max-w-2xl text-lg text-crema/80">{bajada}</div>}
+        {extra}
+      </div>
+    </section>
+  );
+}
+
 // Título de sección que arranca con una o más palabras en cursiva serif, como "*Quiénes* somos".
 export function Titulo({
   children,
