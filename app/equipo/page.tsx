@@ -24,15 +24,12 @@ export default function EquipoPage() {
 
         <section className="mx-auto max-w-6xl px-4 py-16 sm:px-6 md:py-20">
           <ol className="grid gap-px overflow-hidden rounded-3xl border border-tierra/10 bg-tierra/10 sm:grid-cols-2 lg:grid-cols-3">
-            {areas.map((a, i) => (
+            {areas.map((a) => (
               <li key={a.slug} className="bg-white">
                 <Link
                   href={`/equipo/${a.slug}`}
-                  className="group flex h-full min-h-64 flex-col gap-6 p-7 transition hover:bg-oro-claro"
+                  className="group flex h-full flex-col gap-6 p-7 transition hover:bg-oro-claro"
                 >
-                  <span className="font-serif text-3xl italic text-oro">
-                    {String(i + 1).padStart(2, "0")}
-                  </span>
                   <div>
                     <h2 className="text-xl font-semibold">{a.nombre}</h2>
                     <p className="mt-2 text-tierra-suave">{a.resumen}</p>
@@ -57,9 +54,6 @@ export default function EquipoPage() {
                 href="/equipo/voluntariado"
                 className="group flex h-full flex-col gap-6 p-7 md:flex-row md:items-center md:gap-10"
               >
-                <span className="font-serif text-3xl italic">
-                  {String(areas.length + 1).padStart(2, "0")}
-                </span>
                 <div>
                   <h2 className="text-xl font-semibold">Voluntariado</h2>
                   <p className="mt-2">
