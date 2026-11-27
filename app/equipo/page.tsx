@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
-import { Eyebrow, Footer, Header } from "../components";
+import { CabeceraPagina, Footer, Header } from "../components";
 import { areas } from "../equipo";
 import { Avatar } from "./miembro";
 
@@ -14,30 +14,30 @@ export default function EquipoPage() {
     <>
       <Header />
       <main>
-        <section className="bg-tierra text-crema">
-          <div className="mx-auto max-w-6xl px-4 py-16 sm:px-6 md:py-20">
-            <Eyebrow>Equipo</Eyebrow>
-            <h1 className="text-4xl font-bold sm:text-5xl">
-              Quiénes hacen <span className="font-serif italic text-oro">Panorama</span>
-            </h1>
-            <p className="mt-5 max-w-2xl text-lg text-crema/80">
-              Panorama funciona a través de un equipo directivo y secretarías, con el apoyo de un
-              equipo de voluntarios. Elegí un área para conocer qué hace y quiénes la integran.
-            </p>
-          </div>
-        </section>
+        <CabeceraPagina
+          etiqueta="Equipo"
+          cursiva="Quiénes hacen"
+          bajada="Panorama funciona a través de un equipo directivo y secretarías, con el apoyo de un equipo de voluntarios. Elegí un área para conocer qué hace y quiénes la integran."
+        >
+          Panorama
+        </CabeceraPagina>
 
         <section className="mx-auto max-w-6xl px-4 py-16 sm:px-6 md:py-20">
-          <ul className="grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
-            {areas.map((a) => (
-              <li key={a.slug}>
+          <ol className="grid gap-px overflow-hidden rounded-3xl border border-tierra/10 bg-tierra/10 sm:grid-cols-2 lg:grid-cols-3">
+            {areas.map((a, i) => (
+              <li key={a.slug} className="bg-white">
                 <Link
                   href={`/equipo/${a.slug}`}
-                  className="group flex h-full flex-col rounded-3xl border border-tierra/10 bg-white p-7 transition hover:-translate-y-1 hover:border-oro hover:shadow-lg"
+                  className="group flex h-full min-h-64 flex-col gap-6 p-7 transition hover:bg-oro-claro"
                 >
-                  <h2 className="text-xl font-semibold">{a.nombre}</h2>
-                  <p className="mt-2 text-tierra-suave">{a.resumen}</p>
-                  <div className="mt-auto flex items-center justify-between pt-6">
+                  <span className="font-serif text-3xl italic text-oro">
+                    {String(i + 1).padStart(2, "0")}
+                  </span>
+                  <div>
+                    <h2 className="text-xl font-semibold">{a.nombre}</h2>
+                    <p className="mt-2 text-tierra-suave">{a.resumen}</p>
+                  </div>
+                  <div className="mt-auto flex items-center justify-between">
                     <div className="flex -space-x-3">
                       {a.integrantes.map((p) => (
                         <span key={p.nombre} className="rounded-full ring-2 ring-white">
@@ -52,23 +52,27 @@ export default function EquipoPage() {
                 </Link>
               </li>
             ))}
-          </ul>
-
-          <Link
-            href="/equipo/voluntariado"
-            className="group mt-5 flex flex-col gap-4 rounded-3xl bg-oro p-8 transition hover:shadow-lg sm:flex-row sm:items-center sm:justify-between"
-          >
-            <div>
-              <h2 className="text-2xl font-bold">Voluntariado</h2>
-              <p className="mt-2 max-w-2xl">
-                Conocé cómo trabajan nuestros voluntarios y dejanos tus datos para la convocatoria
-                2027.
-              </p>
-            </div>
-            <span className="shrink-0 font-semibold transition group-hover:translate-x-1">
-              Ver voluntariado →
-            </span>
-          </Link>
+            <li className="bg-oro sm:col-span-2 lg:col-span-3">
+              <Link
+                href="/equipo/voluntariado"
+                className="group flex h-full flex-col gap-6 p-7 md:flex-row md:items-center md:gap-10"
+              >
+                <span className="font-serif text-3xl italic">
+                  {String(areas.length + 1).padStart(2, "0")}
+                </span>
+                <div>
+                  <h2 className="text-xl font-semibold">Voluntariado</h2>
+                  <p className="mt-2">
+                    Conocé cómo trabajan nuestros voluntarios y dejanos tus datos para la
+                    convocatoria 2027.
+                  </p>
+                </div>
+                <span className="mt-auto font-semibold transition group-hover:translate-x-1 md:ml-auto md:mt-0 md:shrink-0">
+                  Ver voluntariado →
+                </span>
+              </Link>
+            </li>
+          </ol>
         </section>
       </main>
       <Footer />
