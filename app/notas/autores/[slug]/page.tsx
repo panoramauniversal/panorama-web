@@ -1,12 +1,11 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import { Footer, Header } from "../../../components";
-import { areas, type Integrante } from "../../../equipo";
+import { Footer, Header, Titulo, lineasHero } from "../../../components";
 import { Avatar } from "../../../equipo/miembro";
-import { voluntarios } from "../../../voluntarios";
 import { redesDe } from "../../autores";
-import { getAutor, getAutorDeIntegrante, getAutores } from "../../datos";
+import { getAutor, getAutores } from "../../datos";
+import { buscarEnEquipo } from "../../equipo-autor";
 import { BotonesRedes } from "../../redes";
 import { TarjetaNota } from "../../tarjeta";
 
@@ -24,39 +23,42 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   return { title: titulo, description: descripcion, openGraph: { title: titulo, description: descripcion } };
 }
 
-// Si la persona forma parte del equipo o del voluntariado, usamos su foto, su cargo y su bio.
-// Se busca igual que el botón "Ver sus notas" de las tarjetas, para que siempre coincidan.
-function buscarEnEquipo(slug: string) {
-  const esElAutor = (p: Integrante) => getAutorDeIntegrante(p.autor ?? p.nombre)?.slug === slug;
-  for (const area of areas) {
-    const persona = area.integrantes.find(esElAutor);
-    if (persona) return { persona, cargo: `${persona.cargo} · ${area.nombre}` };
-  }
-  for (const { area, ...v } of voluntarios) {
-    const persona = { ...v, cargo: "Voluntariado" };
-    if (esElAutor(persona)) return { persona, cargo: `Voluntariado · ${area}` };
-  }
-}
-
 export default async function AutorPage({ params }: Props) {
   const autor = getAutor((await params).slug);
   if (!autor) notFound();
   const equipo = buscarEnEquipo(autor.slug);
   const redes = redesDe(autor.nombre);
+  // Las regiones sobre las que más escribe, de más a menos frecuente (hasta tres).
+  const cuenta = new Map<string, number>();
+  for (const n of autor.notas) if (n.region) cuenta.set(n.region, (cuenta.get(n.region) ?? 0) + 1);
+  const temas = [...cuenta.entries()]
+    .sort((x, y) => y[1] - x[1])
+    .slice(0, 3)
+    .map(([r]) => r);
 
   return (
     <>
       <Header />
       <main>
-        <section className="bg-tierra text-crema">
-          <div className="mx-auto max-w-6xl px-4 py-16 sm:px-6 md:py-20">
+        <section className="relative overflow-hidden bg-tierra text-crema">
+          <div aria-hidden className="pointer-events-none absolute inset-0" style={lineasHero} />
+          <div
+            aria-hidden
+            className="pointer-events-none absolute -right-40 -top-40 h-[30rem] w-[30rem] rounded-full border-[3rem] border-oro/10"
+          />
+          <div className="relative mx-auto max-w-6xl px-4 py-14 sm:px-6 md:py-20">
             <Link href="/notas/autores" className="text-sm font-medium text-crema/70 hover:text-oro">
               ← Todos los autores
             </Link>
             <div className="mt-8 flex flex-col gap-6 sm:flex-row sm:items-center">
               <Avatar persona={equipo?.persona ?? { nombre: autor.nombre, cargo: "" }} size="lg" />
               <div>
-                <h1 className="text-4xl font-bold sm:text-5xl">{autor.nombre}</h1>
+                <h1 className="text-4xl tracking-tight sm:text-6xl">
+                  <span className="font-serif font-medium italic text-oro">
+                    {autor.nombre.split(" ")[0]}
+                  </span>{" "}
+                  <span className="font-bold">{autor.nombre.split(" ").slice(1).join(" ")}</span>
+                </h1>
                 {equipo && (
                   <p className="mt-2 text-sm font-medium uppercase tracking-wider text-oro">
                     {equipo.cargo}
@@ -66,6 +68,12 @@ export default async function AutorPage({ params }: Props) {
                   {autor.notas.length} {autor.notas.length === 1 ? "nota publicada" : "notas publicadas"} en
                   Panorama Universal
                 </p>
+                {temas.length > 0 && (
+                  <p className="mt-2 text-sm text-crema/80">
+                    Escribe sobre{" "}
+                    <span className="font-semibold text-oro">{temas.join(" · ")}</span>
+                  </p>
+                )}
                 {redes && (
                   <div className="mt-4 flex flex-wrap gap-2">
                     <BotonesRedes redes={redes} light />
@@ -80,7 +88,9 @@ export default async function AutorPage({ params }: Props) {
         </section>
 
         <div className="mx-auto max-w-6xl px-4 py-16 sm:px-6 md:py-20">
-          <h2 className="mb-6 text-2xl font-bold">Sus notas</h2>
+          <Titulo cursiva="Sus" className="mb-8 border-b border-tierra pb-4">
+            notas
+          </Titulo>
           <ul className="grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
             {autor.notas.map((n) => (
               <li key={n.slug}>
